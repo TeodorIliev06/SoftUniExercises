@@ -1,0 +1,15 @@
+D:\C# exercises\Basics\While Loop - Exercise\06. Cake\bin\Debug\net6.0\06. Cake.exe
+D:\C# exercises\Basics\While Loop - Exercise\06. Cake\bin\Debug\net6.0\06. Cake.deps.json
+D:\C# exercises\Basics\While Loop - Exercise\06. Cake\bin\Debug\net6.0\06. Cake.runtimeconfig.json
+D:\C# exercises\Basics\While Loop - Exercise\06. Cake\bin\Debug\net6.0\06. Cake.dll
+D:\C# exercises\Basics\While Loop - Exercise\06. Cake\bin\Debug\net6.0\06. Cake.pdb
+D:\C# exercises\Basics\While Loop - Exercise\06. Cake\obj\Debug\net6.0\06. Cake.csproj.AssemblyReference.cache
+D:\C# exercises\Basics\While Loop - Exercise\06. Cake\obj\Debug\net6.0\06. Cake.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# exercises\Basics\While Loop - Exercise\06. Cake\obj\Debug\net6.0\06. Cake.AssemblyInfoInputs.cache
+D:\C# exercises\Basics\While Loop - Exercise\06. Cake\obj\Debug\net6.0\06. Cake.AssemblyInfo.cs
+D:\C# exercises\Basics\While Loop - Exercise\06. Cake\obj\Debug\net6.0\06. Cake.csproj.CoreCompileInputs.cache
+D:\C# exercises\Basics\While Loop - Exercise\06. Cake\obj\Debug\net6.0\06. Cake.dll
+D:\C# exercises\Basics\While Loop - Exercise\06. Cake\obj\Debug\net6.0\refint\06. Cake.dll
+D:\C# exercises\Basics\While Loop - Exercise\06. Cake\obj\Debug\net6.0\06. Cake.pdb
+D:\C# exercises\Basics\While Loop - Exercise\06. Cake\obj\Debug\net6.0\06. Cake.genruntimeconfig.cache
+D:\C# exercises\Basics\While Loop - Exercise\06. Cake\obj\Debug\net6.0\ref\06. Cake.dll

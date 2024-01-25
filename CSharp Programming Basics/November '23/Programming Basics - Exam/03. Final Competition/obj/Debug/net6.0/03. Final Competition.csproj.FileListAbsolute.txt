@@ -1,0 +1,15 @@
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\03. Final Competition\bin\Debug\net6.0\03. Final Competition.exe
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\03. Final Competition\bin\Debug\net6.0\03. Final Competition.deps.json
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\03. Final Competition\bin\Debug\net6.0\03. Final Competition.runtimeconfig.json
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\03. Final Competition\bin\Debug\net6.0\03. Final Competition.dll
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\03. Final Competition\bin\Debug\net6.0\03. Final Competition.pdb
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\03. Final Competition\obj\Debug\net6.0\03. Final Competition.csproj.AssemblyReference.cache
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\03. Final Competition\obj\Debug\net6.0\03. Final Competition.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\03. Final Competition\obj\Debug\net6.0\03. Final Competition.AssemblyInfoInputs.cache
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\03. Final Competition\obj\Debug\net6.0\03. Final Competition.AssemblyInfo.cs
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\03. Final Competition\obj\Debug\net6.0\03. Final Competition.csproj.CoreCompileInputs.cache
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\03. Final Competition\obj\Debug\net6.0\03. Final Competition.dll
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\03. Final Competition\obj\Debug\net6.0\refint\03. Final Competition.dll
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\03. Final Competition\obj\Debug\net6.0\03. Final Competition.pdb
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\03. Final Competition\obj\Debug\net6.0\03. Final Competition.genruntimeconfig.cache
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\03. Final Competition\obj\Debug\net6.0\ref\03. Final Competition.dll

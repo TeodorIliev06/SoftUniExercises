@@ -1,0 +1,15 @@
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\01. Christmas Preparation\bin\Debug\net6.0\01. Christmas Preparation.exe
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\01. Christmas Preparation\bin\Debug\net6.0\01. Christmas Preparation.deps.json
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\01. Christmas Preparation\bin\Debug\net6.0\01. Christmas Preparation.runtimeconfig.json
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\01. Christmas Preparation\bin\Debug\net6.0\01. Christmas Preparation.dll
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\01. Christmas Preparation\bin\Debug\net6.0\01. Christmas Preparation.pdb
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.csproj.AssemblyReference.cache
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.AssemblyInfoInputs.cache
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.AssemblyInfo.cs
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.csproj.CoreCompileInputs.cache
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.dll
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\01. Christmas Preparation\obj\Debug\net6.0\refint\01. Christmas Preparation.dll
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.pdb
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\01. Christmas Preparation\obj\Debug\net6.0\01. Christmas Preparation.genruntimeconfig.cache
+D:\C# exercises\Basics\Programming Basics Online Pre Exam\01. Christmas Preparation\obj\Debug\net6.0\ref\01. Christmas Preparation.dll

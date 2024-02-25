@@ -1,0 +1,15 @@
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net6.0\06. Balanced Brackets.exe
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net6.0\06. Balanced Brackets.deps.json
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net6.0\06. Balanced Brackets.runtimeconfig.json
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net6.0\06. Balanced Brackets.dll
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net6.0\06. Balanced Brackets.pdb
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\06. Balanced Brackets.csproj.AssemblyReference.cache
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\06. Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\06. Balanced Brackets.AssemblyInfoInputs.cache
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\06. Balanced Brackets.AssemblyInfo.cs
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\06. Balanced Brackets.csproj.CoreCompileInputs.cache
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\06. Balanced Brackets.dll
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\refint\06. Balanced Brackets.dll
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\06. Balanced Brackets.pdb
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\06. Balanced Brackets.genruntimeconfig.cache
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net6.0\ref\06. Balanced Brackets.dll

@@ -1,0 +1,15 @@
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring - Prime Checker\bin\Debug\net6.0\04. Refactoring - Prime Checker.exe
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring - Prime Checker\bin\Debug\net6.0\04. Refactoring - Prime Checker.deps.json
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring - Prime Checker\bin\Debug\net6.0\04. Refactoring - Prime Checker.runtimeconfig.json
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring - Prime Checker\bin\Debug\net6.0\04. Refactoring - Prime Checker.dll
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring - Prime Checker\bin\Debug\net6.0\04. Refactoring - Prime Checker.pdb
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring - Prime Checker\obj\Debug\net6.0\04. Refactoring - Prime Checker.csproj.AssemblyReference.cache
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring - Prime Checker\obj\Debug\net6.0\04. Refactoring - Prime Checker.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring - Prime Checker\obj\Debug\net6.0\04. Refactoring - Prime Checker.AssemblyInfoInputs.cache
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring - Prime Checker\obj\Debug\net6.0\04. Refactoring - Prime Checker.AssemblyInfo.cs
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring - Prime Checker\obj\Debug\net6.0\04. Refactoring - Prime Checker.csproj.CoreCompileInputs.cache
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring - Prime Checker\obj\Debug\net6.0\04. Refactoring - Prime Checker.dll
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring - Prime Checker\obj\Debug\net6.0\refint\04. Refactoring - Prime Checker.dll
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring - Prime Checker\obj\Debug\net6.0\04. Refactoring - Prime Checker.pdb
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring - Prime Checker\obj\Debug\net6.0\04. Refactoring - Prime Checker.genruntimeconfig.cache
+D:\C# exercises\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring - Prime Checker\obj\Debug\net6.0\ref\04. Refactoring - Prime Checker.dll

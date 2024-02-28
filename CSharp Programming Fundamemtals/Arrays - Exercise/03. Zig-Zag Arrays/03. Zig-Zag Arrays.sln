@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Zig-Zag Arrays", "03. Zig-Zag Arrays.csproj", "{B6363E3C-0821-4B43-A435-220FFD65F8E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6363E3C-0821-4B43-A435-220FFD65F8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6363E3C-0821-4B43-A435-220FFD65F8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6363E3C-0821-4B43-A435-220FFD65F8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6363E3C-0821-4B43-A435-220FFD65F8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77804A8A-C581-42D4-8B05-B7D5B9A3B289}
+	EndGlobalSection
+EndGlobal

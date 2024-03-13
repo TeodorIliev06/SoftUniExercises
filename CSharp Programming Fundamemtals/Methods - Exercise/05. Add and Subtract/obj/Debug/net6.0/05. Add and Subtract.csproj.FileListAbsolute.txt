@@ -1,0 +1,15 @@
+D:\C# exercises\Fundamentals\Methods - Exercise\05. Add and Subtract\bin\Debug\net6.0\05. Add and Subtract.exe
+D:\C# exercises\Fundamentals\Methods - Exercise\05. Add and Subtract\bin\Debug\net6.0\05. Add and Subtract.deps.json
+D:\C# exercises\Fundamentals\Methods - Exercise\05. Add and Subtract\bin\Debug\net6.0\05. Add and Subtract.runtimeconfig.json
+D:\C# exercises\Fundamentals\Methods - Exercise\05. Add and Subtract\bin\Debug\net6.0\05. Add and Subtract.dll
+D:\C# exercises\Fundamentals\Methods - Exercise\05. Add and Subtract\bin\Debug\net6.0\05. Add and Subtract.pdb
+D:\C# exercises\Fundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.csproj.AssemblyReference.cache
+D:\C# exercises\Fundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# exercises\Fundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.AssemblyInfoInputs.cache
+D:\C# exercises\Fundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.AssemblyInfo.cs
+D:\C# exercises\Fundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.csproj.CoreCompileInputs.cache
+D:\C# exercises\Fundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.dll
+D:\C# exercises\Fundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\refint\05. Add and Subtract.dll
+D:\C# exercises\Fundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.pdb
+D:\C# exercises\Fundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\05. Add and Subtract.genruntimeconfig.cache
+D:\C# exercises\Fundamentals\Methods - Exercise\05. Add and Subtract\obj\Debug\net6.0\ref\05. Add and Subtract.dll

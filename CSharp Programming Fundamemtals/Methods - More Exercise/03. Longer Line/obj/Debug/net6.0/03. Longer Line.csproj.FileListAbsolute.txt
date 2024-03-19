@@ -1,0 +1,15 @@
+D:\C# exercises\Fundamentals\Methods - More Exercise\03. Longer Line\bin\Debug\net6.0\03. Longer Line.exe
+D:\C# exercises\Fundamentals\Methods - More Exercise\03. Longer Line\bin\Debug\net6.0\03. Longer Line.deps.json
+D:\C# exercises\Fundamentals\Methods - More Exercise\03. Longer Line\bin\Debug\net6.0\03. Longer Line.runtimeconfig.json
+D:\C# exercises\Fundamentals\Methods - More Exercise\03. Longer Line\bin\Debug\net6.0\03. Longer Line.dll
+D:\C# exercises\Fundamentals\Methods - More Exercise\03. Longer Line\bin\Debug\net6.0\03. Longer Line.pdb
+D:\C# exercises\Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.csproj.AssemblyReference.cache
+D:\C# exercises\Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# exercises\Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.AssemblyInfoInputs.cache
+D:\C# exercises\Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.AssemblyInfo.cs
+D:\C# exercises\Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.csproj.CoreCompileInputs.cache
+D:\C# exercises\Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.dll
+D:\C# exercises\Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\net6.0\refint\03. Longer Line.dll
+D:\C# exercises\Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.pdb
+D:\C# exercises\Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\net6.0\03. Longer Line.genruntimeconfig.cache
+D:\C# exercises\Fundamentals\Methods - More Exercise\03. Longer Line\obj\Debug\net6.0\ref\03. Longer Line.dll

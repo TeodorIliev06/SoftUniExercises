@@ -1,0 +1,15 @@
+D:\C# exercises\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net6.0\07. Vehicle Catalogue.exe
+D:\C# exercises\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net6.0\07. Vehicle Catalogue.deps.json
+D:\C# exercises\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net6.0\07. Vehicle Catalogue.runtimeconfig.json
+D:\C# exercises\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net6.0\07. Vehicle Catalogue.dll
+D:\C# exercises\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net6.0\07. Vehicle Catalogue.pdb
+D:\C# exercises\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net6.0\07. Vehicle Catalogue.csproj.AssemblyReference.cache
+D:\C# exercises\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net6.0\07. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# exercises\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net6.0\07. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\C# exercises\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net6.0\07. Vehicle Catalogue.AssemblyInfo.cs
+D:\C# exercises\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net6.0\07. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\C# exercises\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net6.0\07. Vehicle Catalogue.dll
+D:\C# exercises\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net6.0\refint\07. Vehicle Catalogue.dll
+D:\C# exercises\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net6.0\07. Vehicle Catalogue.pdb
+D:\C# exercises\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net6.0\07. Vehicle Catalogue.genruntimeconfig.cache
+D:\C# exercises\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net6.0\ref\07. Vehicle Catalogue.dll

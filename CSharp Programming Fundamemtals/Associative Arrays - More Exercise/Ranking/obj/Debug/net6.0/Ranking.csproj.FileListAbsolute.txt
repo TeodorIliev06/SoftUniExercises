@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\Ranking\bin\Debug\net6.0\Ranking.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\Ranking\bin\Debug\net6.0\Ranking.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\Ranking\bin\Debug\net6.0\Ranking.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\Ranking\bin\Debug\net6.0\Ranking.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\Ranking\bin\Debug\net6.0\Ranking.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\Ranking\obj\Debug\net6.0\Ranking.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\Ranking\obj\Debug\net6.0\Ranking.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\Ranking\obj\Debug\net6.0\Ranking.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\Ranking\obj\Debug\net6.0\Ranking.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\Ranking\obj\Debug\net6.0\Ranking.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\Ranking\obj\Debug\net6.0\refint\Ranking.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\Ranking\obj\Debug\net6.0\Ranking.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\Ranking\obj\Debug\net6.0\Ranking.genruntimeconfig.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\Ranking\obj\Debug\net6.0\ref\Ranking.dll

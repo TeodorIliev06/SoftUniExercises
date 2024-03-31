@@ -1,0 +1,15 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\02. Judge\bin\Debug\net6.0\02. Judge.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\02. Judge\bin\Debug\net6.0\02. Judge.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\02. Judge\bin\Debug\net6.0\02. Judge.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\02. Judge\bin\Debug\net6.0\02. Judge.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\02. Judge\bin\Debug\net6.0\02. Judge.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\02. Judge\obj\Debug\net6.0\02. Judge.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\02. Judge\obj\Debug\net6.0\02. Judge.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\02. Judge\obj\Debug\net6.0\02. Judge.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\02. Judge\obj\Debug\net6.0\02. Judge.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\02. Judge\obj\Debug\net6.0\02. Judge.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\02. Judge\obj\Debug\net6.0\02. Judge.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\02. Judge\obj\Debug\net6.0\refint\02. Judge.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\02. Judge\obj\Debug\net6.0\02. Judge.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\02. Judge\obj\Debug\net6.0\02. Judge.genruntimeconfig.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - More Exercise\02. Judge\obj\Debug\net6.0\ref\02. Judge.dll

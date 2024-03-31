@@ -1,0 +1,15 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - Exercise\04. SoftUni Parking\bin\Debug\net6.0\04. SoftUni Parking.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - Exercise\04. SoftUni Parking\bin\Debug\net6.0\04. SoftUni Parking.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - Exercise\04. SoftUni Parking\bin\Debug\net6.0\04. SoftUni Parking.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - Exercise\04. SoftUni Parking\bin\Debug\net6.0\04. SoftUni Parking.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - Exercise\04. SoftUni Parking\bin\Debug\net6.0\04. SoftUni Parking.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - Exercise\04. SoftUni Parking\obj\Debug\net6.0\refint\04. SoftUni Parking.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.genruntimeconfig.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Associative Arrays - Exercise\04. SoftUni Parking\obj\Debug\net6.0\ref\04. SoftUni Parking.dll

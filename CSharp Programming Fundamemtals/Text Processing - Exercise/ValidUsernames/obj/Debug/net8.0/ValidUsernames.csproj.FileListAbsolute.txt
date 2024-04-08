@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net8.0\ValidUsernames.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net8.0\ValidUsernames.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net8.0\ValidUsernames.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net8.0\ValidUsernames.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net8.0\ValidUsernames.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\ValidUsernames.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\ValidUsernames.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\ValidUsernames.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\ValidUsernames.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\refint\ValidUsernames.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\ValidUsernames.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\ValidUsernames.genruntimeconfig.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\ref\ValidUsernames.dll

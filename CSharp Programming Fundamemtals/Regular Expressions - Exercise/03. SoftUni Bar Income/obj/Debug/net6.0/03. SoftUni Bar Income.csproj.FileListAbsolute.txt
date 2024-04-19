@@ -1,0 +1,15 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net6.0\03. SoftUni Bar Income.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net6.0\03. SoftUni Bar Income.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net6.0\03. SoftUni Bar Income.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net6.0\03. SoftUni Bar Income.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net6.0\03. SoftUni Bar Income.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net6.0\refint\03. SoftUni Bar Income.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net6.0\03. SoftUni Bar Income.genruntimeconfig.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net6.0\ref\03. SoftUni Bar Income.dll

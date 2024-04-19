@@ -1,0 +1,15 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net6.0\06. Extract Emails.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net6.0\06. Extract Emails.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net6.0\06. Extract Emails.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net6.0\06. Extract Emails.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net6.0\06. Extract Emails.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net6.0\refint\06. Extract Emails.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net6.0\06. Extract Emails.genruntimeconfig.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net6.0\ref\06. Extract Emails.dll

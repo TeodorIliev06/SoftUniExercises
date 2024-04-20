@@ -1,0 +1,15 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - More Exercise\03. Post Office\bin\Debug\net6.0\03. Post Office.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - More Exercise\03. Post Office\bin\Debug\net6.0\03. Post Office.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - More Exercise\03. Post Office\bin\Debug\net6.0\03. Post Office.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - More Exercise\03. Post Office\bin\Debug\net6.0\03. Post Office.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - More Exercise\03. Post Office\bin\Debug\net6.0\03. Post Office.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net6.0\03. Post Office.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net6.0\03. Post Office.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net6.0\03. Post Office.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net6.0\03. Post Office.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net6.0\03. Post Office.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net6.0\03. Post Office.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net6.0\refint\03. Post Office.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net6.0\03. Post Office.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net6.0\03. Post Office.genruntimeconfig.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Regular Expressions - More Exercise\03. Post Office\obj\Debug\net6.0\ref\03. Post Office.dll

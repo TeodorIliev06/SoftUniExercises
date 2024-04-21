@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam Prep\Dictionary\bin\Debug\net6.0\Dictionary.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam Prep\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam Prep\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam Prep\Dictionary\bin\Debug\net6.0\Dictionary.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam Prep\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam Prep\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam Prep\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam Prep\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam Prep\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam Prep\Dictionary\obj\Debug\net6.0\Dictionary.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam Prep\Dictionary\obj\Debug\net6.0\refint\Dictionary.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam Prep\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam Prep\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam Prep\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll

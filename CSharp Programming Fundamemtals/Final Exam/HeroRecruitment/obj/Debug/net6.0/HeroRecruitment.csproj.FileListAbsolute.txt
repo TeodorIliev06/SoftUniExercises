@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\HeroRecruitment\bin\Debug\net6.0\HeroRecruitment.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\HeroRecruitment\bin\Debug\net6.0\HeroRecruitment.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\HeroRecruitment\bin\Debug\net6.0\HeroRecruitment.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\HeroRecruitment\bin\Debug\net6.0\HeroRecruitment.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\HeroRecruitment\bin\Debug\net6.0\HeroRecruitment.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\HeroRecruitment\obj\Debug\net6.0\HeroRecruitment.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\HeroRecruitment\obj\Debug\net6.0\HeroRecruitment.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\HeroRecruitment\obj\Debug\net6.0\HeroRecruitment.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\HeroRecruitment\obj\Debug\net6.0\HeroRecruitment.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\HeroRecruitment\obj\Debug\net6.0\HeroRecruitment.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\HeroRecruitment\obj\Debug\net6.0\refint\HeroRecruitment.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\HeroRecruitment\obj\Debug\net6.0\HeroRecruitment.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\HeroRecruitment\obj\Debug\net6.0\HeroRecruitment.genruntimeconfig.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\HeroRecruitment\obj\Debug\net6.0\ref\HeroRecruitment.dll

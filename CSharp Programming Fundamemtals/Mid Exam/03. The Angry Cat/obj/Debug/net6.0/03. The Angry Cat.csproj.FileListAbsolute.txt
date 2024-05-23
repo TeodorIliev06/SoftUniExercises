@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Mid Exam\03. The Angry Cat\bin\Debug\net6.0\03. The Angry Cat.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Mid Exam\03. The Angry Cat\bin\Debug\net6.0\03. The Angry Cat.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Mid Exam\03. The Angry Cat\bin\Debug\net6.0\03. The Angry Cat.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Mid Exam\03. The Angry Cat\bin\Debug\net6.0\03. The Angry Cat.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Mid Exam\03. The Angry Cat\bin\Debug\net6.0\03. The Angry Cat.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Mid Exam\03. The Angry Cat\obj\Debug\net6.0\03. The Angry Cat.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Mid Exam\03. The Angry Cat\obj\Debug\net6.0\03. The Angry Cat.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Mid Exam\03. The Angry Cat\obj\Debug\net6.0\03. The Angry Cat.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Mid Exam\03. The Angry Cat\obj\Debug\net6.0\03. The Angry Cat.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Mid Exam\03. The Angry Cat\obj\Debug\net6.0\03. The Angry Cat.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Mid Exam\03. The Angry Cat\obj\Debug\net6.0\refint\03. The Angry Cat.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Mid Exam\03. The Angry Cat\obj\Debug\net6.0\03. The Angry Cat.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Mid Exam\03. The Angry Cat\obj\Debug\net6.0\03. The Angry Cat.genruntimeconfig.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Mid Exam\03. The Angry Cat\obj\Debug\net6.0\ref\03. The Angry Cat.dll

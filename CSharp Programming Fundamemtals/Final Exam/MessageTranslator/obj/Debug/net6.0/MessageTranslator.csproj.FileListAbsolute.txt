@@ -1,0 +1,14 @@
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\MessageTranslator\obj\Debug\net6.0\MessageTranslator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\MessageTranslator\obj\Debug\net6.0\MessageTranslator.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\MessageTranslator\obj\Debug\net6.0\MessageTranslator.AssemblyInfo.cs
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\MessageTranslator\obj\Debug\net6.0\MessageTranslator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\MessageTranslator\bin\Debug\net6.0\MessageTranslator.exe
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\MessageTranslator\bin\Debug\net6.0\MessageTranslator.deps.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\MessageTranslator\bin\Debug\net6.0\MessageTranslator.runtimeconfig.json
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\MessageTranslator\bin\Debug\net6.0\MessageTranslator.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\MessageTranslator\bin\Debug\net6.0\MessageTranslator.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\MessageTranslator\obj\Debug\net6.0\MessageTranslator.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\MessageTranslator\obj\Debug\net6.0\refint\MessageTranslator.dll
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\MessageTranslator\obj\Debug\net6.0\MessageTranslator.pdb
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\MessageTranslator\obj\Debug\net6.0\MessageTranslator.genruntimeconfig.cache
+D:\SoftUni\Programming Fundamentals with C# - септември 2023\Final Exam\MessageTranslator\obj\Debug\net6.0\ref\MessageTranslator.dll

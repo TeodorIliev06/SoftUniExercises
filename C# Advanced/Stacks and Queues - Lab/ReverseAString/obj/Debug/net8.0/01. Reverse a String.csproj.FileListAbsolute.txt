@@ -1,0 +1,28 @@
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\01. Reverse a String\bin\Debug\net8.0\01. Reverse a String.exe
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\01. Reverse a String\bin\Debug\net8.0\01. Reverse a String.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\01. Reverse a String\bin\Debug\net8.0\01. Reverse a String.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\01. Reverse a String\bin\Debug\net8.0\01. Reverse a String.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\01. Reverse a String\bin\Debug\net8.0\01. Reverse a String.pdb
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\01. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\01. Reverse a String.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\01. Reverse a String.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\01. Reverse a String.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\01. Reverse a String.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\refint\01. Reverse a String.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\01. Reverse a String.pdb
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\01. Reverse a String.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\ref\01. Reverse a String.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\01. Reverse a String\bin\Debug\net8.0\01. Reverse a String.exe
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\01. Reverse a String\bin\Debug\net8.0\01. Reverse a String.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\01. Reverse a String\bin\Debug\net8.0\01. Reverse a String.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\01. Reverse a String\bin\Debug\net8.0\01. Reverse a String.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\01. Reverse a String\bin\Debug\net8.0\01. Reverse a String.pdb
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\01. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\01. Reverse a String.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\01. Reverse a String.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\01. Reverse a String.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\01. Reverse a String.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\refint\01. Reverse a String.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\01. Reverse a String.pdb
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\01. Reverse a String.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\01. Reverse a String\obj\Debug\net8.0\ref\01. Reverse a String.dll

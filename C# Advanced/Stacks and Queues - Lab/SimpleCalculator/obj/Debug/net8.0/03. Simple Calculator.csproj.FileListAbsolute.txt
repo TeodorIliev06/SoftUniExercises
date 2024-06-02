@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\03. Simple Calculator\bin\Debug\net8.0\03. Simple Calculator.exe
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\03. Simple Calculator\bin\Debug\net8.0\03. Simple Calculator.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\03. Simple Calculator\bin\Debug\net8.0\03. Simple Calculator.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\03. Simple Calculator\bin\Debug\net8.0\03. Simple Calculator.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\03. Simple Calculator\bin\Debug\net8.0\03. Simple Calculator.pdb
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\03. Simple Calculator\obj\Debug\net8.0\03. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\03. Simple Calculator\obj\Debug\net8.0\03. Simple Calculator.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\03. Simple Calculator\obj\Debug\net8.0\03. Simple Calculator.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\03. Simple Calculator\obj\Debug\net8.0\03. Simple Calculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\03. Simple Calculator\obj\Debug\net8.0\03. Simple Calculator.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\03. Simple Calculator\obj\Debug\net8.0\refint\03. Simple Calculator.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\03. Simple Calculator\obj\Debug\net8.0\03. Simple Calculator.pdb
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\03. Simple Calculator\obj\Debug\net8.0\03. Simple Calculator.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\Stacks and Queues\03. Simple Calculator\obj\Debug\net8.0\ref\03. Simple Calculator.dll

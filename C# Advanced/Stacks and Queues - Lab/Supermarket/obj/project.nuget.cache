@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5xyplnNOIv4oH2Gqq5++XLdpL60K/wgsy13tQuPk50t4S0/BD6RGvVNG+tchrb2g5nziv283h2hHkX9viUFuA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - януари 2024\\Stacks and Queues\\06. Supermarket\\06. Supermarket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

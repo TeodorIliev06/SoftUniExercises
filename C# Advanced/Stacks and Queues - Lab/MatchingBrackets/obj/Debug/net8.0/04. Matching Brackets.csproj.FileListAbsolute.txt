@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\04. Matching Brackets\bin\Debug\net8.0\04. Matching Brackets.exe
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\04. Matching Brackets\bin\Debug\net8.0\04. Matching Brackets.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\04. Matching Brackets\bin\Debug\net8.0\04. Matching Brackets.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\04. Matching Brackets\bin\Debug\net8.0\04. Matching Brackets.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\04. Matching Brackets\bin\Debug\net8.0\04. Matching Brackets.pdb
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\04. Matching Brackets\obj\Debug\net8.0\04. Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\04. Matching Brackets\obj\Debug\net8.0\04. Matching Brackets.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\04. Matching Brackets\obj\Debug\net8.0\04. Matching Brackets.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\04. Matching Brackets\obj\Debug\net8.0\04. Matching Brackets.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\04. Matching Brackets\obj\Debug\net8.0\04. Matching Brackets.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\04. Matching Brackets\obj\Debug\net8.0\refint\04. Matching Brackets.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\04. Matching Brackets\obj\Debug\net8.0\04. Matching Brackets.pdb
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\04. Matching Brackets\obj\Debug\net8.0\04. Matching Brackets.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues\04. Matching Brackets\obj\Debug\net8.0\ref\04. Matching Brackets.dll

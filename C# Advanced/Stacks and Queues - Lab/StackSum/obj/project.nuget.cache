@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "juRgHUcMIiBgzYlGnX/c3Zx5l5SyeBZr+ZKWiKSyGfeGFZ9fRQEjFIIOkOUg/FgAxy2AF/xirodqNw77QerjAg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - януари 2024\\Stacks and Queues\\02. Stack Sum\\02. Stack Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{046D9FAF-8D20-4192-BD63-4841D6F54303}|CupsAndBottles\\12. Cups and Bottles.csproj|d:\\softuni\\c# advanced - jan 2024\\stacks and queues - exercise\\cupsandbottles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046D9FAF-8D20-4192-BD63-4841D6F54303}|CupsAndBottles\\12. Cups and Bottles.csproj|solutionrelative:cupsandbottles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6BF968-C921-4F58-98C4-2FA7056DBD66}|KeyRevolver\\11. Key Revolver.csproj|d:\\softuni\\c# advanced - jan 2024\\stacks and queues - exercise\\keyrevolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6BF968-C921-4F58-98C4-2FA7056DBD66}|KeyRevolver\\11. Key Revolver.csproj|solutionrelative:keyrevolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F814D2-B8A7-4F95-843F-E1D7BBC84A55}|Crossroads\\10. Crossroads.csproj|d:\\softuni\\c# advanced - jan 2024\\stacks and queues - exercise\\crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F814D2-B8A7-4F95-843F-E1D7BBC84A55}|Crossroads\\10. Crossroads.csproj|solutionrelative:crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F60C7A-84D6-44AA-A924-871D1D36568B}|SimpleTextEditor\\09. Simple Text Editor.csproj|d:\\softuni\\c# advanced - jan 2024\\stacks and queues - exercise\\simpletexteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F60C7A-84D6-44AA-A924-871D1D36568B}|SimpleTextEditor\\09. Simple Text Editor.csproj|solutionrelative:simpletexteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7906F4-CA40-49F0-9CFE-968D94925825}|BalancedParenthesis\\08. Balanced Parenthesis.csproj|d:\\softuni\\c# advanced - jan 2024\\stacks and queues - exercise\\balancedparenthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7906F4-CA40-49F0-9CFE-968D94925825}|BalancedParenthesis\\08. Balanced Parenthesis.csproj|solutionrelative:balancedparenthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE0A7C1-CC6B-492C-B060-3E120CFFEF20}|TruckTour\\07. Truck Tour.csproj|d:\\softuni\\c# advanced - jan 2024\\stacks and queues - exercise\\trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE0A7C1-CC6B-492C-B060-3E120CFFEF20}|TruckTour\\07. Truck Tour.csproj|solutionrelative:trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE4B711-9F02-4FDA-B63F-4A7D0DF8E6A2}|SongsQueue\\06. Songs Queue.csproj|d:\\softuni\\c# advanced - jan 2024\\stacks and queues - exercise\\songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE4B711-9F02-4FDA-B63F-4A7D0DF8E6A2}|SongsQueue\\06. Songs Queue.csproj|solutionrelative:songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C4CA8-63FC-4FE0-A3EA-581A99F3971F}|FashionBoutique\\05. Fashion Boutique.csproj|d:\\softuni\\c# advanced - jan 2024\\stacks and queues - exercise\\fashionboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5C4CA8-63FC-4FE0-A3EA-581A99F3971F}|FashionBoutique\\05. Fashion Boutique.csproj|solutionrelative:fashionboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491DE295-9573-4867-9F70-F96592E59904}|FastFood\\04. Fast Food.csproj|d:\\softuni\\c# advanced - jan 2024\\stacks and queues - exercise\\fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491DE295-9573-4867-9F70-F96592E59904}|FastFood\\04. Fast Food.csproj|solutionrelative:fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC13930-F480-441A-8785-E1A612D7F7EE}|MaximumAndMinimumElement\\03. Maximum and Minimum Element.csproj|d:\\softuni\\c# advanced - jan 2024\\stacks and queues - exercise\\maximumandminimumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC13930-F480-441A-8785-E1A612D7F7EE}|MaximumAndMinimumElement\\03. Maximum and Minimum Element.csproj|solutionrelative:maximumandminimumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B571F7FB-6DFC-4C33-AB81-B25024FAAE49}|BasicQueueOperations\\02. Basic Queue Operations.csproj|d:\\softuni\\c# advanced - jan 2024\\stacks and queues - exercise\\basicqueueoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B571F7FB-6DFC-4C33-AB81-B25024FAAE49}|BasicQueueOperations\\02. Basic Queue Operations.csproj|solutionrelative:basicqueueoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77508C5F-8D76-4326-8D20-DDC03E37547C}|BasicStackOperations\\01. Basic Stack Operations.csproj|d:\\softuni\\c# advanced - jan 2024\\stacks and queues - exercise\\basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77508C5F-8D76-4326-8D20-DDC03E37547C}|BasicStackOperations\\01. Basic Stack Operations.csproj|solutionrelative:basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\12. Cups and Bottles\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\11. Key Revolver\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\08. Balanced Parenthesis\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\10. Crossroads\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\04. Fast Food\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\03. Maximum and Minimum Element\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\07. Truck Tour\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\09. Simple Text Editor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\06. Songs Queue\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\05. Fashion Boutique\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\02. Basic Queue Operations\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\CupsAndBottles\\Program.cs",
+              "RelativeDocumentMoniker": "CupsAndBottles\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\CupsAndBottles\\Program.cs",
+              "RelativeToolTip": "CupsAndBottles\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwCEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:16:08.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\KeyRevolver\\Program.cs",
+              "RelativeDocumentMoniker": "KeyRevolver\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\KeyRevolver\\Program.cs",
+              "RelativeToolTip": "KeyRevolver\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:11:57.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\SimpleTextEditor\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleTextEditor\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\SimpleTextEditor\\Program.cs",
+              "RelativeToolTip": "SimpleTextEditor\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:09:39.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\BalancedParenthesis\\Program.cs",
+              "RelativeDocumentMoniker": "BalancedParenthesis\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\BalancedParenthesis\\Program.cs",
+              "RelativeToolTip": "BalancedParenthesis\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:08:26.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\TruckTour\\Program.cs",
+              "RelativeDocumentMoniker": "TruckTour\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\TruckTour\\Program.cs",
+              "RelativeToolTip": "TruckTour\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:06:20.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\SongsQueue\\Program.cs",
+              "RelativeDocumentMoniker": "SongsQueue\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\SongsQueue\\Program.cs",
+              "RelativeToolTip": "SongsQueue\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:05:15.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\FashionBoutique\\Program.cs",
+              "RelativeDocumentMoniker": "FashionBoutique\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\FashionBoutique\\Program.cs",
+              "RelativeToolTip": "FashionBoutique\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:04:10.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\FastFood\\Program.cs",
+              "RelativeDocumentMoniker": "FastFood\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\FastFood\\Program.cs",
+              "RelativeToolTip": "FastFood\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:02:46.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\Crossroads\\Program.cs",
+              "RelativeDocumentMoniker": "Crossroads\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\Crossroads\\Program.cs",
+              "RelativeToolTip": "Crossroads\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwC0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:01:48.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\MaximumAndMinimumElement\\Program.cs",
+              "RelativeDocumentMoniker": "MaximumAndMinimumElement\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\MaximumAndMinimumElement\\Program.cs",
+              "RelativeToolTip": "MaximumAndMinimumElement\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:01:19.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\BasicQueueOperations\\Program.cs",
+              "RelativeDocumentMoniker": "BasicQueueOperations\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\BasicQueueOperations\\Program.cs",
+              "RelativeToolTip": "BasicQueueOperations\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:59:53.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\BasicStackOperations\\Program.cs",
+              "RelativeDocumentMoniker": "BasicStackOperations\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\BasicStackOperations\\Program.cs",
+              "RelativeToolTip": "BasicStackOperations\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:58:31.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\12. Cups and Bottles\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\12. Cups and Bottles\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\12. Cups and Bottles\\Program.cs",
+              "RelativeToolTip": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\12. Cups and Bottles\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:54:20.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\11. Key Revolver\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\11. Key Revolver\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\11. Key Revolver\\Program.cs",
+              "RelativeToolTip": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\11. Key Revolver\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:54:20.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\08. Balanced Parenthesis\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\08. Balanced Parenthesis\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\08. Balanced Parenthesis\\Program.cs",
+              "RelativeToolTip": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\08. Balanced Parenthesis\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:54:20.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\10. Crossroads\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\10. Crossroads\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\10. Crossroads\\Program.cs",
+              "RelativeToolTip": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\10. Crossroads\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:54:20.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\04. Fast Food\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\04. Fast Food\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\04. Fast Food\\Program.cs",
+              "RelativeToolTip": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\04. Fast Food\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:54:20.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\03. Maximum and Minimum Element\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\03. Maximum and Minimum Element\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\03. Maximum and Minimum Element\\Program.cs",
+              "RelativeToolTip": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\03. Maximum and Minimum Element\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:54:20.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\07. Truck Tour\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\07. Truck Tour\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\07. Truck Tour\\Program.cs",
+              "RelativeToolTip": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\07. Truck Tour\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:54:20.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\09. Simple Text Editor\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\09. Simple Text Editor\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\09. Simple Text Editor\\Program.cs",
+              "RelativeToolTip": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\09. Simple Text Editor\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:54:20.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\06. Songs Queue\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\06. Songs Queue\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\06. Songs Queue\\Program.cs",
+              "RelativeToolTip": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\06. Songs Queue\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:54:20.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\05. Fashion Boutique\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\05. Fashion Boutique\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\05. Fashion Boutique\\Program.cs",
+              "RelativeToolTip": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\05. Fashion Boutique\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:54:20.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\02. Basic Queue Operations\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\02. Basic Queue Operations\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\02. Basic Queue Operations\\Program.cs",
+              "RelativeToolTip": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\02. Basic Queue Operations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:54:20.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\Program.cs",
+              "RelativeToolTip": "..\\..\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Stacks and Queues - Exercise\\01. Basic Stack Operations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:54:20.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

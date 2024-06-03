@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "G+ZanLF2DfRIHLPbb9uSst3+iQ/gOzM6d+mFTRVXt8Kn+MCg/qA9CCzAJLBTfTZzmLanviSikoPrXSb718sjFA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\KeyRevolver\\11. Key Revolver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

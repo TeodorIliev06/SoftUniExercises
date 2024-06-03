@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X1csUt7bF1/xPD8idfYP5B0O906YrgBpeLZgFZtQSdMDn7ugpthdkrBERT5yC1DqKNLmXACKb2J5u6bNyqin2Q==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\CupsAndBottles\\12. Cups and Bottles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

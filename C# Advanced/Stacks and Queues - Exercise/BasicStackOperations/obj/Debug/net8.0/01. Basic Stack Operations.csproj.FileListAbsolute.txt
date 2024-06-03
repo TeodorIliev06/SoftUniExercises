@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net8.0\01. Basic Stack Operations.exe
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net8.0\01. Basic Stack Operations.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net8.0\01. Basic Stack Operations.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net8.0\01. Basic Stack Operations.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\01. Basic Stack Operations\bin\Debug\net8.0\01. Basic Stack Operations.pdb
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net8.0\01. Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net8.0\01. Basic Stack Operations.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net8.0\01. Basic Stack Operations.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net8.0\01. Basic Stack Operations.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net8.0\01. Basic Stack Operations.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net8.0\refint\01. Basic Stack Operations.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net8.0\01. Basic Stack Operations.pdb
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net8.0\01. Basic Stack Operations.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\01. Basic Stack Operations\obj\Debug\net8.0\ref\01. Basic Stack Operations.dll

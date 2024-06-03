@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\net8.0\07. Truck Tour.exe
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\net8.0\07. Truck Tour.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\net8.0\07. Truck Tour.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\net8.0\07. Truck Tour.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\net8.0\07. Truck Tour.pdb
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net8.0\07. Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net8.0\07. Truck Tour.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net8.0\07. Truck Tour.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net8.0\07. Truck Tour.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net8.0\07. Truck Tour.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net8.0\refint\07. Truck Tour.dll
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net8.0\07. Truck Tour.pdb
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net8.0\07. Truck Tour.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\net8.0\ref\07. Truck Tour.dll

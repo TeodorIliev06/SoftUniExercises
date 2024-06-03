@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1AvfO9eNcSU6rTCpyWHYgxTO4lgvyB2m21sWUTwQpKcRW8TOe541fu3j4JNINY90TIxxKHZE8Oo/bR4f7QMCw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\BasicQueueOperations\\02. Basic Queue Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

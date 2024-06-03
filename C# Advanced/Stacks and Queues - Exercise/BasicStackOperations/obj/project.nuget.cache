@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZRrVd2wOAifb75a9TwyApgFz3V2AFHqW0hdJW1zjiN1LMWyjFJkUM59iEq3Ffpsm3fg2Dxo8Xns5AEo8dxPUlA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - Jan 2024\\Stacks and Queues - Exercise\\BasicStackOperations\\01. Basic Stack Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

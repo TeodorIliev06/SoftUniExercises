@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ggWGzpEw0GrNv96K5fnn9xq/wmAHN2PhWTGAxhGhH/LPgJ0PirAInQCZJf3oyZlUdXTI1gHVmlBMI6kXttzRKQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - януари 2024\\Multidimensional Arrays - Lab\\PascalTriangle\\07. Pascal Triangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

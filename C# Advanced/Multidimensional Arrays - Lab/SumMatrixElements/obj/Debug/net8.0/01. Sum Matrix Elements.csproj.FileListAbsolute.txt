@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\net8.0\01. Sum Matrix Elements.exe
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\net8.0\01. Sum Matrix Elements.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\net8.0\01. Sum Matrix Elements.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\net8.0\01. Sum Matrix Elements.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\net8.0\01. Sum Matrix Elements.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net8.0\01. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net8.0\01. Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net8.0\01. Sum Matrix Elements.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net8.0\01. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net8.0\01. Sum Matrix Elements.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net8.0\refint\01. Sum Matrix Elements.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net8.0\01. Sum Matrix Elements.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net8.0\01. Sum Matrix Elements.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\net8.0\ref\01. Sum Matrix Elements.dll

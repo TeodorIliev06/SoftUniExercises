@@ -1,0 +1,28 @@
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\02. Sum Matrix Columns\bin\Debug\net8.0\02. Sum Matrix Columns.exe
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\02. Sum Matrix Columns\bin\Debug\net8.0\02. Sum Matrix Columns.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\02. Sum Matrix Columns\bin\Debug\net8.0\02. Sum Matrix Columns.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\02. Sum Matrix Columns\bin\Debug\net8.0\02. Sum Matrix Columns.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\02. Sum Matrix Columns\bin\Debug\net8.0\02. Sum Matrix Columns.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net8.0\refint\02. Sum Matrix Columns.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\02. Sum Matrix Columns\obj\Debug\net8.0\ref\02. Sum Matrix Columns.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\SumMatrixColumns\bin\Debug\net8.0\02. Sum Matrix Columns.exe
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\SumMatrixColumns\bin\Debug\net8.0\02. Sum Matrix Columns.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\SumMatrixColumns\bin\Debug\net8.0\02. Sum Matrix Columns.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\SumMatrixColumns\bin\Debug\net8.0\02. Sum Matrix Columns.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\SumMatrixColumns\bin\Debug\net8.0\02. Sum Matrix Columns.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\SumMatrixColumns\obj\Debug\net8.0\02. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\SumMatrixColumns\obj\Debug\net8.0\02. Sum Matrix Columns.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\SumMatrixColumns\obj\Debug\net8.0\02. Sum Matrix Columns.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\SumMatrixColumns\obj\Debug\net8.0\02. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\SumMatrixColumns\obj\Debug\net8.0\02. Sum Matrix Columns.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\SumMatrixColumns\obj\Debug\net8.0\refint\02. Sum Matrix Columns.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\SumMatrixColumns\obj\Debug\net8.0\02. Sum Matrix Columns.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\SumMatrixColumns\obj\Debug\net8.0\02. Sum Matrix Columns.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\SumMatrixColumns\obj\Debug\net8.0\ref\02. Sum Matrix Columns.dll

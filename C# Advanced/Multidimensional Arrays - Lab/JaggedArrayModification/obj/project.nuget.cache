@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FmViIPg11px7RmgRzJp4dTE+W5A6wwBb6p0dpppYe7ehtUojz66YPhxKddajYcTZT45BxSn+qDLRlHPPMIv68A==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - януари 2024\\Multidimensional Arrays - Lab\\JaggedArrayModification\\06. Jagged-Array Modification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

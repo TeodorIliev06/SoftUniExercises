@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\net8.0\04. Symbol in Matrix.exe
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\net8.0\04. Symbol in Matrix.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\net8.0\04. Symbol in Matrix.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\net8.0\04. Symbol in Matrix.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\net8.0\04. Symbol in Matrix.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\refint\04. Symbol in Matrix.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\ref\04. Symbol in Matrix.dll

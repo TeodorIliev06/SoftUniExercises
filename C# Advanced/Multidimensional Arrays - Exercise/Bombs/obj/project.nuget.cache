@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZBAFb3ILpfg6mLVmRGGKl+uTouWyCtWxz6PEpFWgHwV2rZs7j8S5tyKuSxUqXkmgZmtMI9a1HUrwsoTnphIZBQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - Jan 2024\\Multidimensional Arrays - Exercise\\Bombs\\08. Bombs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

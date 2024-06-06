@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KnFTvk8g8jupga5M0OqQok4hNpB5fEZVt5wggRN05eZaT/vRbUZBwG+t5XuU3t4KxgqsL2qjexNKx+dZBAC0aQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - Jan 2024\\Multidimensional Arrays - Exercise\\MatrixShuffling\\04. Matrix Shuffling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

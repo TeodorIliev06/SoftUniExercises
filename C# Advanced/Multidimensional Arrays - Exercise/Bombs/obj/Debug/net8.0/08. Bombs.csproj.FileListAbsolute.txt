@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\net8.0\08. Bombs.exe
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\net8.0\08. Bombs.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\net8.0\08. Bombs.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\net8.0\08. Bombs.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\net8.0\08. Bombs.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\net8.0\08. Bombs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\net8.0\08. Bombs.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\net8.0\08. Bombs.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\net8.0\08. Bombs.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\net8.0\08. Bombs.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\net8.0\refint\08. Bombs.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\net8.0\08. Bombs.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\net8.0\08. Bombs.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\net8.0\ref\08. Bombs.dll

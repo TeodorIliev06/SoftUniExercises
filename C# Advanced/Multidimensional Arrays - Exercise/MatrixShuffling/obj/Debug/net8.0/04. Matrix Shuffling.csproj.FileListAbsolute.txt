@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net8.0\04. Matrix Shuffling.exe
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net8.0\04. Matrix Shuffling.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net8.0\04. Matrix Shuffling.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net8.0\04. Matrix Shuffling.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net8.0\04. Matrix Shuffling.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net8.0\04. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net8.0\04. Matrix Shuffling.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net8.0\04. Matrix Shuffling.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net8.0\04. Matrix Shuffling.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net8.0\04. Matrix Shuffling.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net8.0\refint\04. Matrix Shuffling.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net8.0\04. Matrix Shuffling.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net8.0\04. Matrix Shuffling.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net8.0\ref\04. Matrix Shuffling.dll

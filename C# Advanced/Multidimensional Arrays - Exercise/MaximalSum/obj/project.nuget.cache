@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cCM2l+SjUpjWF0wMU8bW8NPQ6XG0GwKe4R04Vh8h5vfc8kO9xX+ZpvP6pkLPMq+6utT9Qfei68KGIeH3Nks6lQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - Jan 2024\\Multidimensional Arrays - Exercise\\MaximalSum\\03. Maximal Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

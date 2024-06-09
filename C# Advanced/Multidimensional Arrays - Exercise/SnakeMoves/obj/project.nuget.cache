@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DzAZZJ3AqhZ0+o0bzhoWbm2wa8J2dSRpBOo1VEQDbDOT/A3WmwUUvXzRFnLYbsRP0O7rFm2u9NUCOUb3/OEOwQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - Jan 2024\\Multidimensional Arrays - Exercise\\SnakeMoves\\05. Snake Moves.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

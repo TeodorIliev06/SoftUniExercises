@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net8.0\05. Snake Moves.exe
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net8.0\05. Snake Moves.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net8.0\05. Snake Moves.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net8.0\05. Snake Moves.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net8.0\05. Snake Moves.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net8.0\05. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net8.0\05. Snake Moves.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net8.0\05. Snake Moves.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net8.0\05. Snake Moves.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net8.0\05. Snake Moves.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net8.0\refint\05. Snake Moves.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net8.0\05. Snake Moves.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net8.0\05. Snake Moves.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net8.0\ref\05. Snake Moves.dll

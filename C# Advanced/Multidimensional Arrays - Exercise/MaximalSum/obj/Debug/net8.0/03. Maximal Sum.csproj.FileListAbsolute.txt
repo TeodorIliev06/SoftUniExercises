@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\net8.0\03. Maximal Sum.exe
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\net8.0\03. Maximal Sum.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\net8.0\03. Maximal Sum.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\net8.0\03. Maximal Sum.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\net8.0\03. Maximal Sum.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net8.0\03. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net8.0\03. Maximal Sum.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net8.0\03. Maximal Sum.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net8.0\03. Maximal Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net8.0\03. Maximal Sum.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net8.0\refint\03. Maximal Sum.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net8.0\03. Maximal Sum.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net8.0\03. Maximal Sum.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net8.0\ref\03. Maximal Sum.dll

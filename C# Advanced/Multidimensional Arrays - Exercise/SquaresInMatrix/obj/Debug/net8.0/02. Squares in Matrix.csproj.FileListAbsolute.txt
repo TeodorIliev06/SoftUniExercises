@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\net8.0\02. Squares in Matrix.exe
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\net8.0\02. Squares in Matrix.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\net8.0\02. Squares in Matrix.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\net8.0\02. Squares in Matrix.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\net8.0\02. Squares in Matrix.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net8.0\02. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net8.0\02. Squares in Matrix.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net8.0\02. Squares in Matrix.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net8.0\02. Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net8.0\02. Squares in Matrix.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net8.0\refint\02. Squares in Matrix.dll
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net8.0\02. Squares in Matrix.pdb
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net8.0\02. Squares in Matrix.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net8.0\ref\02. Squares in Matrix.dll

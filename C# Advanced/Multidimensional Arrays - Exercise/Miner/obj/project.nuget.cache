@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Myf1DO0hxyk42l9Lme/4AfwPaE0ejTTy1JT5BVEMLyhUtZ8A7otgEz9cEKe8nOX7JRaYzHEf/B7BcW1GIhHoGg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - Jan 2024\\Multidimensional Arrays - Exercise\\Miner\\09. Miner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

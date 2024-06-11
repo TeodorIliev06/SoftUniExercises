@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fv1CS2AxNbBVZue2ryHlBKcnQfS/nStONDos3vwQnyO01Y0kw5b1LCteXYAIkDRg66ytwwi6aOSGr65gl9PrUQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - януари 2024\\Sets and Dictionaries Advanced - Lab\\05. Cities by Continent and Country\\05. Cities by Continent and Country.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

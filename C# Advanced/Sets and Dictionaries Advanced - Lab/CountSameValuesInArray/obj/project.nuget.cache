@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iMR3vItZbYYjZkFbmEp+/2wy4rxYzmSEmuaCO+EtLChz1aBB4ToT79H+/jNmXavbqnk2XAi//p4XoQr9ZjK4hQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - януари 2024\\Sets and Dictionaries Advanced - Lab\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

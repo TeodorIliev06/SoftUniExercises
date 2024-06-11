@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "96FCEdZaOA4TQIQA9cladoTZz4NzVQVnZczdI9ncZkGZ4GjRhsnHyr9J+SomEoqjQOA7U2YYyKa5mckFD3cvFg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - януари 2024\\Sets and Dictionaries Advanced - Lab\\06. Record Unique Names\\06. Record Unique Names.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

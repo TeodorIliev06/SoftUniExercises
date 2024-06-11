@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "56TkAg/b/3/zMNKHmUgRPg8EV7Qzd3A4cabRvchEzfD0iy41jk0pHNvIz5NAchBPtzCSCia/6dqZFPWdmotiSg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - януари 2024\\Sets and Dictionaries Advanced - Lab\\08. SoftUni Party\\08. SoftUni Party.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

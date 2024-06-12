@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net8.0\04. Even Times.exe
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net8.0\04. Even Times.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net8.0\04. Even Times.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net8.0\04. Even Times.dll
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net8.0\04. Even Times.pdb
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net8.0\04. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net8.0\04. Even Times.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net8.0\04. Even Times.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net8.0\04. Even Times.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net8.0\04. Even Times.dll
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net8.0\refint\04. Even Times.dll
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net8.0\04. Even Times.pdb
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net8.0\04. Even Times.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net8.0\ref\04. Even Times.dll

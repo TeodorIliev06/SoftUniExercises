@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WPlMlDlP/1pBeQK16jVVPn8DDyjmcVlZaDXvcStsQopWesQ2Lq8FkJ1x3ANQjJ6I26sGnAlyOKh5s+54Dkmw3Q==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - Jan 2024\\Sets and Dictionaries Advanced - Exercise\\TheV-Logger\\07. The V-Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

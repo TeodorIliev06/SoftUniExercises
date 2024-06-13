@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net8.0\09. SoftUni Exam Results.exe
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net8.0\09. SoftUni Exam Results.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net8.0\09. SoftUni Exam Results.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net8.0\09. SoftUni Exam Results.dll
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\bin\Debug\net8.0\09. SoftUni Exam Results.pdb
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net8.0\09. SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net8.0\09. SoftUni Exam Results.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net8.0\09. SoftUni Exam Results.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net8.0\09. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net8.0\09. SoftUni Exam Results.dll
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net8.0\refint\09. SoftUni Exam Results.dll
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net8.0\09. SoftUni Exam Results.pdb
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net8.0\09. SoftUni Exam Results.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Sets and Dictionaries Advanced - Exercise\09. SoftUni Exam Results\obj\Debug\net8.0\ref\09. SoftUni Exam Results.dll

@@ -1,0 +1,28 @@
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\FolderSize\bin\Debug\net6.0\07. Folder Size.exe
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\FolderSize\bin\Debug\net6.0\07. Folder Size.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\FolderSize\bin\Debug\net6.0\07. Folder Size.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\FolderSize\bin\Debug\net6.0\07. Folder Size.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\FolderSize\bin\Debug\net6.0\07. Folder Size.pdb
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\07. Folder Size.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\07. Folder Size.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\07. Folder Size.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\07. Folder Size.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\07. Folder Size.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\refint\07. Folder Size.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\07. Folder Size.pdb
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\07. Folder Size.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\FolderSize\obj\Debug\net6.0\ref\07. Folder Size.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\net6.0\07. Folder Size.exe
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\net6.0\07. Folder Size.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\net6.0\07. Folder Size.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\net6.0\07. Folder Size.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\07. Folder Size\bin\Debug\net6.0\07. Folder Size.pdb
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\07. Folder Size.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\07. Folder Size.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\07. Folder Size.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\07. Folder Size.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\07. Folder Size.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\refint\07. Folder Size.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\07. Folder Size.pdb
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\07. Folder Size.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\07. Folder Size\obj\Debug\net6.0\ref\07. Folder Size.dll

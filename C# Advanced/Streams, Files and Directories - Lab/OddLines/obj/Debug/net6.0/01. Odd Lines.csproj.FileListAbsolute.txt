@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\01. Odd Lines_Skeleton_6.0\Skeleton-Lab\OddLines\bin\Debug\net6.0\01. Odd Lines.exe
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\01. Odd Lines_Skeleton_6.0\Skeleton-Lab\OddLines\bin\Debug\net6.0\01. Odd Lines.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\01. Odd Lines_Skeleton_6.0\Skeleton-Lab\OddLines\bin\Debug\net6.0\01. Odd Lines.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\01. Odd Lines_Skeleton_6.0\Skeleton-Lab\OddLines\bin\Debug\net6.0\01. Odd Lines.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\01. Odd Lines_Skeleton_6.0\Skeleton-Lab\OddLines\bin\Debug\net6.0\01. Odd Lines.pdb
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\01. Odd Lines_Skeleton_6.0\Skeleton-Lab\OddLines\obj\Debug\net6.0\01. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\01. Odd Lines_Skeleton_6.0\Skeleton-Lab\OddLines\obj\Debug\net6.0\01. Odd Lines.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\01. Odd Lines_Skeleton_6.0\Skeleton-Lab\OddLines\obj\Debug\net6.0\01. Odd Lines.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\01. Odd Lines_Skeleton_6.0\Skeleton-Lab\OddLines\obj\Debug\net6.0\01. Odd Lines.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\01. Odd Lines_Skeleton_6.0\Skeleton-Lab\OddLines\obj\Debug\net6.0\01. Odd Lines.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\01. Odd Lines_Skeleton_6.0\Skeleton-Lab\OddLines\obj\Debug\net6.0\refint\01. Odd Lines.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\01. Odd Lines_Skeleton_6.0\Skeleton-Lab\OddLines\obj\Debug\net6.0\01. Odd Lines.pdb
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\01. Odd Lines_Skeleton_6.0\Skeleton-Lab\OddLines\obj\Debug\net6.0\01. Odd Lines.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Lab\01. Odd Lines_Skeleton_6.0\Skeleton-Lab\OddLines\obj\Debug\net6.0\ref\01. Odd Lines.dll

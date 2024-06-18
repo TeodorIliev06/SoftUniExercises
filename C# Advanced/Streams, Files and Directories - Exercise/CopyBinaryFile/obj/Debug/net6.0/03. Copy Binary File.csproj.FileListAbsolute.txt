@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.exe
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.pdb
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\refint\03. Copy Binary File.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.pdb
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\03. Copy Binary File\obj\Debug\net6.0\ref\03. Copy Binary File.dll

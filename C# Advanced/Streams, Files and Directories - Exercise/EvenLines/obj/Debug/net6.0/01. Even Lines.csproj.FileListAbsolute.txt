@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\EvenLines\bin\Debug\net6.0\01. Even Lines.exe
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\EvenLines\bin\Debug\net6.0\01. Even Lines.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\EvenLines\bin\Debug\net6.0\01. Even Lines.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\EvenLines\bin\Debug\net6.0\01. Even Lines.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\EvenLines\bin\Debug\net6.0\01. Even Lines.pdb
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\01. Even Lines.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\01. Even Lines.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\01. Even Lines.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\01. Even Lines.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\01. Even Lines.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\refint\01. Even Lines.dll
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\01. Even Lines.pdb
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\01. Even Lines.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Streams, Files and Directories - Exercises\EvenLines\obj\Debug\net6.0\ref\01. Even Lines.dll

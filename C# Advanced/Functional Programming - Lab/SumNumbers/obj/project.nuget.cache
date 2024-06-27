@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pS30ZDJB5AVPsbFec4EQJOmDOdzCsuKCH0FcZO8NZcAM3927+hpy/7iOw6thllHF4e7rAz/a/d7zDFymZYcf9Q==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - януари 2024\\Functional Programming - Lab\\02. Sum Numbers\\02. Sum Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

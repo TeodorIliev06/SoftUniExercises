@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Lab\05. Filter By Age\bin\Debug\net8.0\05. Filter By Age.exe
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Lab\05. Filter By Age\bin\Debug\net8.0\05. Filter By Age.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Lab\05. Filter By Age\bin\Debug\net8.0\05. Filter By Age.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Lab\05. Filter By Age\bin\Debug\net8.0\05. Filter By Age.dll
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Lab\05. Filter By Age\bin\Debug\net8.0\05. Filter By Age.pdb
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Lab\05. Filter By Age\obj\Debug\net8.0\05. Filter By Age.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Lab\05. Filter By Age\obj\Debug\net8.0\05. Filter By Age.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Lab\05. Filter By Age\obj\Debug\net8.0\05. Filter By Age.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Lab\05. Filter By Age\obj\Debug\net8.0\05. Filter By Age.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Lab\05. Filter By Age\obj\Debug\net8.0\05. Filter By Age.dll
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Lab\05. Filter By Age\obj\Debug\net8.0\refint\05. Filter By Age.dll
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Lab\05. Filter By Age\obj\Debug\net8.0\05. Filter By Age.pdb
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Lab\05. Filter By Age\obj\Debug\net8.0\05. Filter By Age.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Lab\05. Filter By Age\obj\Debug\net8.0\ref\05. Filter By Age.dll

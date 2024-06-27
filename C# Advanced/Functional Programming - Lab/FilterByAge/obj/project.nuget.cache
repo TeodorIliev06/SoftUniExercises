@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YNzYtr0CeEENmvES/JuubQODeYnCdsik7VEx0QDi3CDwNRM2xMFxLpm46/X1MA9GKk1qs9LUM7YW9Nq2TlJWAA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\C# Advanced - януари 2024\\Functional Programming - Lab\\05. Filter By Age\\05. Filter By Age.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

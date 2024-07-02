@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net8.0\06. Reverse And Exclude.exe
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net8.0\06. Reverse And Exclude.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net8.0\06. Reverse And Exclude.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net8.0\06. Reverse And Exclude.dll
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net8.0\06. Reverse And Exclude.pdb
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\06. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\06. Reverse And Exclude.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\06. Reverse And Exclude.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\06. Reverse And Exclude.dll
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\refint\06. Reverse And Exclude.dll
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\06. Reverse And Exclude.pdb
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\06. Reverse And Exclude.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\ref\06. Reverse And Exclude.dll

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A305A1B8-7DA7-4D87-ACD2-000FD2A7F089}|TriFunction\\11. TriFunction.csproj|d:\\softuni\\c# advanced - jan 2024\\functional programming - exercise\\trifunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A305A1B8-7DA7-4D87-ACD2-000FD2A7F089}|TriFunction\\11. TriFunction.csproj|solutionrelative:trifunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CA17E1-13AC-4676-9F44-0F2F261F0E62}|ThePartyReservationFilterModule\\10. The Party Reservation Filter Module.csproj|d:\\softuni\\c# advanced - jan 2024\\functional programming - exercise\\thepartyreservationfiltermodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8CA17E1-13AC-4676-9F44-0F2F261F0E62}|ThePartyReservationFilterModule\\10. The Party Reservation Filter Module.csproj|solutionrelative:thepartyreservationfiltermodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3096AB-AB02-4B2A-AB4D-324145E28360}|PredicateParty!\\09. Predicate Party!.csproj|d:\\softuni\\c# advanced - jan 2024\\functional programming - exercise\\predicateparty!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3096AB-AB02-4B2A-AB4D-324145E28360}|PredicateParty!\\09. Predicate Party!.csproj|solutionrelative:predicateparty!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7546322B-7BE7-4520-B2CD-C547B8BE83B0}|ListOfPredicates\\08. List Of Predicates.csproj|d:\\softuni\\c# advanced - jan 2024\\functional programming - exercise\\listofpredicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7546322B-7BE7-4520-B2CD-C547B8BE83B0}|ListOfPredicates\\08. List Of Predicates.csproj|solutionrelative:listofpredicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148D5E47-DBC0-4481-8513-30F5D4B04302}|PredicateForNames\\07. Predicate For Names.csproj|d:\\softuni\\c# advanced - jan 2024\\functional programming - exercise\\predicatefornames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148D5E47-DBC0-4481-8513-30F5D4B04302}|PredicateForNames\\07. Predicate For Names.csproj|solutionrelative:predicatefornames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F9120-9361-45D7-ACC5-DF01DB649021}|ReverseAndExclude\\06. Reverse And Exclude.csproj|d:\\softuni\\c# advanced - jan 2024\\functional programming - exercise\\reverseandexclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F9120-9361-45D7-ACC5-DF01DB649021}|ReverseAndExclude\\06. Reverse And Exclude.csproj|solutionrelative:reverseandexclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{327BCD47-8D5F-4795-88FE-8B56E6E6CF30}|AppliedArithmetics\\05. Applied Arithmetics.csproj|d:\\softuni\\c# advanced - jan 2024\\functional programming - exercise\\appliedarithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{327BCD47-8D5F-4795-88FE-8B56E6E6CF30}|AppliedArithmetics\\05. Applied Arithmetics.csproj|solutionrelative:appliedarithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95775F2-C23F-4CB9-B46D-B089178F524E}|FindEvensOrOdds\\04. Find Evens or Odds.csproj|d:\\softuni\\c# advanced - jan 2024\\functional programming - exercise\\findevensorodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95775F2-C23F-4CB9-B46D-B089178F524E}|FindEvensOrOdds\\04. Find Evens or Odds.csproj|solutionrelative:findevensorodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8614B88F-E9DE-46B5-82D6-AAF9E6845ABC}|CustomMinFunction\\03. Custom Min Function.csproj|d:\\softuni\\c# advanced - jan 2024\\functional programming - exercise\\customminfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8614B88F-E9DE-46B5-82D6-AAF9E6845ABC}|CustomMinFunction\\03. Custom Min Function.csproj|solutionrelative:customminfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\TriFunction\\Program.cs",
+              "RelativeDocumentMoniker": "TriFunction\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\TriFunction\\Program.cs",
+              "RelativeToolTip": "TriFunction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:18:07.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\ThePartyReservationFilterModule\\Program.cs",
+              "RelativeDocumentMoniker": "ThePartyReservationFilterModule\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\ThePartyReservationFilterModule\\Program.cs",
+              "RelativeToolTip": "ThePartyReservationFilterModule\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:15:19.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\PredicateParty!\\Program.cs",
+              "RelativeDocumentMoniker": "PredicateParty!\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\PredicateParty!\\Program.cs",
+              "RelativeToolTip": "PredicateParty!\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:13:32.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\ListOfPredicates\\Program.cs",
+              "RelativeDocumentMoniker": "ListOfPredicates\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\ListOfPredicates\\Program.cs",
+              "RelativeToolTip": "ListOfPredicates\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:11:47.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\PredicateForNames\\Program.cs",
+              "RelativeDocumentMoniker": "PredicateForNames\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\PredicateForNames\\Program.cs",
+              "RelativeToolTip": "PredicateForNames\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:11:18.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\ReverseAndExclude\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseAndExclude\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\ReverseAndExclude\\Program.cs",
+              "RelativeToolTip": "ReverseAndExclude\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:09:14.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\AppliedArithmetics\\Program.cs",
+              "RelativeDocumentMoniker": "AppliedArithmetics\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\AppliedArithmetics\\Program.cs",
+              "RelativeToolTip": "AppliedArithmetics\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:08:02.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\FindEvensOrOdds\\Program.cs",
+              "RelativeDocumentMoniker": "FindEvensOrOdds\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\FindEvensOrOdds\\Program.cs",
+              "RelativeToolTip": "FindEvensOrOdds\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:06:22.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\CustomMinFunction\\Program.cs",
+              "RelativeDocumentMoniker": "CustomMinFunction\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - Jan 2024\\Functional Programming - Exercise\\CustomMinFunction\\Program.cs",
+              "RelativeToolTip": "CustomMinFunction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:05:32.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

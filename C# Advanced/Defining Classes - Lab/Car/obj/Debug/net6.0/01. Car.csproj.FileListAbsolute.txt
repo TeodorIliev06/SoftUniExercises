@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.exe
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Lab\01. Car\bin\Debug\net6.0\01. Car.pdb
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Lab\01. Car\obj\Debug\net6.0\refint\01. Car.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.pdb
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Lab\01. Car\obj\Debug\net6.0\01. Car.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Lab\01. Car\obj\Debug\net6.0\ref\01. Car.dll

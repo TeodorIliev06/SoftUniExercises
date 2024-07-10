@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\DateModifier\bin\Debug\net6.0\DateModifier.exe
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\DateModifier\bin\Debug\net6.0\DateModifier.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\DateModifier\bin\Debug\net6.0\DateModifier.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\DateModifier\bin\Debug\net6.0\DateModifier.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\DateModifier\bin\Debug\net6.0\DateModifier.pdb
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\DateModifier.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\DateModifier.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\DateModifier.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\DateModifier.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\refint\DateModifier.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\DateModifier.pdb
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\DateModifier.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\DateModifier\obj\Debug\net6.0\ref\DateModifier.dll

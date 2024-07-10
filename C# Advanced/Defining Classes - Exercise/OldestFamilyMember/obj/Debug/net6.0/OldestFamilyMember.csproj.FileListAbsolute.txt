@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OldestFamilyMember\bin\Debug\net6.0\OldestFamilyMember.exe
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OldestFamilyMember\bin\Debug\net6.0\OldestFamilyMember.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OldestFamilyMember\bin\Debug\net6.0\OldestFamilyMember.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OldestFamilyMember\bin\Debug\net6.0\OldestFamilyMember.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OldestFamilyMember\bin\Debug\net6.0\OldestFamilyMember.pdb
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OldestFamilyMember\obj\Debug\net6.0\OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OldestFamilyMember\obj\Debug\net6.0\OldestFamilyMember.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OldestFamilyMember\obj\Debug\net6.0\OldestFamilyMember.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OldestFamilyMember\obj\Debug\net6.0\OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OldestFamilyMember\obj\Debug\net6.0\OldestFamilyMember.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OldestFamilyMember\obj\Debug\net6.0\refint\OldestFamilyMember.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OldestFamilyMember\obj\Debug\net6.0\OldestFamilyMember.pdb
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OldestFamilyMember\obj\Debug\net6.0\OldestFamilyMember.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OldestFamilyMember\obj\Debug\net6.0\ref\OldestFamilyMember.dll

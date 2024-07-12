@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OpinionPoll\bin\Debug\net6.0\OpinionPoll.exe
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OpinionPoll\bin\Debug\net6.0\OpinionPoll.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OpinionPoll\bin\Debug\net6.0\OpinionPoll.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OpinionPoll\bin\Debug\net6.0\OpinionPoll.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OpinionPoll\bin\Debug\net6.0\OpinionPoll.pdb
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OpinionPoll\obj\Debug\net6.0\OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OpinionPoll\obj\Debug\net6.0\OpinionPoll.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OpinionPoll\obj\Debug\net6.0\OpinionPoll.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OpinionPoll\obj\Debug\net6.0\OpinionPoll.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OpinionPoll\obj\Debug\net6.0\OpinionPoll.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OpinionPoll\obj\Debug\net6.0\refint\OpinionPoll.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OpinionPoll\obj\Debug\net6.0\OpinionPoll.pdb
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OpinionPoll\obj\Debug\net6.0\OpinionPoll.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\OpinionPoll\obj\Debug\net6.0\ref\OpinionPoll.dll

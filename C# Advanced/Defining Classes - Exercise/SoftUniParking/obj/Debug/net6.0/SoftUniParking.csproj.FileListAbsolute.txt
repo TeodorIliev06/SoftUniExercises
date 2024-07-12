@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\SoftUniParking\bin\Debug\net6.0\SoftUniParking.exe
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\SoftUniParking\bin\Debug\net6.0\SoftUniParking.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\SoftUniParking\bin\Debug\net6.0\SoftUniParking.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\SoftUniParking\bin\Debug\net6.0\SoftUniParking.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\SoftUniParking\bin\Debug\net6.0\SoftUniParking.pdb
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\SoftUniParking\obj\Debug\net6.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\SoftUniParking\obj\Debug\net6.0\SoftUniParking.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\SoftUniParking\obj\Debug\net6.0\SoftUniParking.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\SoftUniParking\obj\Debug\net6.0\refint\SoftUniParking.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\SoftUniParking\obj\Debug\net6.0\SoftUniParking.pdb
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\SoftUniParking\obj\Debug\net6.0\SoftUniParking.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\SoftUniParking\obj\Debug\net6.0\ref\SoftUniParking.dll

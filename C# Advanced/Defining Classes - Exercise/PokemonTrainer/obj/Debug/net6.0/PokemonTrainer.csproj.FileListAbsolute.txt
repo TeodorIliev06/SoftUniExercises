@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.exe
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.pdb
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\refint\PokemonTrainer.dll
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.pdb
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Defining Classes - Exercise\PokemonTrainer\obj\Debug\net6.0\ref\PokemonTrainer.dll

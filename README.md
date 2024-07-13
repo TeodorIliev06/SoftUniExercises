@@ -4,11 +4,11 @@ I'm a student specializing in software development.
 
 ### Languages and Technologies
 
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)
+![C#](https://img.shields.io/badge/C%23-8A2BE2?style=flat-square&logo=csharp&logoColor=white&labelColor=8A2BE2)
 
 ### Projects
 
-**[Countdown Timer with Relay Control](https://github.com/TeodorIliev06/SoftUniExercise)**
+**[SoftUniExercises](https://github.com/TeodorIliev06/SoftUniExercise)**
 - **Role**: Developer
 - **Tech Stack**: C#, .NET
 - This is a simple project showcasing my journey at SoftUni

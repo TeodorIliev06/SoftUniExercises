@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Workshop - CustomDataStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A622951F-4FEE-42FE-9AE4-A29A3F5ECFE2}|CustomDataStructures\\CustomDataStructures.csproj|d:\\softuni\\c# advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\workshop - customdatastructures\\customdatastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A622951F-4FEE-42FE-9AE4-A29A3F5ECFE2}|CustomDataStructures\\CustomDataStructures.csproj|solutionrelative:customdatastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A622951F-4FEE-42FE-9AE4-A29A3F5ECFE2}|CustomDataStructures\\CustomDataStructures.csproj|d:\\softuni\\c# advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\workshop - customdatastructures\\customdatastructures\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A622951F-4FEE-42FE-9AE4-A29A3F5ECFE2}|CustomDataStructures\\CustomDataStructures.csproj|solutionrelative:customdatastructures\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A622951F-4FEE-42FE-9AE4-A29A3F5ECFE2}|CustomDataStructures\\CustomDataStructures.csproj|d:\\softuni\\c# advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\workshop - customdatastructures\\customdatastructures\\customqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A622951F-4FEE-42FE-9AE4-A29A3F5ECFE2}|CustomDataStructures\\CustomDataStructures.csproj|solutionrelative:customdatastructures\\customqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A622951F-4FEE-42FE-9AE4-A29A3F5ECFE2}|CustomDataStructures\\CustomDataStructures.csproj|d:\\softuni\\c# advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\workshop - customdatastructures\\customdatastructures\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A622951F-4FEE-42FE-9AE4-A29A3F5ECFE2}|CustomDataStructures\\CustomDataStructures.csproj|solutionrelative:customdatastructures\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Workshop - CustomDataStructures\\CustomDataStructures\\obj\\Debug\\net6.0\\CustomDataStructures.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomDataStructures\\obj\\Debug\\net6.0\\CustomDataStructures.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Workshop - CustomDataStructures\\CustomDataStructures\\obj\\Debug\\net6.0\\CustomDataStructures.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomDataStructures\\obj\\Debug\\net6.0\\CustomDataStructures.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomQueue.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Workshop - CustomDataStructures\\CustomDataStructures\\CustomQueue.cs",
+              "RelativeDocumentMoniker": "CustomDataStructures\\CustomQueue.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Workshop - CustomDataStructures\\CustomDataStructures\\CustomQueue.cs",
+              "RelativeToolTip": "CustomDataStructures\\CustomQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:33:16.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomStack.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Workshop - CustomDataStructures\\CustomDataStructures\\CustomStack.cs",
+              "RelativeDocumentMoniker": "CustomDataStructures\\CustomStack.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Workshop - CustomDataStructures\\CustomDataStructures\\CustomStack.cs",
+              "RelativeToolTip": "CustomDataStructures\\CustomStack.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:10:57.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomDataStructures.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Workshop - CustomDataStructures\\CustomDataStructures\\obj\\Debug\\net6.0\\CustomDataStructures.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CustomDataStructures\\obj\\Debug\\net6.0\\CustomDataStructures.AssemblyInfo.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Workshop - CustomDataStructures\\CustomDataStructures\\obj\\Debug\\net6.0\\CustomDataStructures.AssemblyInfo.cs",
+              "RelativeToolTip": "CustomDataStructures\\obj\\Debug\\net6.0\\CustomDataStructures.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:45:48.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomDataStructures.GlobalUsings.g.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Workshop - CustomDataStructures\\CustomDataStructures\\obj\\Debug\\net6.0\\CustomDataStructures.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "CustomDataStructures\\obj\\Debug\\net6.0\\CustomDataStructures.GlobalUsings.g.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Workshop - CustomDataStructures\\CustomDataStructures\\obj\\Debug\\net6.0\\CustomDataStructures.GlobalUsings.g.cs",
+              "RelativeToolTip": "CustomDataStructures\\obj\\Debug\\net6.0\\CustomDataStructures.GlobalUsings.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:45:47.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Workshop - CustomDataStructures\\CustomDataStructures\\CustomList.cs",
+              "RelativeDocumentMoniker": "CustomDataStructures\\CustomList.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Workshop - CustomDataStructures\\CustomDataStructures\\CustomList.cs",
+              "RelativeToolTip": "CustomDataStructures\\CustomList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:34:29.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Workshop - CustomDataStructures\\CustomDataStructures\\Program.cs",
+              "RelativeDocumentMoniker": "CustomDataStructures\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Workshop - CustomDataStructures\\CustomDataStructures\\Program.cs",
+              "RelativeToolTip": "CustomDataStructures\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:33:48.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

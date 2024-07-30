@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Tuple\bin\Debug\net6.0\Tuple.exe
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Tuple\bin\Debug\net6.0\Tuple.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Tuple\bin\Debug\net6.0\Tuple.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Tuple\bin\Debug\net6.0\Tuple.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Tuple\bin\Debug\net6.0\Tuple.pdb
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Tuple\obj\Debug\net6.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Tuple\obj\Debug\net6.0\Tuple.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Tuple\obj\Debug\net6.0\Tuple.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Tuple\obj\Debug\net6.0\refint\Tuple.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Tuple\obj\Debug\net6.0\Tuple.pdb
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Tuple\obj\Debug\net6.0\Tuple.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Tuple\obj\Debug\net6.0\ref\Tuple.dll

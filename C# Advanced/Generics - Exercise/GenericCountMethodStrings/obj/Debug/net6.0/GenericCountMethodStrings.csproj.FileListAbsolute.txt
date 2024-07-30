@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.exe
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.pdb
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericCountMethodStrings\obj\Debug\net6.0\refint\GenericCountMethodStrings.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.pdb
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericCountMethodStrings\obj\Debug\net6.0\ref\GenericCountMethodStrings.dll

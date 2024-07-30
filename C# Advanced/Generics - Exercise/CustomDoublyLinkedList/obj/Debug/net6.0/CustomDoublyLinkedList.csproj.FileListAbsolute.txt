@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.exe
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.pdb
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\CustomDoublyLinkedList\obj\Debug\net6.0\refint\CustomDoublyLinkedList.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.pdb
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\CustomDoublyLinkedList\obj\Debug\net6.0\ref\CustomDoublyLinkedList.dll

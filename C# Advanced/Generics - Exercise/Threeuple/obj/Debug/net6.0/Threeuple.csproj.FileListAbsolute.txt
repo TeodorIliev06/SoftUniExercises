@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Threeuple\bin\Debug\net6.0\Threeuple.exe
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Threeuple\bin\Debug\net6.0\Threeuple.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Threeuple\bin\Debug\net6.0\Threeuple.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Threeuple\bin\Debug\net6.0\Threeuple.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Threeuple\bin\Debug\net6.0\Threeuple.pdb
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Threeuple\obj\Debug\net6.0\refint\Threeuple.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.pdb
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\Threeuple\obj\Debug\net6.0\ref\Threeuple.dll

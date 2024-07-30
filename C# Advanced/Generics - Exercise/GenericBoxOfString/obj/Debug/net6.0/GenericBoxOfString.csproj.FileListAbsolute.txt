@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericBoxOfString\bin\Debug\net6.0\GenericBoxOfString.exe
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericBoxOfString\bin\Debug\net6.0\GenericBoxOfString.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericBoxOfString\bin\Debug\net6.0\GenericBoxOfString.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericBoxOfString\bin\Debug\net6.0\GenericBoxOfString.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericBoxOfString\bin\Debug\net6.0\GenericBoxOfString.pdb
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericBoxOfString\obj\Debug\net6.0\refint\GenericBoxOfString.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.pdb
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericBoxOfString\obj\Debug\net6.0\ref\GenericBoxOfString.dll

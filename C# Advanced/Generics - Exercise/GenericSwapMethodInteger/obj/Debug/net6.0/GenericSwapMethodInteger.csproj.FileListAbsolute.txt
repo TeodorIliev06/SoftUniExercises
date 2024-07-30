@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.exe
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.pdb
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\refint\GenericSwapMethodInteger.dll
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.pdb
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Generics - Exercise\GenericSwapMethodInteger\obj\Debug\net6.0\ref\GenericSwapMethodInteger.dll

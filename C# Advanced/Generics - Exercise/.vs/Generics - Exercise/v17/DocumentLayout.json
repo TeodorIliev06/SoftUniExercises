@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Generics - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4C7AC-1384-4E03-8F6E-4EBA440B43FD}|Threeuple\\Threeuple.csproj|d:\\softuni\\c# advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\generics - exercise\\threeuple\\customtuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE4C7AC-1384-4E03-8F6E-4EBA440B43FD}|Threeuple\\Threeuple.csproj|solutionrelative:threeuple\\customtuple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE4C7AC-1384-4E03-8F6E-4EBA440B43FD}|Threeuple\\Threeuple.csproj|d:\\softuni\\c# advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\generics - exercise\\threeuple\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE4C7AC-1384-4E03-8F6E-4EBA440B43FD}|Threeuple\\Threeuple.csproj|solutionrelative:threeuple\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74B8045-1C6A-4AAE-80BA-61739ACC4C78}|CustomDoublyLinkedList\\CustomDoublyLinkedList.csproj|d:\\softuni\\c# advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\generics - exercise\\customdoublylinkedlist\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74B8045-1C6A-4AAE-80BA-61739ACC4C78}|CustomDoublyLinkedList\\CustomDoublyLinkedList.csproj|solutionrelative:customdoublylinkedlist\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74B8045-1C6A-4AAE-80BA-61739ACC4C78}|CustomDoublyLinkedList\\CustomDoublyLinkedList.csproj|d:\\softuni\\c# advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\generics - exercise\\customdoublylinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74B8045-1C6A-4AAE-80BA-61739ACC4C78}|CustomDoublyLinkedList\\CustomDoublyLinkedList.csproj|solutionrelative:customdoublylinkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74B8045-1C6A-4AAE-80BA-61739ACC4C78}|CustomDoublyLinkedList\\CustomDoublyLinkedList.csproj|d:\\softuni\\c# advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\generics - exercise\\customdoublylinkedlist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74B8045-1C6A-4AAE-80BA-61739ACC4C78}|CustomDoublyLinkedList\\CustomDoublyLinkedList.csproj|solutionrelative:customdoublylinkedlist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74B8045-1C6A-4AAE-80BA-61739ACC4C78}|CustomDoublyLinkedList\\CustomDoublyLinkedList.csproj|d:\\softuni\\c# advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\generics - exercise\\customdoublylinkedlist\\customdoublylinkedlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F74B8045-1C6A-4AAE-80BA-61739ACC4C78}|CustomDoublyLinkedList\\CustomDoublyLinkedList.csproj|solutionrelative:customdoublylinkedlist\\customdoublylinkedlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Generics - Exercise\\Threeuple\\StartUp.cs",
+              "RelativeDocumentMoniker": "Threeuple\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Generics - Exercise\\Threeuple\\StartUp.cs",
+              "RelativeToolTip": "Threeuple\\StartUp.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:38:28.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomTuple.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Generics - Exercise\\Threeuple\\CustomTuple.cs",
+              "RelativeDocumentMoniker": "Threeuple\\CustomTuple.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Generics - Exercise\\Threeuple\\CustomTuple.cs",
+              "RelativeToolTip": "Threeuple\\CustomTuple.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:35:14.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Generics - Exercise\\CustomDoublyLinkedList\\Node.cs",
+              "RelativeDocumentMoniker": "CustomDoublyLinkedList\\Node.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Generics - Exercise\\CustomDoublyLinkedList\\Node.cs",
+              "RelativeToolTip": "CustomDoublyLinkedList\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:31:45.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomDoublyLinkedList.csproj",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Generics - Exercise\\CustomDoublyLinkedList\\CustomDoublyLinkedList.csproj",
+              "RelativeDocumentMoniker": "CustomDoublyLinkedList\\CustomDoublyLinkedList.csproj",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Generics - Exercise\\CustomDoublyLinkedList\\CustomDoublyLinkedList.csproj",
+              "RelativeToolTip": "CustomDoublyLinkedList\\CustomDoublyLinkedList.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-07T18:34:40.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Generics - Exercise\\CustomDoublyLinkedList\\StartUp.cs",
+              "RelativeDocumentMoniker": "CustomDoublyLinkedList\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Generics - Exercise\\CustomDoublyLinkedList\\StartUp.cs",
+              "RelativeToolTip": "CustomDoublyLinkedList\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T18:33:00.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoublyLinkedList.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Generics - Exercise\\CustomDoublyLinkedList\\DoublyLinkedList.cs",
+              "RelativeDocumentMoniker": "CustomDoublyLinkedList\\DoublyLinkedList.cs",
+              "ToolTip": "D:\\SoftUni\\C# Advanced - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Generics - Exercise\\CustomDoublyLinkedList\\DoublyLinkedList.cs",
+              "RelativeToolTip": "CustomDoublyLinkedList\\DoublyLinkedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T18:32:31.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

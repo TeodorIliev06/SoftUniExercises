@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\net6.0\EqualityLogic.exe
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\net6.0\EqualityLogic.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\net6.0\EqualityLogic.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\net6.0\EqualityLogic.dll
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\EqualityLogic\bin\Debug\net6.0\EqualityLogic.pdb
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.dll
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\refint\EqualityLogic.dll
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.pdb
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\EqualityLogic.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\EqualityLogic\obj\Debug\net6.0\ref\EqualityLogic.dll

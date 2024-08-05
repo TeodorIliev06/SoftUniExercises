@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\Stack\bin\Debug\net6.0\Stack.exe
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\Stack\bin\Debug\net6.0\Stack.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\Stack\bin\Debug\net6.0\Stack.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\Stack\bin\Debug\net6.0\Stack.dll
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\Stack\bin\Debug\net6.0\Stack.pdb
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\Stack\obj\Debug\net6.0\Stack.dll
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\Stack\obj\Debug\net6.0\refint\Stack.dll
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\Stack\obj\Debug\net6.0\Stack.pdb
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\Stack\obj\Debug\net6.0\Stack.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Iterators and Comparators - Exercise\Stack\obj\Debug\net6.0\ref\Stack.dll

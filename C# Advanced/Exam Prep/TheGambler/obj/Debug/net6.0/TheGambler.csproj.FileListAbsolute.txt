@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\TheGambler\obj\Debug\net6.0\TheGambler.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\TheGambler\obj\Debug\net6.0\TheGambler.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\TheGambler\obj\Debug\net6.0\TheGambler.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\TheGambler\obj\Debug\net6.0\TheGambler.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\TheGambler\bin\Debug\net6.0\TheGambler.exe
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\TheGambler\bin\Debug\net6.0\TheGambler.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\TheGambler\bin\Debug\net6.0\TheGambler.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\TheGambler\bin\Debug\net6.0\TheGambler.dll
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\TheGambler\bin\Debug\net6.0\TheGambler.pdb
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\TheGambler\obj\Debug\net6.0\TheGambler.dll
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\TheGambler\obj\Debug\net6.0\refint\TheGambler.dll
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\TheGambler\obj\Debug\net6.0\TheGambler.pdb
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\TheGambler\obj\Debug\net6.0\TheGambler.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\TheGambler\obj\Debug\net6.0\ref\TheGambler.dll

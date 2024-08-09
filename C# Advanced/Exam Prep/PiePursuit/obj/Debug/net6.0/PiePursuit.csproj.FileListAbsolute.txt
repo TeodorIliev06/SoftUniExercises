@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\PiePursuit\bin\Debug\net6.0\PiePursuit.exe
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\PiePursuit\bin\Debug\net6.0\PiePursuit.deps.json
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\PiePursuit\bin\Debug\net6.0\PiePursuit.runtimeconfig.json
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\PiePursuit\bin\Debug\net6.0\PiePursuit.dll
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\PiePursuit\bin\Debug\net6.0\PiePursuit.pdb
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\PiePursuit\obj\Debug\net6.0\PiePursuit.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\PiePursuit\obj\Debug\net6.0\PiePursuit.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\PiePursuit\obj\Debug\net6.0\PiePursuit.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\PiePursuit\obj\Debug\net6.0\PiePursuit.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\PiePursuit\obj\Debug\net6.0\PiePursuit.dll
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\PiePursuit\obj\Debug\net6.0\refint\PiePursuit.dll
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\PiePursuit\obj\Debug\net6.0\PiePursuit.pdb
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\PiePursuit\obj\Debug\net6.0\PiePursuit.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\PiePursuit\obj\Debug\net6.0\ref\PiePursuit.dll

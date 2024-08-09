@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.exe
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.dll
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MonsterExtermination\bin\Debug\net6.0\MonsterExtermination.pdb
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.dll
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MonsterExtermination\obj\Debug\net6.0\refint\MonsterExtermination.dll
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.pdb
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MonsterExtermination\obj\Debug\net6.0\MonsterExtermination.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MonsterExtermination\obj\Debug\net6.0\ref\MonsterExtermination.dll

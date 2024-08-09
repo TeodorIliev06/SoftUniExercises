@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\DataCenter\bin\Debug\net6.0\DataCenter.exe
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\DataCenter\bin\Debug\net6.0\DataCenter.deps.json
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\DataCenter\bin\Debug\net6.0\DataCenter.runtimeconfig.json
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\DataCenter\bin\Debug\net6.0\DataCenter.dll
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\DataCenter\bin\Debug\net6.0\DataCenter.pdb
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\DataCenter\obj\Debug\net6.0\DataCenter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\DataCenter\obj\Debug\net6.0\DataCenter.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\DataCenter\obj\Debug\net6.0\DataCenter.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\DataCenter\obj\Debug\net6.0\DataCenter.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\DataCenter\obj\Debug\net6.0\DataCenter.dll
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\DataCenter\obj\Debug\net6.0\refint\DataCenter.dll
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\DataCenter\obj\Debug\net6.0\DataCenter.pdb
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\DataCenter\obj\Debug\net6.0\DataCenter.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - Jan 2024\Exam Prep\DataCenter\obj\Debug\net6.0\ref\DataCenter.dll

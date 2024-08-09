@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MouseInTheKitchen\bin\Debug\net6.0\MouseInTheKitchen.exe
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MouseInTheKitchen\bin\Debug\net6.0\MouseInTheKitchen.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MouseInTheKitchen\bin\Debug\net6.0\MouseInTheKitchen.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MouseInTheKitchen\bin\Debug\net6.0\MouseInTheKitchen.dll
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MouseInTheKitchen\bin\Debug\net6.0\MouseInTheKitchen.pdb
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.dll
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MouseInTheKitchen\obj\Debug\net6.0\refint\MouseInTheKitchen.dll
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.pdb
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MouseInTheKitchen\obj\Debug\net6.0\MouseInTheKitchen.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\MouseInTheKitchen\obj\Debug\net6.0\ref\MouseInTheKitchen.dll

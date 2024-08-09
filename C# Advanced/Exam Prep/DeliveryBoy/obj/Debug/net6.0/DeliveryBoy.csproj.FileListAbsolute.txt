@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.exe
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.dll
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.pdb
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.dll
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\DeliveryBoy\obj\Debug\net6.0\refint\DeliveryBoy.dll
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.pdb
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Exam Prep\DeliveryBoy\obj\Debug\net6.0\ref\DeliveryBoy.dll

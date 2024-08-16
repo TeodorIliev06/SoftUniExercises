@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\SingleInheritance\bin\Debug\net6.0\SingleInheritance.exe
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\SingleInheritance\bin\Debug\net6.0\SingleInheritance.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\SingleInheritance\bin\Debug\net6.0\SingleInheritance.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\SingleInheritance\bin\Debug\net6.0\SingleInheritance.dll
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\SingleInheritance\bin\Debug\net6.0\SingleInheritance.pdb
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.dll
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\refint\SingleInheritance.dll
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.pdb
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\ref\SingleInheritance.dll

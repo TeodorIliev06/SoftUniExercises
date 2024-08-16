@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\MultipleInheritance\bin\Debug\net6.0\MultipleInheritance.exe
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\MultipleInheritance\bin\Debug\net6.0\MultipleInheritance.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\MultipleInheritance\bin\Debug\net6.0\MultipleInheritance.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\MultipleInheritance\bin\Debug\net6.0\MultipleInheritance.dll
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\MultipleInheritance\bin\Debug\net6.0\MultipleInheritance.pdb
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.dll
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\MultipleInheritance\obj\Debug\net6.0\refint\MultipleInheritance.dll
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.pdb
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\MultipleInheritance\obj\Debug\net6.0\MultipleInheritance.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Inheritance - Lab\MultipleInheritance\obj\Debug\net6.0\ref\MultipleInheritance.dll

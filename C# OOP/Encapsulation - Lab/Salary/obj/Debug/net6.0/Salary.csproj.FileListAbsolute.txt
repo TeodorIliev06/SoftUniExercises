@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Lab\Salary\bin\Debug\net6.0\Salary.exe
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Lab\Salary\bin\Debug\net6.0\Salary.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Lab\Salary\bin\Debug\net6.0\Salary.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Lab\Salary\bin\Debug\net6.0\Salary.dll
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Lab\Salary\bin\Debug\net6.0\Salary.pdb
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Lab\Salary\obj\Debug\net6.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Lab\Salary\obj\Debug\net6.0\Salary.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Lab\Salary\obj\Debug\net6.0\Salary.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Lab\Salary\obj\Debug\net6.0\Salary.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Lab\Salary\obj\Debug\net6.0\Salary.dll
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Lab\Salary\obj\Debug\net6.0\refint\Salary.dll
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Lab\Salary\obj\Debug\net6.0\Salary.pdb
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Lab\Salary\obj\Debug\net6.0\Salary.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Lab\Salary\obj\Debug\net6.0\ref\Salary.dll

@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.exe
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.dll
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.pdb
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.dll
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\refint\ClassBoxData.dll
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.pdb
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Encapsulation - Exercise\ClassBoxData\obj\Debug\net6.0\ref\ClassBoxData.dll

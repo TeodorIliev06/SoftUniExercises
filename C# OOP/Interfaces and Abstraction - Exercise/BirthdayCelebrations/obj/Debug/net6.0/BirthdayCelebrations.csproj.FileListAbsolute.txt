@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.exe
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.dll
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.pdb
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.dll
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\net6.0\refint\BirthdayCelebrations.dll
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.pdb
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\BirthdayCelebrations\obj\Debug\net6.0\ref\BirthdayCelebrations.dll

@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D58A25E7-3F11-42F3-9BD6-8AE12ED8C652}|ExplicitInterfaces\\ExplicitInterfaces.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\explicitinterfaces\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58A25E7-3F11-42F3-9BD6-8AE12ED8C652}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58A25E7-3F11-42F3-9BD6-8AE12ED8C652}|ExplicitInterfaces\\ExplicitInterfaces.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\explicitinterfaces\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58A25E7-3F11-42F3-9BD6-8AE12ED8C652}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58A25E7-3F11-42F3-9BD6-8AE12ED8C652}|ExplicitInterfaces\\ExplicitInterfaces.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\explicitinterfaces\\interfaces\\iresident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58A25E7-3F11-42F3-9BD6-8AE12ED8C652}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\interfaces\\iresident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58A25E7-3F11-42F3-9BD6-8AE12ED8C652}|ExplicitInterfaces\\ExplicitInterfaces.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\explicitinterfaces\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58A25E7-3F11-42F3-9BD6-8AE12ED8C652}|ExplicitInterfaces\\ExplicitInterfaces.csproj|solutionrelative:explicitinterfaces\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\militaryelite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\militaryelite\\models\\commando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\models\\commando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\militaryelite\\models\\specialisedsoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\models\\specialisedsoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\militaryelite\\models\\enums\\corps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\models\\enums\\corps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\militaryelite\\models\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\models\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\militaryelite\\interfaces\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\interfaces\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\militaryelite\\interfaces\\ispecialisedsoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\interfaces\\ispecialisedsoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\militaryelite\\interfaces\\isoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E932E53-9FFA-4059-8A68-FD4E806507D2}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\interfaces\\isoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EC798F-86EA-4481-91B3-E472BE911E47}|PersonInfo\\PersonInfo.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EC798F-86EA-4481-91B3-E472BE911E47}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EC798F-86EA-4481-91B3-E472BE911E47}|PersonInfo\\PersonInfo.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\personinfo\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EC798F-86EA-4481-91B3-E472BE911E47}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EC798F-86EA-4481-91B3-E472BE911E47}|PersonInfo\\PersonInfo.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\personinfo\\personinfo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26EC798F-86EA-4481-91B3-E472BE911E47}|PersonInfo\\PersonInfo.csproj|solutionrelative:personinfo\\personinfo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F975FF1-8F90-405A-9AE7-FED7960F922B}|CollectionHierarchy\\CollectionHierarchy.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\collectionhierarchy\\collectionhierarchy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F975FF1-8F90-405A-9AE7-FED7960F922B}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\collectionhierarchy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F975FF1-8F90-405A-9AE7-FED7960F922B}|CollectionHierarchy\\CollectionHierarchy.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\collectionhierarchy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F975FF1-8F90-405A-9AE7-FED7960F922B}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F975FF1-8F90-405A-9AE7-FED7960F922B}|CollectionHierarchy\\CollectionHierarchy.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\collectionhierarchy\\models\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F975FF1-8F90-405A-9AE7-FED7960F922B}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\models\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F975FF1-8F90-405A-9AE7-FED7960F922B}|CollectionHierarchy\\CollectionHierarchy.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\collectionhierarchy\\models\\addremovecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F975FF1-8F90-405A-9AE7-FED7960F922B}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\models\\addremovecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F975FF1-8F90-405A-9AE7-FED7960F922B}|CollectionHierarchy\\CollectionHierarchy.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\collectionhierarchy\\models\\addcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F975FF1-8F90-405A-9AE7-FED7960F922B}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\models\\addcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F975FF1-8F90-405A-9AE7-FED7960F922B}|CollectionHierarchy\\CollectionHierarchy.csproj|d:\\softuni\\c# oop - feb 2024\\interfaces and abstraction - exercise\\collectionhierarchy\\interfaces\\icustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F975FF1-8F90-405A-9AE7-FED7960F922B}|CollectionHierarchy\\CollectionHierarchy.csproj|solutionrelative:collectionhierarchy\\interfaces\\icustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\ExplicitInterfaces\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\Models\\Citizen.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\ExplicitInterfaces\\Models\\Citizen.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\Models\\Citizen.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:34:45.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\ExplicitInterfaces\\Interfaces\\IPerson.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\Interfaces\\IPerson.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\ExplicitInterfaces\\Interfaces\\IPerson.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\Interfaces\\IPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:33:57.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IResident.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\ExplicitInterfaces\\Interfaces\\IResident.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\Interfaces\\IResident.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\ExplicitInterfaces\\Interfaces\\IResident.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\Interfaces\\IResident.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:33:35.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\ExplicitInterfaces\\StartUp.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaces\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\ExplicitInterfaces\\StartUp.cs",
+              "RelativeToolTip": "ExplicitInterfaces\\StartUp.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:32:58.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpecialisedSoldier.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\Models\\SpecialisedSoldier.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Models\\SpecialisedSoldier.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\Models\\SpecialisedSoldier.cs",
+              "RelativeToolTip": "MilitaryElite\\Models\\SpecialisedSoldier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:25:55.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Commando.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\Models\\Commando.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Models\\Commando.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\Models\\Commando.cs",
+              "RelativeToolTip": "MilitaryElite\\Models\\Commando.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:24:46.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISpecialisedSoldier.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\Interfaces\\ISpecialisedSoldier.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Interfaces\\ISpecialisedSoldier.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\Interfaces\\ISpecialisedSoldier.cs",
+              "RelativeToolTip": "MilitaryElite\\Interfaces\\ISpecialisedSoldier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:21:36.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISoldier.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\Interfaces\\ISoldier.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Interfaces\\ISoldier.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\Interfaces\\ISoldier.cs",
+              "RelativeToolTip": "MilitaryElite\\Interfaces\\ISoldier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:22:45.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Corps.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\Models\\Enums\\Corps.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Models\\Enums\\Corps.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\Models\\Enums\\Corps.cs",
+              "RelativeToolTip": "MilitaryElite\\Models\\Enums\\Corps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:22:02.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMission.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\Interfaces\\IMission.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Interfaces\\IMission.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\Interfaces\\IMission.cs",
+              "RelativeToolTip": "MilitaryElite\\Interfaces\\IMission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:18:00.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\Models\\Mission.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Models\\Mission.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\Models\\Mission.cs",
+              "RelativeToolTip": "MilitaryElite\\Models\\Mission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:17:28.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\StartUp.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\MilitaryElite\\StartUp.cs",
+              "RelativeToolTip": "MilitaryElite\\StartUp.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAgwHMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:13:22.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PersonInfo.csproj",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\PersonInfo\\PersonInfo.csproj",
+              "RelativeDocumentMoniker": "PersonInfo\\PersonInfo.csproj",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\PersonInfo\\PersonInfo.csproj",
+              "RelativeToolTip": "PersonInfo\\PersonInfo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T18:58:32.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\PersonInfo\\Citizen.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\Citizen.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\PersonInfo\\Citizen.cs",
+              "RelativeToolTip": "PersonInfo\\Citizen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:55:17.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\PersonInfo\\IPerson.cs",
+              "RelativeDocumentMoniker": "PersonInfo\\IPerson.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\PersonInfo\\IPerson.cs",
+              "RelativeToolTip": "PersonInfo\\IPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:54:11.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CollectionHierarchy.csproj",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\CollectionHierarchy\\CollectionHierarchy.csproj",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\CollectionHierarchy.csproj",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\CollectionHierarchy\\CollectionHierarchy.csproj",
+              "RelativeToolTip": "CollectionHierarchy\\CollectionHierarchy.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T18:43:16.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\CollectionHierarchy\\StartUp.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\CollectionHierarchy\\StartUp.cs",
+              "RelativeToolTip": "CollectionHierarchy\\StartUp.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:43:17.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyList.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\CollectionHierarchy\\Models\\MyList.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\Models\\MyList.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\CollectionHierarchy\\Models\\MyList.cs",
+              "RelativeToolTip": "CollectionHierarchy\\Models\\MyList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:43:17.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddRemoveCollection.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\CollectionHierarchy\\Models\\AddRemoveCollection.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\Models\\AddRemoveCollection.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\CollectionHierarchy\\Models\\AddRemoveCollection.cs",
+              "RelativeToolTip": "CollectionHierarchy\\Models\\AddRemoveCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:43:17.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddCollection.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\CollectionHierarchy\\Models\\AddCollection.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\Models\\AddCollection.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\CollectionHierarchy\\Models\\AddCollection.cs",
+              "RelativeToolTip": "CollectionHierarchy\\Models\\AddCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:43:17.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICustomCollection.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\CollectionHierarchy\\Interfaces\\ICustomCollection.cs",
+              "RelativeDocumentMoniker": "CollectionHierarchy\\Interfaces\\ICustomCollection.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Interfaces and Abstraction - Exercise\\CollectionHierarchy\\Interfaces\\ICustomCollection.cs",
+              "RelativeToolTip": "CollectionHierarchy\\Interfaces\\ICustomCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:43:17.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

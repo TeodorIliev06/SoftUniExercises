@@ -1,0 +1,4 @@
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Interfaces and Abstraction - Exercise\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.csproj.CoreCompileInputs.cache

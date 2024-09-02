@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - Feb 2024\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+D:\SoftUni\C# OOP - Feb 2024\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+D:\SoftUni\C# OOP - Feb 2024\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+D:\SoftUni\C# OOP - Feb 2024\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+D:\SoftUni\C# OOP - Feb 2024\Interfaces and Abstraction - Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+D:\SoftUni\C# OOP - Feb 2024\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - Feb 2024\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - Feb 2024\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+D:\SoftUni\C# OOP - Feb 2024\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - Feb 2024\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+D:\SoftUni\C# OOP - Feb 2024\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+D:\SoftUni\C# OOP - Feb 2024\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+D:\SoftUni\C# OOP - Feb 2024\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+D:\SoftUni\C# OOP - Feb 2024\Interfaces and Abstraction - Exercise\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll

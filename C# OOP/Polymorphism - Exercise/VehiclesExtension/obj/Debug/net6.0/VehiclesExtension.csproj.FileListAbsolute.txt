@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Polymorphism - Exercise\VehiclesExtension\bin\Debug\net6.0\VehiclesExtension.exe
+D:\SoftUni\C# OOP - февруари 2024\Polymorphism - Exercise\VehiclesExtension\bin\Debug\net6.0\VehiclesExtension.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Polymorphism - Exercise\VehiclesExtension\bin\Debug\net6.0\VehiclesExtension.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Polymorphism - Exercise\VehiclesExtension\bin\Debug\net6.0\VehiclesExtension.dll
+D:\SoftUni\C# OOP - февруари 2024\Polymorphism - Exercise\VehiclesExtension\bin\Debug\net6.0\VehiclesExtension.pdb
+D:\SoftUni\C# OOP - февруари 2024\Polymorphism - Exercise\VehiclesExtension\obj\Debug\net6.0\VehiclesExtension.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Polymorphism - Exercise\VehiclesExtension\obj\Debug\net6.0\VehiclesExtension.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Polymorphism - Exercise\VehiclesExtension\obj\Debug\net6.0\VehiclesExtension.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Polymorphism - Exercise\VehiclesExtension\obj\Debug\net6.0\VehiclesExtension.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Polymorphism - Exercise\VehiclesExtension\obj\Debug\net6.0\VehiclesExtension.dll
+D:\SoftUni\C# OOP - февруари 2024\Polymorphism - Exercise\VehiclesExtension\obj\Debug\net6.0\refint\VehiclesExtension.dll
+D:\SoftUni\C# OOP - февруари 2024\Polymorphism - Exercise\VehiclesExtension\obj\Debug\net6.0\VehiclesExtension.pdb
+D:\SoftUni\C# OOP - февруари 2024\Polymorphism - Exercise\VehiclesExtension\obj\Debug\net6.0\VehiclesExtension.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Polymorphism - Exercise\VehiclesExtension\obj\Debug\net6.0\ref\VehiclesExtension.dll

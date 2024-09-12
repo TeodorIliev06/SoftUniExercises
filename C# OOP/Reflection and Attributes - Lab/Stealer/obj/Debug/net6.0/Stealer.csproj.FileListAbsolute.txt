@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Reflection and Attributes - Lab\Stealer\bin\Debug\net6.0\Stealer.exe
+D:\SoftUni\C# OOP - февруари 2024\Reflection and Attributes - Lab\Stealer\bin\Debug\net6.0\Stealer.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Reflection and Attributes - Lab\Stealer\bin\Debug\net6.0\Stealer.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Reflection and Attributes - Lab\Stealer\bin\Debug\net6.0\Stealer.dll
+D:\SoftUni\C# OOP - февруари 2024\Reflection and Attributes - Lab\Stealer\bin\Debug\net6.0\Stealer.pdb
+D:\SoftUni\C# OOP - февруари 2024\Reflection and Attributes - Lab\Stealer\obj\Debug\net6.0\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Reflection and Attributes - Lab\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Reflection and Attributes - Lab\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Reflection and Attributes - Lab\Stealer\obj\Debug\net6.0\Stealer.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Reflection and Attributes - Lab\Stealer\obj\Debug\net6.0\Stealer.dll
+D:\SoftUni\C# OOP - февруари 2024\Reflection and Attributes - Lab\Stealer\obj\Debug\net6.0\refint\Stealer.dll
+D:\SoftUni\C# OOP - февруари 2024\Reflection and Attributes - Lab\Stealer\obj\Debug\net6.0\Stealer.pdb
+D:\SoftUni\C# OOP - февруари 2024\Reflection and Attributes - Lab\Stealer\obj\Debug\net6.0\Stealer.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Reflection and Attributes - Lab\Stealer\obj\Debug\net6.0\ref\Stealer.dll

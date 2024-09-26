@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A63335-FD29-4470-9151-D86790242E60}|Fighting Arena\\FightingArena.Tests\\FightingArena.Tests.csproj|d:\\softuni\\c# oop - feb 2024\\unit testing - exercises\\fighting arena\\fightingarena.tests\\warriortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A63335-FD29-4470-9151-D86790242E60}|Fighting Arena\\FightingArena.Tests\\FightingArena.Tests.csproj|solutionrelative:fighting arena\\fightingarena.tests\\warriortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A63335-FD29-4470-9151-D86790242E60}|Fighting Arena\\FightingArena.Tests\\FightingArena.Tests.csproj|d:\\softuni\\c# oop - feb 2024\\unit testing - exercises\\fighting arena\\fightingarena.tests\\arenatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A63335-FD29-4470-9151-D86790242E60}|Fighting Arena\\FightingArena.Tests\\FightingArena.Tests.csproj|solutionrelative:fighting arena\\fightingarena.tests\\arenatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05096DA3-4F87-4FA7-AC5E-D44B70471110}|Fighting Arena\\FightingArena\\FightingArena.csproj|d:\\softuni\\c# oop - feb 2024\\unit testing - exercises\\fighting arena\\fightingarena\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05096DA3-4F87-4FA7-AC5E-D44B70471110}|Fighting Arena\\FightingArena\\FightingArena.csproj|solutionrelative:fighting arena\\fightingarena\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92065EF8-9136-4F4E-B806-7BA276E11019}|Car Manager\\CarManager.Tests\\CarManager.Tests.csproj|d:\\softuni\\c# oop - feb 2024\\unit testing - exercises\\car manager\\carmanager.tests\\carmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92065EF8-9136-4F4E-B806-7BA276E11019}|Car Manager\\CarManager.Tests\\CarManager.Tests.csproj|solutionrelative:car manager\\carmanager.tests\\carmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85ED97D-92C3-401B-8052-FA288909F499}|Extended Database\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj|d:\\softuni\\c# oop - feb 2024\\unit testing - exercises\\extended database\\databaseextended.tests\\extendeddatabasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85ED97D-92C3-401B-8052-FA288909F499}|Extended Database\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj|solutionrelative:extended database\\databaseextended.tests\\extendeddatabasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CBB9B2-06C4-4A0E-B984-C5D4AF4E54A6}|Database\\Database\\Database.csproj|d:\\softuni\\c# oop - feb 2024\\unit testing - exercises\\database\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CBB9B2-06C4-4A0E-B984-C5D4AF4E54A6}|Database\\Database\\Database.csproj|solutionrelative:database\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3DDD0E-F57D-461C-A62E-D5E080B6074E}|Extended Database\\DatabaseExtended\\DatabaseExtended.csproj|d:\\softuni\\c# oop - feb 2024\\unit testing - exercises\\extended database\\databaseextended\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3DDD0E-F57D-461C-A62E-D5E080B6074E}|Extended Database\\DatabaseExtended\\DatabaseExtended.csproj|solutionrelative:extended database\\databaseextended\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8EE6B5-FC4C-4CCE-B97B-0C2E9B09237E}|Database\\Database.Tests\\Database.Tests.csproj|d:\\softuni\\c# oop - feb 2024\\unit testing - exercises\\database\\database.tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8EE6B5-FC4C-4CCE-B97B-0C2E9B09237E}|Database\\Database.Tests\\Database.Tests.csproj|solutionrelative:database\\database.tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3DDD0E-F57D-461C-A62E-D5E080B6074E}|Extended Database\\DatabaseExtended\\DatabaseExtended.csproj|d:\\softuni\\c# oop - feb 2024\\unit testing - exercises\\extended database\\databaseextended\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3DDD0E-F57D-461C-A62E-D5E080B6074E}|Extended Database\\DatabaseExtended\\DatabaseExtended.csproj|solutionrelative:extended database\\databaseextended\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Fighting Arena\\FightingArena\\Warrior.cs",
+              "RelativeDocumentMoniker": "Fighting Arena\\FightingArena\\Warrior.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Fighting Arena\\FightingArena\\Warrior.cs",
+              "RelativeToolTip": "Fighting Arena\\FightingArena\\Warrior.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:11:09.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WarriorTests.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Fighting Arena\\FightingArena.Tests\\WarriorTests.cs",
+              "RelativeDocumentMoniker": "Fighting Arena\\FightingArena.Tests\\WarriorTests.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Fighting Arena\\FightingArena.Tests\\WarriorTests.cs",
+              "RelativeToolTip": "Fighting Arena\\FightingArena.Tests\\WarriorTests.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAuwFoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:11:09.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArenaTests.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Fighting Arena\\FightingArena.Tests\\ArenaTests.cs",
+              "RelativeDocumentMoniker": "Fighting Arena\\FightingArena.Tests\\ArenaTests.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Fighting Arena\\FightingArena.Tests\\ArenaTests.cs",
+              "RelativeToolTip": "Fighting Arena\\FightingArena.Tests\\ArenaTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:11:09.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarManagerTests.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Car Manager\\CarManager.Tests\\CarManagerTests.cs",
+              "RelativeDocumentMoniker": "Car Manager\\CarManager.Tests\\CarManagerTests.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Car Manager\\CarManager.Tests\\CarManagerTests.cs",
+              "RelativeToolTip": "Car Manager\\CarManager.Tests\\CarManagerTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:11:09.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Extended Database\\DatabaseExtended\\Person.cs",
+              "RelativeDocumentMoniker": "Extended Database\\DatabaseExtended\\Person.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Extended Database\\DatabaseExtended\\Person.cs",
+              "RelativeToolTip": "Extended Database\\DatabaseExtended\\Person.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:11:09.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Extended Database\\DatabaseExtended\\Database.cs",
+              "RelativeDocumentMoniker": "Extended Database\\DatabaseExtended\\Database.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Extended Database\\DatabaseExtended\\Database.cs",
+              "RelativeToolTip": "Extended Database\\DatabaseExtended\\Database.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAewD4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:11:09.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtendedDatabaseTests.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Extended Database\\DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
+              "RelativeDocumentMoniker": "Extended Database\\DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Extended Database\\DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
+              "RelativeToolTip": "Extended Database\\DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAQwN4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:11:09.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Database\\Database\\Database.cs",
+              "RelativeDocumentMoniker": "Database\\Database\\Database.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Database\\Database\\Database.cs",
+              "RelativeToolTip": "Database\\Database\\Database.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:11:09.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseTests.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Database\\Database.Tests\\DatabaseTests.cs",
+              "RelativeDocumentMoniker": "Database\\Database.Tests\\DatabaseTests.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - Feb 2024\\Unit Testing - Exercises\\Database\\Database.Tests\\DatabaseTests.cs",
+              "RelativeToolTip": "Database\\Database.Tests\\DatabaseTests.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAcwIcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:11:09.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6bad2e11_002D00b1_002D4e21_002Da097_002D1bebab26dacf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Attack_AttackerHasLessDmgThanAttacked_ShouldThrow" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E0A63335-FD29-4470-9151-D86790242E60::net6.0::FightingArena.Tests.WarriorTests.Attack_AttackerHasLessHPThanAttackedDMG_ShouldThrow&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E0A63335-FD29-4470-9151-D86790242E60::net6.0::FightingArena.Tests.WarriorTests.Attack_DMGIsMoreThanHP&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E0A63335-FD29-4470-9151-D86790242E60::net6.0::FightingArena.Tests.WarriorTests.AttackMethod_DMGIsMoreThanHP&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

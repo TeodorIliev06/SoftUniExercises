@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Facade\bin\Debug\net6.0\Facade.exe
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Facade\bin\Debug\net6.0\Facade.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Facade\bin\Debug\net6.0\Facade.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Facade\bin\Debug\net6.0\Facade.dll
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Facade\bin\Debug\net6.0\Facade.pdb
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Facade\obj\Debug\net6.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Facade\obj\Debug\net6.0\Facade.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Facade\obj\Debug\net6.0\Facade.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Facade\obj\Debug\net6.0\Facade.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Facade\obj\Debug\net6.0\Facade.dll
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Facade\obj\Debug\net6.0\refint\Facade.dll
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Facade\obj\Debug\net6.0\Facade.pdb
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Facade\obj\Debug\net6.0\Facade.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Facade\obj\Debug\net6.0\ref\Facade.dll

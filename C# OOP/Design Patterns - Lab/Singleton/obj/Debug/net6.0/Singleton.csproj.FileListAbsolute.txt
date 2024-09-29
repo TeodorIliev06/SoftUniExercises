@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Singleton\bin\Debug\net6.0\Singleton.exe
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Singleton\bin\Debug\net6.0\Singleton.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Singleton\bin\Debug\net6.0\Singleton.dll
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Singleton\bin\Debug\net6.0\Singleton.pdb
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Singleton\obj\Debug\net6.0\Singleton.dll
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Singleton\obj\Debug\net6.0\refint\Singleton.dll
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Singleton\obj\Debug\net6.0\Singleton.pdb
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Lab\Singleton\obj\Debug\net6.0\ref\Singleton.dll

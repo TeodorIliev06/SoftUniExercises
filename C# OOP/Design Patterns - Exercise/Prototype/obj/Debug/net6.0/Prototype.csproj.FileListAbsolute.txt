@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Exercise\Prototype\bin\Debug\net6.0\Prototype.exe
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Exercise\Prototype\bin\Debug\net6.0\Prototype.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Exercise\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Exercise\Prototype\bin\Debug\net6.0\Prototype.dll
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Exercise\Prototype\bin\Debug\net6.0\Prototype.pdb
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Exercise\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Exercise\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Exercise\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Exercise\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Exercise\Prototype\obj\Debug\net6.0\Prototype.dll
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Exercise\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Exercise\Prototype\obj\Debug\net6.0\Prototype.pdb
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Exercise\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Design Patterns - Exercise\Prototype\obj\Debug\net6.0\ref\Prototype.dll

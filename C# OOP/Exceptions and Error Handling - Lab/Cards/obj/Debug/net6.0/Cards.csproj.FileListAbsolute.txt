@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\Cards\bin\Debug\net6.0\Cards.exe
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\Cards\bin\Debug\net6.0\Cards.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\Cards\bin\Debug\net6.0\Cards.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\Cards\bin\Debug\net6.0\Cards.dll
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\Cards\bin\Debug\net6.0\Cards.pdb
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\Cards\obj\Debug\net6.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\Cards\obj\Debug\net6.0\Cards.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\Cards\obj\Debug\net6.0\Cards.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\Cards\obj\Debug\net6.0\Cards.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\Cards\obj\Debug\net6.0\Cards.dll
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\Cards\obj\Debug\net6.0\refint\Cards.dll
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\Cards\obj\Debug\net6.0\Cards.pdb
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\Cards\obj\Debug\net6.0\Cards.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\Cards\obj\Debug\net6.0\ref\Cards.dll

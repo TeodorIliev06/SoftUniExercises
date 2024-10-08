@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\EnterNumbers\bin\Debug\net6.0\EnterNumbers.exe
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\EnterNumbers\bin\Debug\net6.0\EnterNumbers.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\EnterNumbers\bin\Debug\net6.0\EnterNumbers.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\EnterNumbers\bin\Debug\net6.0\EnterNumbers.dll
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\EnterNumbers\bin\Debug\net6.0\EnterNumbers.pdb
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\net6.0\EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\net6.0\EnterNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\net6.0\EnterNumbers.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\net6.0\EnterNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\net6.0\EnterNumbers.dll
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\net6.0\refint\EnterNumbers.dll
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\net6.0\EnterNumbers.pdb
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\net6.0\EnterNumbers.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\EnterNumbers\obj\Debug\net6.0\ref\EnterNumbers.dll

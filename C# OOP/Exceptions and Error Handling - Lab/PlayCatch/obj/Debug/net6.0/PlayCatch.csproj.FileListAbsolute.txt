@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\PlayCatch\bin\Debug\net6.0\PlayCatch.exe
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\PlayCatch\bin\Debug\net6.0\PlayCatch.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\PlayCatch\bin\Debug\net6.0\PlayCatch.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\PlayCatch\bin\Debug\net6.0\PlayCatch.dll
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\PlayCatch\bin\Debug\net6.0\PlayCatch.pdb
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\net6.0\PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\net6.0\PlayCatch.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\net6.0\PlayCatch.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\net6.0\PlayCatch.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\net6.0\PlayCatch.dll
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\net6.0\refint\PlayCatch.dll
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\net6.0\PlayCatch.pdb
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\net6.0\PlayCatch.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\PlayCatch\obj\Debug\net6.0\ref\PlayCatch.dll

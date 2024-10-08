@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.exe
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.dll
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.pdb
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.dll
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\net6.0\refint\MoneyTransactions.dll
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.pdb
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\MoneyTransactions\obj\Debug\net6.0\ref\MoneyTransactions.dll

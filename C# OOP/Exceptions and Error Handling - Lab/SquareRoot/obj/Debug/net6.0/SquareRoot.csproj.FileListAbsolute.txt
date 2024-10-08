@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\SquareRoot\bin\Debug\net6.0\SquareRoot.exe
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\SquareRoot\bin\Debug\net6.0\SquareRoot.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\SquareRoot\bin\Debug\net6.0\SquareRoot.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\SquareRoot\bin\Debug\net6.0\SquareRoot.dll
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\SquareRoot\bin\Debug\net6.0\SquareRoot.pdb
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\net6.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\net6.0\SquareRoot.dll
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\net6.0\refint\SquareRoot.dll
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\net6.0\SquareRoot.pdb
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\net6.0\SquareRoot.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Exceptions and Error Handling - Lab\SquareRoot\obj\Debug\net6.0\ref\SquareRoot.dll

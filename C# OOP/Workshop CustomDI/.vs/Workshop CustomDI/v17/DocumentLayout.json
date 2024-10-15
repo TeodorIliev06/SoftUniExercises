@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{168E1C78-AEB0-4A7A-A3E4-3FF2547C1C05}|CustomDI\\CustomDI.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop customdi\\customdi\\modules\\servicecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168E1C78-AEB0-4A7A-A3E4-3FF2547C1C05}|CustomDI\\CustomDI.csproj|solutionrelative:customdi\\modules\\servicecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168E1C78-AEB0-4A7A-A3E4-3FF2547C1C05}|CustomDI\\CustomDI.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop customdi\\customdi\\modules\\contracts\\iserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168E1C78-AEB0-4A7A-A3E4-3FF2547C1C05}|CustomDI\\CustomDI.csproj|solutionrelative:customdi\\modules\\contracts\\iserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBACC23-C1EC-4890-AC3A-2E3F61AEB128}|CustomDIUsage\\CustomDIUsage.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop customdi\\customdiusage\\modules\\contracts\\irandomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBACC23-C1EC-4890-AC3A-2E3F61AEB128}|CustomDIUsage\\CustomDIUsage.csproj|solutionrelative:customdiusage\\modules\\contracts\\irandomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBACC23-C1EC-4890-AC3A-2E3F61AEB128}|CustomDIUsage\\CustomDIUsage.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop customdi\\customdiusage\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBACC23-C1EC-4890-AC3A-2E3F61AEB128}|CustomDIUsage\\CustomDIUsage.csproj|solutionrelative:customdiusage\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBACC23-C1EC-4890-AC3A-2E3F61AEB128}|CustomDIUsage\\CustomDIUsage.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop customdi\\customdiusage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBACC23-C1EC-4890-AC3A-2E3F61AEB128}|CustomDIUsage\\CustomDIUsage.csproj|solutionrelative:customdiusage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168E1C78-AEB0-4A7A-A3E4-3FF2547C1C05}|CustomDI\\CustomDI.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop customdi\\customdi\\modules\\serviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168E1C78-AEB0-4A7A-A3E4-3FF2547C1C05}|CustomDI\\CustomDI.csproj|solutionrelative:customdi\\modules\\serviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168E1C78-AEB0-4A7A-A3E4-3FF2547C1C05}|CustomDI\\CustomDI.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop customdi\\customdi\\modules\\contracts\\iservicecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168E1C78-AEB0-4A7A-A3E4-3FF2547C1C05}|CustomDI\\CustomDI.csproj|solutionrelative:customdi\\modules\\contracts\\iservicecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168E1C78-AEB0-4A7A-A3E4-3FF2547C1C05}|CustomDI\\CustomDI.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop customdi\\customdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168E1C78-AEB0-4A7A-A3E4-3FF2547C1C05}|CustomDI\\CustomDI.csproj|solutionrelative:customdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBACC23-C1EC-4890-AC3A-2E3F61AEB128}|CustomDIUsage\\CustomDIUsage.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop customdi\\customdiusage\\modules\\smallrandomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBACC23-C1EC-4890-AC3A-2E3F61AEB128}|CustomDIUsage\\CustomDIUsage.csproj|solutionrelative:customdiusage\\modules\\smallrandomgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBACC23-C1EC-4890-AC3A-2E3F61AEB128}|CustomDIUsage\\CustomDIUsage.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop customdi\\customdiusage\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBACC23-C1EC-4890-AC3A-2E3F61AEB128}|CustomDIUsage\\CustomDIUsage.csproj|solutionrelative:customdiusage\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SmallRandomGenerator.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDIUsage\\Modules\\SmallRandomGenerator.cs",
+              "RelativeDocumentMoniker": "CustomDIUsage\\Modules\\SmallRandomGenerator.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDIUsage\\Modules\\SmallRandomGenerator.cs",
+              "RelativeToolTip": "CustomDIUsage\\Modules\\SmallRandomGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:33:11.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRandomGenerator.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDIUsage\\Modules\\Contracts\\IRandomGenerator.cs",
+              "RelativeDocumentMoniker": "CustomDIUsage\\Modules\\Contracts\\IRandomGenerator.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDIUsage\\Modules\\Contracts\\IRandomGenerator.cs",
+              "RelativeToolTip": "CustomDIUsage\\Modules\\Contracts\\IRandomGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:32:52.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DIContainer.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDIUsage\\DIContainer.cs",
+              "RelativeDocumentMoniker": "CustomDIUsage\\DIContainer.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDIUsage\\DIContainer.cs",
+              "RelativeToolTip": "CustomDIUsage\\DIContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:18:29.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDIUsage\\Program.cs",
+              "RelativeDocumentMoniker": "CustomDIUsage\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDIUsage\\Program.cs",
+              "RelativeToolTip": "CustomDIUsage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:30:53.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceProvider.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDI\\Modules\\ServiceProvider.cs",
+              "RelativeDocumentMoniker": "CustomDI\\Modules\\ServiceProvider.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDI\\Modules\\ServiceProvider.cs",
+              "RelativeToolTip": "CustomDI\\Modules\\ServiceProvider.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:18:45.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IServiceCollection.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDI\\Modules\\Contracts\\IServiceCollection.cs",
+              "RelativeDocumentMoniker": "CustomDI\\Modules\\Contracts\\IServiceCollection.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDI\\Modules\\Contracts\\IServiceCollection.cs",
+              "RelativeToolTip": "CustomDI\\Modules\\Contracts\\IServiceCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:04:43.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IServiceProvider.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDI\\Modules\\Contracts\\IServiceProvider.cs",
+              "RelativeDocumentMoniker": "CustomDI\\Modules\\Contracts\\IServiceProvider.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDI\\Modules\\Contracts\\IServiceProvider.cs",
+              "RelativeToolTip": "CustomDI\\Modules\\Contracts\\IServiceProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:02:11.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceCollection.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDI\\Modules\\ServiceCollection.cs",
+              "RelativeDocumentMoniker": "CustomDI\\Modules\\ServiceCollection.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDI\\Modules\\ServiceCollection.cs",
+              "RelativeToolTip": "CustomDI\\Modules\\ServiceCollection.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:01:45.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDI\\Program.cs",
+              "RelativeDocumentMoniker": "CustomDI\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDI\\Program.cs",
+              "RelativeToolTip": "CustomDI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:00:35.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDIUsage\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "CustomDIUsage\\Core\\Engine.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop CustomDI\\CustomDIUsage\\Core\\Engine.cs",
+              "RelativeToolTip": "CustomDIUsage\\Core\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:33:52.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

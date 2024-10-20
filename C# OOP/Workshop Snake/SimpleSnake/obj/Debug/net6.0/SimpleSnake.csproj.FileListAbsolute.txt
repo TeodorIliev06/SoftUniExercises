@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - февруари 2024\Workshop Snake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - февруари 2024\Workshop Snake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Workshop Snake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.AssemblyInfo.cs
+D:\SoftUni\C# OOP - февруари 2024\Workshop Snake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - февруари 2024\Workshop Snake\SimpleSnake\bin\Debug\net6.0\SimpleSnake.exe
+D:\SoftUni\C# OOP - февруари 2024\Workshop Snake\SimpleSnake\bin\Debug\net6.0\SimpleSnake.deps.json
+D:\SoftUni\C# OOP - февруари 2024\Workshop Snake\SimpleSnake\bin\Debug\net6.0\SimpleSnake.runtimeconfig.json
+D:\SoftUni\C# OOP - февруари 2024\Workshop Snake\SimpleSnake\bin\Debug\net6.0\SimpleSnake.dll
+D:\SoftUni\C# OOP - февруари 2024\Workshop Snake\SimpleSnake\bin\Debug\net6.0\SimpleSnake.pdb
+D:\SoftUni\C# OOP - февруари 2024\Workshop Snake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.dll
+D:\SoftUni\C# OOP - февруари 2024\Workshop Snake\SimpleSnake\obj\Debug\net6.0\refint\SimpleSnake.dll
+D:\SoftUni\C# OOP - февруари 2024\Workshop Snake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.pdb
+D:\SoftUni\C# OOP - февруари 2024\Workshop Snake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.genruntimeconfig.cache
+D:\SoftUni\C# OOP - февруари 2024\Workshop Snake\SimpleSnake\obj\Debug\net6.0\ref\SimpleSnake.dll

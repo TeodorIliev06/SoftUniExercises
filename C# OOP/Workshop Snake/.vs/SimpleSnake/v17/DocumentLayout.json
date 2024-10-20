@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop snake\\simplesnake\\gameobjects\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop snake\\simplesnake\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop snake\\simplesnake\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop snake\\simplesnake\\core\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\core\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop snake\\simplesnake\\gameobjects\\foodtypes\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\foodtypes\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop snake\\simplesnake\\gameobjects\\foodtypes\\fooddollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\foodtypes\\fooddollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop snake\\simplesnake\\gameobjects\\foodtypes\\foodasterisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\foodtypes\\foodasterisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop snake\\simplesnake\\gameobjects\\foodtypes\\foodhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\foodtypes\\foodhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop snake\\simplesnake\\gameobjects\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|d:\\softuni\\c# oop - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\workshop snake\\simplesnake\\gameobjects\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E254FC-298E-442F-A859-E098E05140EE}|SimpleSnake\\SimpleSnake.csproj|solutionrelative:simplesnake\\gameobjects\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\StartUp.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\StartUp.cs",
+              "RelativeToolTip": "SimpleSnake\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T14:16:28.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\Core\\IEngine.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\Core\\IEngine.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\Core\\IEngine.cs",
+              "RelativeToolTip": "SimpleSnake\\Core\\IEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:14:03.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\Core\\Engine.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\Core\\Engine.cs",
+              "RelativeToolTip": "SimpleSnake\\Core\\Engine.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAlwDYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:09:45.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\GameObjects\\Snake.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\Snake.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\GameObjects\\Snake.cs",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\Snake.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAuwGIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:49:34.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodHash.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\GameObjects\\FoodTypes\\FoodHash.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\FoodTypes\\FoodHash.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\GameObjects\\FoodTypes\\FoodHash.cs",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\FoodTypes\\FoodHash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:48:56.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodDollar.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\GameObjects\\FoodTypes\\FoodDollar.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\FoodTypes\\FoodDollar.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\GameObjects\\FoodTypes\\FoodDollar.cs",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\FoodTypes\\FoodDollar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:48:24.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodAsterisk.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\GameObjects\\FoodTypes\\FoodAsterisk.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\FoodTypes\\FoodAsterisk.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\GameObjects\\FoodTypes\\FoodAsterisk.cs",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\FoodTypes\\FoodAsterisk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:41:38.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\GameObjects\\FoodTypes\\Food.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\FoodTypes\\Food.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\GameObjects\\FoodTypes\\Food.cs",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\FoodTypes\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:28:52.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\GameObjects\\Wall.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\Wall.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\GameObjects\\Wall.cs",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\Wall.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:23:57.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\GameObjects\\Point.cs",
+              "RelativeDocumentMoniker": "SimpleSnake\\GameObjects\\Point.cs",
+              "ToolTip": "D:\\SoftUni\\C# OOP - \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438 2024\\Workshop Snake\\SimpleSnake\\GameObjects\\Point.cs",
+              "RelativeToolTip": "SimpleSnake\\GameObjects\\Point.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:19:16.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

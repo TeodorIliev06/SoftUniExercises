@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.exe
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.deps.json
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.runtimeconfig.json
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.dll
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\SocialMediaManager\bin\Debug\net6.0\SocialMediaManager.pdb
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.AssemblyInfo.cs
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.dll
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\SocialMediaManager\obj\Debug\net6.0\refint\SocialMediaManager.dll
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.pdb
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\SocialMediaManager\obj\Debug\net6.0\SocialMediaManager.genruntimeconfig.cache
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\SocialMediaManager\obj\Debug\net6.0\ref\SocialMediaManager.dll

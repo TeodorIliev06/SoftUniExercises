@@ -1,0 +1,14 @@
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.exe
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.deps.json
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.runtimeconfig.json
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.dll
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\InfluencerManagerApp\bin\Debug\net6.0\InfluencerManagerApp.pdb
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.AssemblyInfo.cs
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.dll
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\InfluencerManagerApp\obj\Debug\net6.0\refint\InfluencerManagerApp.dll
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.pdb
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\InfluencerManagerApp\obj\Debug\net6.0\InfluencerManagerApp.genruntimeconfig.cache
+D:\SoftUni\C# OOP - Feb 2024\Exam Prep\Apr 24\InfluencerManagerApp\obj\Debug\net6.0\ref\InfluencerManagerApp.dll

@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\Quicksort\bin\Debug\net6.0\Quicksort.exe
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\Quicksort\bin\Debug\net6.0\Quicksort.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\Quicksort\bin\Debug\net6.0\Quicksort.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\Quicksort\bin\Debug\net6.0\Quicksort.dll
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\Quicksort\bin\Debug\net6.0\Quicksort.pdb
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\Quicksort\obj\Debug\net6.0\Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\Quicksort\obj\Debug\net6.0\Quicksort.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\Quicksort\obj\Debug\net6.0\Quicksort.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\Quicksort\obj\Debug\net6.0\Quicksort.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\Quicksort\obj\Debug\net6.0\Quicksort.dll
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\Quicksort\obj\Debug\net6.0\refint\Quicksort.dll
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\Quicksort\obj\Debug\net6.0\Quicksort.pdb
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\Quicksort\obj\Debug\net6.0\Quicksort.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\Quicksort\obj\Debug\net6.0\ref\Quicksort.dll

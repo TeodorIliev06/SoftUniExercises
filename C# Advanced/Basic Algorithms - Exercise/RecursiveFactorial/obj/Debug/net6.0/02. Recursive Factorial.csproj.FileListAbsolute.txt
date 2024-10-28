@@ -1,0 +1,28 @@
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.exe
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.dll
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.pdb
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.dll
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\refint\02. Recursive Factorial.dll
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.pdb
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\net6.0\ref\02. Recursive Factorial.dll
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\RecursiveFactorial\bin\Debug\net6.0\02. Recursive Factorial.exe
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\RecursiveFactorial\bin\Debug\net6.0\02. Recursive Factorial.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\RecursiveFactorial\bin\Debug\net6.0\02. Recursive Factorial.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\RecursiveFactorial\bin\Debug\net6.0\02. Recursive Factorial.dll
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\RecursiveFactorial\bin\Debug\net6.0\02. Recursive Factorial.pdb
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\RecursiveFactorial\obj\Debug\net6.0\02. Recursive Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\RecursiveFactorial\obj\Debug\net6.0\02. Recursive Factorial.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\RecursiveFactorial\obj\Debug\net6.0\02. Recursive Factorial.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\RecursiveFactorial\obj\Debug\net6.0\02. Recursive Factorial.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\RecursiveFactorial\obj\Debug\net6.0\02. Recursive Factorial.dll
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\RecursiveFactorial\obj\Debug\net6.0\refint\02. Recursive Factorial.dll
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\RecursiveFactorial\obj\Debug\net6.0\02. Recursive Factorial.pdb
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\RecursiveFactorial\obj\Debug\net6.0\02. Recursive Factorial.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\RecursiveFactorial\obj\Debug\net6.0\ref\02. Recursive Factorial.dll

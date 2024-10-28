@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\MergeSort\bin\Debug\net6.0\MergeSort.exe
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\MergeSort\bin\Debug\net6.0\MergeSort.deps.json
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\MergeSort\bin\Debug\net6.0\MergeSort.runtimeconfig.json
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\MergeSort\bin\Debug\net6.0\MergeSort.dll
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\MergeSort\bin\Debug\net6.0\MergeSort.pdb
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\MergeSort\obj\Debug\net6.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\MergeSort\obj\Debug\net6.0\MergeSort.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\MergeSort\obj\Debug\net6.0\MergeSort.dll
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\MergeSort\obj\Debug\net6.0\refint\MergeSort.dll
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\MergeSort\obj\Debug\net6.0\MergeSort.pdb
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\MergeSort\obj\Debug\net6.0\MergeSort.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - януари 2024\Basic Algorithms - Exercise\MergeSort\obj\Debug\net6.0\ref\MergeSort.dll

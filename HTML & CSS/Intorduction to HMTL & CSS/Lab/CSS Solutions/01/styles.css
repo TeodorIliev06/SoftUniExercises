@@ -1,0 +1,31 @@
+h1 {
+    color: blue;
+}
+
+p {
+    font-size: 20px;
+}
+
+div {
+    background-color: red;
+}
+
+li {
+    color: blanchedalmond;
+}
+
+.highlight {
+    background-color: orange;
+}
+
+#main-title {
+    color: aqua;
+}
+
+#special-paragraph {
+    font-style: italic;
+}
+
+#list-style {
+    list-style-type: disc;
+}

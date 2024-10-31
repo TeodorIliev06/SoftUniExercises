@@ -1,0 +1,27 @@
+section p {
+    color: blue;
+    font-weight: bold;
+}
+
+.special-list > li {
+    background-color: lightgray;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+article.highlighted + article {
+    background-color: lightyellow;
+    border-left: 4px solid orange;
+    padding: 10px;
+}
+
+.special-heading ~ p {
+    color: darkgreen;
+    font-style: italic;
+    margin-left: 20px;
+}
+
+.special-list li + li ul li {
+    color: red;
+    text-decoration: underline;
+}

@@ -1,0 +1,27 @@
+p.special-paragraph {
+    color: orangered;
+    font-size: large;
+}
+
+.just-some-class {
+    font-weight: 600;
+}
+
+.another-class {
+    font-weight: 600;
+}
+
+.just-some-class.another-class {
+    font-style: italic;
+    font-weight: bold;
+}
+
+div#special-div {
+    background-color: aquamarine;
+    padding: 0px;
+}
+
+input[type="text"].text-input {
+    border-color: black;
+    padding: 0px;
+}

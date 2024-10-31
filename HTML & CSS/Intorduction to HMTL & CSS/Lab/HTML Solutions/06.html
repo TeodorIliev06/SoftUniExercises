@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Images and Gallery</title>
+    <style>
+        .image-size {
+            width: 300px;
+            height: auto;
+            display: block;
+            margin: 20px;
+        }
+
+        .image-gallery {
+            display: flex;
+            justify-content: left;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .image-gallery img {
+            width: 150px;
+            height: auto;
+            display: block;
+        }
+
+        .image-list {
+            padding: 0;
+            margin: 0;
+        }
+
+        .image-list li {
+            margin-bottom: 10px;
+        }
+
+        .image-list img {
+            width: 150px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Images</h1>
+    <p>The img element embeds an image into the document.</p>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi distinctio asperiores accusamus dolorum dolores aliquam vero iusto velit? Illo quas beatae, soluta amet ea id repellat iure aspernatur recusandae nulla!</p>
+
+    <!-- Main large images with CSS applied for size and centering -->
+    <img class="image-size" src="https://plus.unsplash.com/premium_photo-1661962249814-f0294a3846e6?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Lighthouse">
+
+    <p>Minus tenetur quod, dolor, hic ratione quidem quo accusamus quos vitae numquam asperiores, officiis incidunt aliquam. Sed modi quae reiciendis quam ratione?</p>
+
+    <img class="image-size" src="https://images.unsplash.com/reserve/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg?q=80&w=1992&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Typewriter">
+
+    <p>Sit quas dolorum vel ad fugiat nulla, esse at numquam libero reiciendis saepe rerum voluptatem? Inventore molestias natus esse, doloribus sint recusandae?</p>
+
+    <h2>Images next to each other</h2>
+
+    <!-- Image Gallery Section -->
+    <div class="image-gallery">
+        <img src="https://plus.unsplash.com/premium_photo-1676272769520-e0b5af99c509?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Flower">
+        <img src="https://images.unsplash.com/photo-1444930694458-01babf71870c?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Roses">
+        <img src="https://images.unsplash.com/photo-1706971666786-ead720c262ca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmFyY2lzc3VzZXN8ZW58MHx8MHx8fDA%3D" alt="Rainbow Rose">
+        <img src="https://images.unsplash.com/photo-1667851873839-d7c9f20b8b3f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Colorful Flowers">
+    </div>
+
+    <h2>Image Gallery (List of images)</h2>
+
+    <!-- Image Gallery as a list -->
+    <ul class="image-list">
+        <li><img src="https://plus.unsplash.com/premium_photo-1676272769520-e0b5af99c509?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Flower"></li>
+        <li><img src="https://images.unsplash.com/photo-1444930694458-01babf71870c?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Roses"></li>
+        <li><img src="https://images.unsplash.com/photo-1706971666786-ead720c262ca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmFyY2lzc3VzZXN8ZW58MHx8MHx8fDA%3D" alt="Rainbow Rose"></li>
+        <li><img src="https://images.unsplash.com/photo-1667851873839-d7c9f20b8b3f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Colorful Flowers"></li>
+    </ul>
+</body>
+</html>

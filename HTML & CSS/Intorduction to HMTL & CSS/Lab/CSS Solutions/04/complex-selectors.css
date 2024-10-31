@@ -1,0 +1,47 @@
+nav a {
+    color: royalblue;
+}
+
+div.parent > section {
+    background-color: lightgray;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+section + header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: 2px solid #ddd;
+    color: #333;
+}
+
+section.special-section ~ article {
+    background-color: #fafafa;
+    border-left: 4px solid green;
+    padding: 15px;
+    margin-top: 10px;
+}
+
+form.special-form input[type="text"] {
+    border: 2px solid #333;
+    padding: 8px;
+    width: 100%;
+}
+
+ul.nav-list li:first-child {
+    font-weight: bold;
+}
+
+ul.nav-list li:last-child {
+    font-style: italic; 
+}
+
+#our-services::before {
+    color: gold;
+    font-size: 20px;
+}
+
+#additional-info::after {
+    color: blue;
+    font-size: 14px;
+}

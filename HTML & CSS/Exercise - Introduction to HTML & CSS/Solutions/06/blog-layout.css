@@ -1,0 +1,8 @@
+nav {
+    font-size: 20px;
+}
+
+nav.navbar-sidebar,
+nav.navbar-sidebar a {
+    color: red;
+}

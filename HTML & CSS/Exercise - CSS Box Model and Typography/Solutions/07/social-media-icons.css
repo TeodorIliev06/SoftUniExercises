@@ -1,0 +1,19 @@
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.socials h2 {
+    font-weight: 600;
+}
+
+.socials a.icon {
+    border-radius: 50%;
+    border: 2px solid #ebebeb;
+    background: #ebebeb;
+    padding: 10px;
+    display: inline-block;
+    margin: 10px 5px;
+    text-align: center;
+    font-size: 1.3rem;
+}

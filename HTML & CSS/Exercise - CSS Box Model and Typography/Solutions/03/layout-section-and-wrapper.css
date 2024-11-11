@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%;
+    border: 2px solid green;
+}
+
+.section-container {
+    height: 20vh;
+    border: 2px solid black;
+    margin: 30px;
+}
+
+.section-container div {
+    border: 2px solid blue;
+    width: 80%;    
+    height: 50%;    
+    margin: 30px auto;   
+    padding: 20px;
+    font-weight: bold;
+}
+
+.section-container div p{
+    margin: 20px auto; 
+    padding: 10px;
+    font-weight: bold;
+}
+
+.section-container:last-child {
+    margin-bottom: 0;
+}

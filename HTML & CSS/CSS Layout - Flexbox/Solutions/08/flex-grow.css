@@ -1,0 +1,23 @@
+.flex-nogrow .flex-item{
+    flex-grow: 0;
+}
+
+.flex-grow-one .flex-item{
+    flex-grow: 1;
+}
+
+.flex-grow-2nd-only .flex-item:nth-child(2) {
+    flex-grow: 1;
+}
+
+.flex-grow-proportional .flex-item:first-child{
+    flex-grow: 1;
+}
+
+.flex-grow-proportional .flex-item:nth-child(2){
+    flex-grow: 2;
+}
+
+.flex-grow-proportional .flex-item:last-child{
+    flex-grow: 3;
+}

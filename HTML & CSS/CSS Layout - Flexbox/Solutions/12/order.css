@@ -1,0 +1,23 @@
+.custom-order .flex-item:first-child {
+    order: 5;
+}
+
+.custom-order .flex-item:nth-child(2) {
+    order: 3;
+}
+
+.custom-order .flex-item:nth-child(3) {
+    order: 1;
+}
+
+.custom-order .flex-item:nth-child(4) {
+    order: 6;
+}
+
+.custom-order .flex-item:nth-child(5) {
+    order: 2;
+}
+
+.custom-order .flex-item:last-child {
+    order: 2;
+}

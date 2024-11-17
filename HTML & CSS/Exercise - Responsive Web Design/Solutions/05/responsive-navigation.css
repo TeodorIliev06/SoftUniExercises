@@ -1,0 +1,57 @@
+body {
+    background-color: #eee;
+    font-family: Arial, sans-serif; /* Basic font */
+}
+
+/* Container settings */
+.container {
+    margin: 30px auto;
+    max-width: 1200px;
+}
+
+/* Adjust the flexbox container to align title and nav items */
+.nav-menu-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd;
+}
+
+.title {
+    flex: 0 0 50%;
+}
+
+.title h2 {
+    font-size: 2rem;
+}
+
+.nav-item a {
+    display: inline-block;
+    padding: 20px;
+    background-color: #eee;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+@media (max-width: 800px) {
+    .nav-menu-list {
+        justify-content: space-evenly; 
+        gap: 0px;
+    }
+
+    .title {
+        flex: 1 1 auto; 
+    }
+
+    .nav-item {
+        flex: 1;
+        text-align: center;
+    }
+}

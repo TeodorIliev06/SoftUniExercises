@@ -1,0 +1,86 @@
+body {
+    background: #eee;
+}
+
+.quote-container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 80%;
+    margin: 40px auto;
+    gap: 20px;
+}
+.quote-container article{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #fff;
+    padding: 20px;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+}
+
+.left-article {
+    flex: 0 0 70%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.left-article i {
+    font-size: 40px;
+}
+.left-article p:not(.author) {
+    font-size: 0.8rem;
+    color: #aaa;
+}
+
+.right-quotes .right-article {
+    flex-grow: 1;
+}
+
+.author {
+    font-size: 1.2rem;
+    font-weight: 800;
+}
+
+.outer-circle {
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 5px;
+    width: 100px;
+    border-radius: 50%;
+}
+.inner-circle {
+    background-color: #090;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+}
+
+.left-quotes {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    flex: 0 0 calc( 70% - 20px);
+}
+
+.right-quotes {
+    flex: 0 0 calc( 30% - 20px);
+    display: flex;
+    flex-direction: column;
+}
+.right-quotes article {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    flex-grow: 1;
+    align-items: flex-start;
+}
+
+@media (max-width: 800px) {
+    .outer-circle {
+        width: 80px;
+    }
+    .inner-circle {
+        height: 70px;
+        width: 70px;
+    }
+}

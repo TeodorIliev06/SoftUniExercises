@@ -1,0 +1,42 @@
+body {
+    background: #eee;
+    font-size: 20px;
+}
+.site {
+    width: 80%;
+    margin: 40px auto; 
+    background: #fff;
+    padding: 30px 60px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 3px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.site > * {
+    border: 1px solid #aaa;
+    border-radius: 3px;
+    padding: 20px;
+}
+.site > header,
+.site > footer {
+    flex: 1 1 100%;
+}
+.site > main {
+    flex-grow: 7;
+}
+.site > aside {
+    flex-grow: 3;
+}
+
+@media (max-width: 800px) {
+    .site {
+        flex-direction: column;
+    }
+    .site > header,
+    .site > main,
+    .site > aside,
+    .site > footer {
+        flex: 1 1 100%;
+    }
+}

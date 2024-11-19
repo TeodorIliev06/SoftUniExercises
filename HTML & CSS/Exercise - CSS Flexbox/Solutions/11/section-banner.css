@@ -1,0 +1,83 @@
+body {
+    background-color: #eee;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+article {
+    background-color: #fff;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 3px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+article .media {
+    flex: 0 0 30%;
+    order: 1;
+    overflow: hidden;
+    position: relative;
+    border-radius: 0.3em;
+    border: 1px solid #ccc;
+    background: #eee;
+    height: 200px;
+}
+
+article header {
+    padding-bottom: 0.5em;
+}
+
+article h1,
+article h2 {
+    line-height: 1;
+}
+
+article h1 {
+    font-size: 1.5rem;
+    font-weight: normal;
+    margin: 0.4rem 0;
+    opacity: 0.8;
+}
+
+article h2 {
+    opacity: 0.5;
+}
+
+article .content {
+    flex-grow: 1;
+}
+
+article p {
+    margin: 0 0 1rem 0;
+    opacity: 0.6;
+}
+
+.button {
+    display: inline-block;
+    color: #fff;
+    background: #639;
+    text-decoration: none;
+    padding: 0.5em 1.3em;
+    border-radius: 0.3em;
+}
+
+.button + .button {
+    margin-left: 1em;
+}
+
+.button.secondary {
+    background: #eee;
+    color: #666;
+}

@@ -1,0 +1,27 @@
+body {
+    min-height: 100vh;
+    padding: 20px;
+    border: 2px solid #008000;
+    display: flex;
+}
+
+.main-site {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.main-site > * {
+    border: 2px solid #0000ff;
+    padding: 20px;
+}
+.main-site > * + * {
+    margin-top: 20px;
+}
+.main-site > * p {
+    font-size: 0.8rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main-site-content {
+    flex: 1 1 auto;
+}

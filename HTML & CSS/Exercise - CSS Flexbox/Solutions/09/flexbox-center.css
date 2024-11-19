@@ -1,0 +1,27 @@
+body {
+    padding: 2em;
+    background: #eee;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    max-width: 80%;
+    background: #fff;
+    padding: 2em;
+    border-radius: 3px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.main-article header {
+    padding-bottom: 1em;
+}
+.main-article p, 
+.main-article ul {
+    padding-bottom: 20px;
+}
+.main-article ul {
+    padding-left: 30px;
+}

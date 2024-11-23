@@ -1,0 +1,84 @@
+body {
+    background: #eee;
+    font-family: 'Lato', sans-serif;
+}
+
+input {
+    font-style: inherit;
+}
+
+.loginForm {
+    background: #FFF;
+    box-shadow: 0 0 1em 0 rgb(0,0,0,0.2);
+    max-width: 400px;
+    margin: 30px auto;
+    padding: 40px;
+    border-radius: 5px;
+}
+
+fieldset {
+    border: none;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+legend {
+    width: 100px;
+    font-size: 1.3rem;
+    font-weight: 800;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+}
+
+.loginForm input:required ~ label::after {
+    content: '*';
+    color: #FF0000;
+    padding-left: 5px;
+}
+
+.loginForm input {
+    border: 2px solid silver;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.loginForm input[type="submit"] {
+    font-weight: 700;
+    padding: 1rem;
+    margin-top: 10px;
+    border: 0;
+    background: #ff8c00;
+    color: #FFF;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.container i {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.container label {
+    font-weight: 800;
+    order: -1;
+}
+
+.container p {
+    font-size: 0.8rem;
+    font-style: italic;
+    opacity: 0.6;
+    font-weight: 600;
+    line-height: 1.4;
+}

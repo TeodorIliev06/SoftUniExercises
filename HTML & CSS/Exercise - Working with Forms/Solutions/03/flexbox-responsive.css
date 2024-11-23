@@ -1,0 +1,50 @@
+.container {
+    background-color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    max-width: 900px;
+    width: 100%;
+    margin: 30px auto;
+    padding: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+.container div {
+    border-radius: 3px;
+    background-color: #ededed;
+    padding: 15px;
+    flex: 3;
+    font-size: 0.8rem;
+    color: #878787;
+}
+
+.container .email {
+    flex-grow: 5;
+}
+
+.container .subscribe {
+    flex-grow: 2;
+    text-align: center;
+    background-color: #ff8c00;
+    color: #fff;
+}
+
+@media (max-width: 600px)
+{
+    .container .subscribe {
+        flex-basis: 100%;
+    }
+}
+
+@media (max-width: 400px)
+{
+    .container .subscribe,
+    .container .email {
+        flex-basis: 100%;
+    }
+}

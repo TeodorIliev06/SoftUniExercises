@@ -1,0 +1,33 @@
+body {
+    font-family: 'Lato', sans-serif;
+    padding: 10px 30px;
+    border: 2px solid green;
+}
+
+.section {
+    border: 2px solid blue;
+    padding: 20px calc(50vw - 500px);
+    margin: 20px 0;
+}
+
+.section p {
+    font-weight: 500;
+}
+
+@media (max-width: 1200px) {
+    .section {
+        padding: 20px calc(50vw - 480px);
+    }
+}
+
+@media (max-width: 800px) {
+    .section {
+        padding: 20px 0;
+    }
+}
+
+h2 {
+    font-weight: 800;
+    font-size: 1rem;
+    margin-bottom: 20px;
+}

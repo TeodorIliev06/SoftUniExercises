@@ -1,0 +1,63 @@
+body {
+    background: #eee;
+    font-family: 'Lato', sans-serif;
+}
+
+input {
+    font-style: inherit;
+}
+
+.loginForm {
+    background: #FFF;
+    box-shadow: 0 0 1em 0 rgb(0,0,0,0.2);
+    max-width: 400px;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+fieldset {
+    border: none;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+legend {
+    font-size: 1.3rem;
+    font-weight: 800;
+    border-bottom: 1.5px solid #ccc;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+}
+
+.field label {
+    font-weight: 600;
+    order: -1;
+}
+
+.loginForm input:required ~ label::after {
+    content: '*';
+    color: #FF0000;
+    padding-left: 5px;
+}
+
+.loginForm input {
+    border: 2px solid silver;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.loginForm input[type="submit"] {
+    font-weight: 700;
+    padding: 1em;
+    margin-top: 10px;
+    border: 0;
+    background: #ff8c00;
+    color: #FFF;
+}

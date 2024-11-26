@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 5px;
+}
+
+.header-section {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    z-index: 999;
+    position: fixed;
+    width: 100%;
+    background-color: #FFF;
+}
+
+.inner-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 5px;
+}
+
+header nav li {
+    border-bottom: 1px solid transparent;
+}
+
+header nav li:hover {
+    border-bottom: 1px solid #9b5cc6;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    color: #54546d;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    font-weight: 500;
+    align-items: center;
+}
+
+nav ul > li:last-of-type {
+    text-transform: none;
+    background: #9b5cc6;
+    color: #FFF;
+    padding: 10px;
+    border-radius: 25px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+header nav ul > li:last-of-type {
+    background-color: #ff778f;
+}
+
+.inner-diploms {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 5px 50px 20px;
+    position: relative;
+    z-index: 3;
+}
+
+.diploms-data {
+    flex: 0 0 65%;
+    color: #343434;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.diploms-data h1 {
+    font-weight: 400;
+}
+
+.diploms-img {
+    flex: 1 0;
+}
+
+.diploms-img > img {
+    max-width: 100%;
+}
+
+p.italic {
+    font-style: italic;
+    font-size: 0.8rem;
+    opacity: 0.6;
+}
+
+.diploms-container {
+    position: relative;
+}
+
+.diploms-container > img {
+    position: absolute;
+    top: -40px;
+    right: 100px;
+    z-index: 2;
+}
+
+.diploms-background {
+    background-color: #54546d;
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    position: absolute;
+    right: -40px;
+    top: -320px;
+    z-index: 1;
+}
+
+.diploms-background img {
+    position: absolute;
+}
+
+.certificate-container {
+    background-color: #14162a;
+    color: #FFF;
+
+}
+
+.inner-certificate {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: space-between;
+    /* align-items: center; */
+    padding: 100px 5px;
+    position: relative;
+}
+
+.certificate-data {
+    flex: 0 0 70%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.certificate-img > img {
+    max-width: 100%;
+    flex: 1 0;
+    position: absolute;
+    right: 0;
+}
+
+.inner-career {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 5px;
+}
+
+.career-data {
+    flex: 0 0 66%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: #343434;
+}
+
+.career-img > img {
+    max-width: 100%;
+}
+
+.career-img {
+    flex: 1 0;
+}
+
+.main-btn {
+    color: #9b5cc6;
+    border: 1px solid #9b5cc6;
+    display: block;
+    width: max-content;
+    padding: 10px 16px;
+    border-radius: 25px;
+}
+
+.main-btn:hover {
+    background-color: #9b5cc6;
+    color: #FFF;
+}
+
+footer {
+    background-color: #2c2c3a;
+    color: #FFF;
+}
+
+footer h4 {
+    color: #9b5cc6;
+    font-weight: 700;
+}
+
+.footer-container {
+    padding: 50px 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 80px;
+}
+
+.footer-col {
+    flex: 0 0 calc(25% - 80px);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.footer-menu ul > li:last-of-type {
+    background: unset;
+    padding: inherit;
+    box-shadow: none;
+}
+
+.footer-menu ul {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.footer-menu ul li {
+    color: #FFF;
+    text-transform: none;
+}
+
+.footer-menu ul li:hover {
+    text-decoration: underline;
+}
+
+.icons-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.icons-container i {
+    font-size: 20px;
+}
+
+.icons-container i:hover {
+    color: #9b5cc6;
+}
+
+.footer-col > p:last-of-type {
+    font-size: 0.8rem;
+}
+

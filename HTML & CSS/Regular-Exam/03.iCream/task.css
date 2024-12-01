@@ -1,0 +1,320 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.top-bar{
+    background-color: #f195b2;
+    height: 140px;
+}
+
+.help-menu{
+    text-align: center;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    color: white;
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.help-menu > li {
+    list-style: none;
+}
+
+.divider{
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.social-media{
+    text-align: center;
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    color: white;
+    font-size: 18px;
+    list-style: none;
+    padding-top: 10px;
+}
+
+.nav{
+    text-align: center;
+    align-items: center;
+    border-radius: 50px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    background-color: white;
+    font-size: 18px;
+    width: 75%;
+    height: 90px;
+    position: absolute;
+    left: 12.5%;
+    top: 100px;
+    z-index: 1;
+    padding: 20px;
+}
+
+.section-nav{
+    text-align: center;
+    display: flex;
+    gap: 50px;
+    font-weight: bold;
+    list-style: none;
+}
+.nav > h2{
+    font-size: 65px;
+    margin: 0px 50px;
+    color: #f195b2;
+}
+
+.i{
+    color:#62c3e7;
+}
+
+/* .topBar {
+    background: #f195b2;
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0 30px 0;
+}
+
+.help-section {
+    margin-bottom: 10px;
+}
+
+.socialIcon {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.socialIcon li {
+    list-style: none;
+}
+
+.nav {
+    max-width: 80%;
+    margin: auto;
+    border-radius: 30px;
+    position: absolute;
+    background: #FFF;
+    top: 70px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px;
+}
+
+.nav h1,
+
+
+.nav, 
+.nav nav > ul {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+.nav nav ul li {
+    list-style: none;
+} */
+
+.footerContent h2 {
+    color: #f195b2;
+}
+
+.fancyLetter {
+    color: #62c3e7;
+    font-size: 27px;
+}
+
+.heroSection {
+    min-height: 450px;
+    background-image: url('images/carousel-1.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+}
+
+.btn {
+    width: max-content;
+    margin: 0 auto;
+    padding: 5px 15px;
+    border-radius: 10px;
+    font-size: 0.8rem;
+}
+
+.primaryBtn {
+    color: #FFF;
+    width: max-content;
+    padding: 5px 15px;
+    border-radius: 25px;
+    font-size: 0.8rem;
+    margin-left: 0;
+    display: inline-block;
+}
+
+.pink {
+    background: #f195b2;
+}
+
+.blue {
+    background: #62c3e7;
+}
+
+
+.nav > ul > li {
+    position: relative;
+}
+
+.heroSection h2 {
+    text-transform: capitalize;
+    font-size: 4rem;
+}
+
+.heroSection h3 {
+    text-transform: uppercase;
+}
+
+/* about features */
+
+.aboutFeatures {
+    justify-content: space-around;
+    padding: 50px 20px;
+    background-color: #c8e7f8;
+}
+
+.aboutFeatures > h2 {
+    text-transform: capitalize;
+    font-size: 2rem;
+    text-align: center;
+    color: #555;
+}
+
+.img > img {
+    height: 400px;
+    border-radius: 5px;
+}
+
+.aboutUs,
+.features {
+    margin-top: 30px;
+    width: 45%;
+}
+
+.aboutUs h2,
+.features h2 {
+    font-size: 2rem;
+    color: #555555;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.aboutUs > p:first-of-type {
+    color: #6c757d;
+    font-size: 2rem;
+}
+
+.features img {
+    width: 100%;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.features ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.features li {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    color: #6c757d;
+    font-weight: 700;
+}
+
+.features li i {
+    color: #62c3e7;
+    margin-right: 10px;
+}
+
+footer {
+    padding: 30px 20px;
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+.footerContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 80%;
+    margin: auto;
+}
+
+.footerIcon {
+    display: flex;
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.footerIcon li {
+    list-style: none;
+}
+
+.footerIcon i {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    color: #62c3e7;
+    border: 3px solid #b0e1f3;
+    border-radius: 50%;
+    font-size: 1.2em;
+}
+
+.footerInfo {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    max-width: 600px;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.footerContact, .footerHours {
+    width: 45%;
+    color: #333;
+}
+
+.footerContact p,
+.footerHours p {
+    margin: 5px 0;
+}
+
+.footerContact::before {
+    content: "";
+    position: absolute;
+    height: 70px;
+    width: 1px;
+    background-color: #000;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.footerRights {
+    margin-top: 20px;
+    font-size: 0.8rem;
+    color: #777;
+}

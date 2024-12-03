@@ -1,0 +1,9 @@
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.deps.json
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.dll
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.pdb
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.dll
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.pdb

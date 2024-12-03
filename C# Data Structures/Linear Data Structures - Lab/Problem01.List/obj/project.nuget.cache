@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Epf4lkpjiBUOFx8xeYk9YK7TGODdkvZEuYA7G50PdOz6yDJIa7a3gTaNhizlQl5pjUymbCW+Y4IIdUd1nZVSBA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Lab\\Problem01.List\\Problem01.List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

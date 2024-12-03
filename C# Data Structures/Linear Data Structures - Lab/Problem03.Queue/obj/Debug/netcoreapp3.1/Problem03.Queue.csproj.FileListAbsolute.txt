@@ -1,0 +1,9 @@
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem03.Queue\bin\Debug\netcoreapp3.1\Problem03.Queue.deps.json
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem03.Queue\bin\Debug\netcoreapp3.1\Problem03.Queue.dll
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem03.Queue\bin\Debug\netcoreapp3.1\Problem03.Queue.pdb
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.dll
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.pdb

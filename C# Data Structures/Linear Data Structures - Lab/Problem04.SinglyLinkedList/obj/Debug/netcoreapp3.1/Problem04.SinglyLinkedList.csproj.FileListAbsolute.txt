@@ -1,0 +1,9 @@
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem04.SinglyLinkedList\bin\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.deps.json
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem04.SinglyLinkedList\bin\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.dll
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem04.SinglyLinkedList\bin\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.pdb
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.dll
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Lab\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.pdb

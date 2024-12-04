@@ -1,0 +1,9 @@
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\01.FasterQueue\bin\Debug\netcoreapp3.1\01.CircularQueue.deps.json
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\01.FasterQueue\bin\Debug\netcoreapp3.1\01.CircularQueue.dll
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\01.FasterQueue\bin\Debug\netcoreapp3.1\01.CircularQueue.pdb
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.dll
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.pdb

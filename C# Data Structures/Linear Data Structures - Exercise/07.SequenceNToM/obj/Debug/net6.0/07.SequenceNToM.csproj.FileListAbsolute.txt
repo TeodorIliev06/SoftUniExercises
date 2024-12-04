@@ -1,0 +1,14 @@
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\07.SequenceNToM\bin\Debug\net6.0\07.SequenceNToM.exe
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\07.SequenceNToM\bin\Debug\net6.0\07.SequenceNToM.deps.json
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\07.SequenceNToM\bin\Debug\net6.0\07.SequenceNToM.runtimeconfig.json
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\07.SequenceNToM\bin\Debug\net6.0\07.SequenceNToM.dll
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\07.SequenceNToM\bin\Debug\net6.0\07.SequenceNToM.pdb
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\07.SequenceNToM\obj\Debug\net6.0\07.SequenceNToM.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\07.SequenceNToM\obj\Debug\net6.0\07.SequenceNToM.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\07.SequenceNToM\obj\Debug\net6.0\07.SequenceNToM.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\07.SequenceNToM\obj\Debug\net6.0\07.SequenceNToM.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\07.SequenceNToM\obj\Debug\net6.0\07.SequenceNToM.dll
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\07.SequenceNToM\obj\Debug\net6.0\refint\07.SequenceNToM.dll
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\07.SequenceNToM\obj\Debug\net6.0\07.SequenceNToM.pdb
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\07.SequenceNToM\obj\Debug\net6.0\07.SequenceNToM.genruntimeconfig.cache
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\07.SequenceNToM\obj\Debug\net6.0\ref\07.SequenceNToM.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "06.CalculateSequenceQueue/1.0.0": {
+        "dependencies": {
+          "01.CircularQueue": "1.0.0"
+        },
+        "runtime": {
+          "06.CalculateSequenceQueue.dll": {}
+        }
+      },
+      "01.CircularQueue/1.0.0": {
+        "runtime": {
+          "01.CircularQueue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06.CalculateSequenceQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "01.CircularQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{809B7C6B-45A1-49B7-A9DA-AD6A8ADF8659}|07.SequenceNToM\\07.SequenceNToM.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\linear data structures - exercise\\07.sequencentom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809B7C6B-45A1-49B7-A9DA-AD6A8ADF8659}|07.SequenceNToM\\07.SequenceNToM.csproj|solutionrelative:07.sequencentom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E569866B-3878-444E-89AF-6F9E5C35A5EE}|CalculateSequenceQueue\\06.CalculateSequenceQueue.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\linear data structures - exercise\\calculatesequencequeue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E569866B-3878-444E-89AF-6F9E5C35A5EE}|CalculateSequenceQueue\\06.CalculateSequenceQueue.csproj|solutionrelative:calculatesequencequeue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5225DE4B-1161-4BC9-8BD9-878BAE1C51CC}|05.ReverseNumbersStack\\05.ReverseNumbersStack.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\linear data structures - exercise\\05.reversenumbersstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5225DE4B-1161-4BC9-8BD9-878BAE1C51CC}|05.ReverseNumbersStack\\05.ReverseNumbersStack.csproj|solutionrelative:05.reversenumbersstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D896C2B-547A-4AC5-877D-46C8C54C2ADB}|04.BalancedParentheses\\04.BalancedParentheses.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\linear data structures - exercise\\04.balancedparentheses\\balancedparenthesessolve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D896C2B-547A-4AC5-877D-46C8C54C2ADB}|04.BalancedParentheses\\04.BalancedParentheses.csproj|solutionrelative:04.balancedparentheses\\balancedparenthesessolve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9E9582-6FC4-4199-A351-243EA03FAD95}|03.ReversedList\\03.ReversedList.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\linear data structures - exercise\\03.reversedlist\\reversedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9E9582-6FC4-4199-A351-243EA03FAD95}|03.ReversedList\\03.ReversedList.csproj|solutionrelative:03.reversedlist\\reversedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740A3B79-63AE-4781-839D-F51CA792AAE8}|03.ReversedList.Tests\\03.ReversedList.Tests.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\linear data structures - exercise\\03.reversedlist.tests\\reversedlisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740A3B79-63AE-4781-839D-F51CA792AAE8}|03.ReversedList.Tests\\03.ReversedList.Tests.csproj|solutionrelative:03.reversedlist.tests\\reversedlisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\07.SequenceNToM\\Program.cs",
+              "RelativeDocumentMoniker": "07.SequenceNToM\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\07.SequenceNToM\\Program.cs",
+              "RelativeToolTip": "07.SequenceNToM\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:52:18.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\CalculateSequenceQueue\\Program.cs",
+              "RelativeDocumentMoniker": "CalculateSequenceQueue\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\CalculateSequenceQueue\\Program.cs",
+              "RelativeToolTip": "CalculateSequenceQueue\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:20:54.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\05.ReverseNumbersStack\\Program.cs",
+              "RelativeDocumentMoniker": "05.ReverseNumbersStack\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\05.ReverseNumbersStack\\Program.cs",
+              "RelativeToolTip": "05.ReverseNumbersStack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:10:36.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BalancedParenthesesSolve.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\04.BalancedParentheses\\BalancedParenthesesSolve.cs",
+              "RelativeDocumentMoniker": "04.BalancedParentheses\\BalancedParenthesesSolve.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\04.BalancedParentheses\\BalancedParenthesesSolve.cs",
+              "RelativeToolTip": "04.BalancedParentheses\\BalancedParenthesesSolve.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:22:50.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReversedListTests.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\03.ReversedList.Tests\\ReversedListTests.cs",
+              "RelativeDocumentMoniker": "03.ReversedList.Tests\\ReversedListTests.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\03.ReversedList.Tests\\ReversedListTests.cs",
+              "RelativeToolTip": "03.ReversedList.Tests\\ReversedListTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:16:40.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReversedList.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\03.ReversedList\\ReversedList.cs",
+              "RelativeDocumentMoniker": "03.ReversedList\\ReversedList.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\03.ReversedList\\ReversedList.cs",
+              "RelativeToolTip": "03.ReversedList\\ReversedList.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAADwvw0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:01:23.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

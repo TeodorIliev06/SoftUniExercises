@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8YgzvJ8Zka7dxVSDJ/vKfGiQ9QZqDcD7FFJecgk7Onlk5OQjJNSd/5TP7IuYE7stV/ehacCZUnYis8SePNYptA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\03.ReversedList\\03.ReversedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

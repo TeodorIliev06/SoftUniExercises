@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "01.CircularQueue/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/01.CircularQueue.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/01.CircularQueue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01.CircularQueue/1.0.0": {
+      "type": "project",
+      "path": "../01.FasterQueue/01.CircularQueue.csproj",
+      "msbuildProject": "../01.FasterQueue/01.CircularQueue.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "01.CircularQueue >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\CalculateSequenceQueue\\06.CalculateSequenceQueue.csproj",
+      "projectName": "06.CalculateSequenceQueue",
+      "projectPath": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\CalculateSequenceQueue\\06.CalculateSequenceQueue.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\CalculateSequenceQueue\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\01.FasterQueue\\01.CircularQueue.csproj": {
+              "projectPath": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Linear Data Structures - Exercise\\01.FasterQueue\\01.CircularQueue.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

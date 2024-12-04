@@ -1,0 +1,14 @@
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\05.ReverseNumbersStack\bin\Debug\net6.0\05.ReverseNumbersStack.exe
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\05.ReverseNumbersStack\bin\Debug\net6.0\05.ReverseNumbersStack.deps.json
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\05.ReverseNumbersStack\bin\Debug\net6.0\05.ReverseNumbersStack.runtimeconfig.json
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\05.ReverseNumbersStack\bin\Debug\net6.0\05.ReverseNumbersStack.dll
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\05.ReverseNumbersStack\bin\Debug\net6.0\05.ReverseNumbersStack.pdb
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\05.ReverseNumbersStack\obj\Debug\net6.0\05.ReverseNumbersStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\05.ReverseNumbersStack\obj\Debug\net6.0\05.ReverseNumbersStack.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\05.ReverseNumbersStack\obj\Debug\net6.0\05.ReverseNumbersStack.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\05.ReverseNumbersStack\obj\Debug\net6.0\05.ReverseNumbersStack.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\05.ReverseNumbersStack\obj\Debug\net6.0\05.ReverseNumbersStack.dll
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\05.ReverseNumbersStack\obj\Debug\net6.0\refint\05.ReverseNumbersStack.dll
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\05.ReverseNumbersStack\obj\Debug\net6.0\05.ReverseNumbersStack.pdb
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\05.ReverseNumbersStack\obj\Debug\net6.0\05.ReverseNumbersStack.genruntimeconfig.cache
+D:\SoftUni\Data Structures Fundamentals with C# - Nov 2022\Linear Data Structures - Exercise\05.ReverseNumbersStack\obj\Debug\net6.0\ref\05.ReverseNumbersStack.dll

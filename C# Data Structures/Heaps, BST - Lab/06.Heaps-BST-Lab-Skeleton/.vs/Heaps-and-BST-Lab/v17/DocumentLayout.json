@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Heaps, BST - Lab\\06.Heaps-BST-Lab-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF482E6-ADA0-4549-A861-629BD4383BE0}|03.MaxHeap\\03.MaxHeap.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\heaps, bst - lab\\06.heaps-bst-lab-skeleton\\03.maxheap\\maxheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF482E6-ADA0-4549-A861-629BD4383BE0}|03.MaxHeap\\03.MaxHeap.csproj|solutionrelative:03.maxheap\\maxheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B561A4B-8369-4FA8-8F6C-1107566CB329}|Demo\\Demo.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\heaps, bst - lab\\06.heaps-bst-lab-skeleton\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B561A4B-8369-4FA8-8F6C-1107566CB329}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB2DDD-BCF6-49D0-8FE2-3EAB3614DC26}|02.BinarySearchTree\\02.BinarySearchTree.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\heaps, bst - lab\\06.heaps-bst-lab-skeleton\\02.binarysearchtree\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB2DDD-BCF6-49D0-8FE2-3EAB3614DC26}|02.BinarySearchTree\\02.BinarySearchTree.csproj|solutionrelative:02.binarysearchtree\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9CB2DDD-BCF6-49D0-8FE2-3EAB3614DC26}|02.BinarySearchTree\\02.BinarySearchTree.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\heaps, bst - lab\\06.heaps-bst-lab-skeleton\\02.binarysearchtree\\ibinarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9CB2DDD-BCF6-49D0-8FE2-3EAB3614DC26}|02.BinarySearchTree\\02.BinarySearchTree.csproj|solutionrelative:02.binarysearchtree\\ibinarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0270477-55E4-4750-BD29-389682E6B145}|01.BinaryTree\\01.BinaryTree.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\heaps, bst - lab\\06.heaps-bst-lab-skeleton\\01.binarytree\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0270477-55E4-4750-BD29-389682E6B145}|01.BinaryTree\\01.BinaryTree.csproj|solutionrelative:01.binarytree\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaxHeap.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Heaps, BST - Lab\\06.Heaps-BST-Lab-Skeleton\\03.MaxHeap\\MaxHeap.cs",
+              "RelativeDocumentMoniker": "03.MaxHeap\\MaxHeap.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Heaps, BST - Lab\\06.Heaps-BST-Lab-Skeleton\\03.MaxHeap\\MaxHeap.cs",
+              "RelativeToolTip": "03.MaxHeap\\MaxHeap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:28:50.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Heaps, BST - Lab\\06.Heaps-BST-Lab-Skeleton\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Heaps, BST - Lab\\06.Heaps-BST-Lab-Skeleton\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAWwB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:51:57.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBinarySearchTree.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Heaps, BST - Lab\\06.Heaps-BST-Lab-Skeleton\\02.BinarySearchTree\\IBinarySearchTree.cs",
+              "RelativeDocumentMoniker": "02.BinarySearchTree\\IBinarySearchTree.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Heaps, BST - Lab\\06.Heaps-BST-Lab-Skeleton\\02.BinarySearchTree\\IBinarySearchTree.cs",
+              "RelativeToolTip": "02.BinarySearchTree\\IBinarySearchTree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:43:15.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Heaps, BST - Lab\\06.Heaps-BST-Lab-Skeleton\\02.BinarySearchTree\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "02.BinarySearchTree\\BinarySearchTree.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Heaps, BST - Lab\\06.Heaps-BST-Lab-Skeleton\\02.BinarySearchTree\\BinarySearchTree.cs",
+              "RelativeToolTip": "02.BinarySearchTree\\BinarySearchTree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:42:49.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Heaps, BST - Lab\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "01.BinaryTree\\BinaryTree.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Heaps, BST - Lab\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\BinaryTree.cs",
+              "RelativeToolTip": "01.BinaryTree\\BinaryTree.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:19:00.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4FwVnfOYO78=",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Heaps, BST - Lab\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\01.BinaryTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

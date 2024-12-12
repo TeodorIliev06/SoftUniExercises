@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE905846-505A-415D-B58F-7D682A3E598E}|Hearthstone\\Hearthstone.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\exam prep\\aug 21\\hearthstone\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE905846-505A-415D-B58F-7D682A3E598E}|Hearthstone\\Hearthstone.csproj|solutionrelative:hearthstone\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE905846-505A-415D-B58F-7D682A3E598E}|Hearthstone\\Hearthstone.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\exam prep\\aug 21\\hearthstone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE905846-505A-415D-B58F-7D682A3E598E}|Hearthstone\\Hearthstone.csproj|solutionrelative:hearthstone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Hearthstone\\Card.cs",
+              "RelativeDocumentMoniker": "Hearthstone\\Card.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Hearthstone\\Card.cs",
+              "RelativeToolTip": "Hearthstone\\Card.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIA0wBUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:51:54.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Hearthstone\\Board.cs",
+              "RelativeDocumentMoniker": "Hearthstone\\Board.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Hearthstone\\Board.cs",
+              "RelativeToolTip": "Hearthstone\\Board.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:55:16.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

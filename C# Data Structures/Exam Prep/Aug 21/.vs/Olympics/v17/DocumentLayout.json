@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3631AC01-CEA0-47AB-956C-E026240F4274}|Olympics\\Olympics.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\exam prep\\aug 21\\olympics\\olympics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3631AC01-CEA0-47AB-956C-E026240F4274}|Olympics\\Olympics.csproj|solutionrelative:olympics\\olympics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7D51FB-17A2-4026-BD92-241735417364}|Olympics.Tests\\Olympics.Tests.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\exam prep\\aug 21\\olympics.tests\\performance\\ptest13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7D51FB-17A2-4026-BD92-241735417364}|Olympics.Tests\\Olympics.Tests.csproj|solutionrelative:olympics.tests\\performance\\ptest13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7D51FB-17A2-4026-BD92-241735417364}|Olympics.Tests\\Olympics.Tests.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\exam prep\\aug 21\\olympics.tests\\performance\\ptest12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7D51FB-17A2-4026-BD92-241735417364}|Olympics.Tests\\Olympics.Tests.csproj|solutionrelative:olympics.tests\\performance\\ptest12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3631AC01-CEA0-47AB-956C-E026240F4274}|Olympics\\Olympics.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\exam prep\\aug 21\\olympics\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3631AC01-CEA0-47AB-956C-E026240F4274}|Olympics\\Olympics.csproj|solutionrelative:olympics\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3631AC01-CEA0-47AB-956C-E026240F4274}|Olympics\\Olympics.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\exam prep\\aug 21\\olympics\\competitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3631AC01-CEA0-47AB-956C-E026240F4274}|Olympics\\Olympics.csproj|solutionrelative:olympics\\competitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7D51FB-17A2-4026-BD92-241735417364}|Olympics.Tests\\Olympics.Tests.csproj|d:\\softuni\\data structures fundamentals with c# - nov 2022\\exam prep\\aug 21\\olympics.tests\\performance\\ptest05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7D51FB-17A2-4026-BD92-241735417364}|Olympics.Tests\\Olympics.Tests.csproj|solutionrelative:olympics.tests\\performance\\ptest05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PTest13.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Olympics.Tests\\Performance\\PTest13.cs",
+              "RelativeDocumentMoniker": "Olympics.Tests\\Performance\\PTest13.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Olympics.Tests\\Performance\\PTest13.cs",
+              "RelativeToolTip": "Olympics.Tests\\Performance\\PTest13.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:11:59.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PTest12.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Olympics.Tests\\Performance\\PTest12.cs",
+              "RelativeDocumentMoniker": "Olympics.Tests\\Performance\\PTest12.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Olympics.Tests\\Performance\\PTest12.cs",
+              "RelativeToolTip": "Olympics.Tests\\Performance\\PTest12.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:59:36.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PTest05.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Olympics.Tests\\Performance\\PTest05.cs",
+              "RelativeDocumentMoniker": "Olympics.Tests\\Performance\\PTest05.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Olympics.Tests\\Performance\\PTest05.cs",
+              "RelativeToolTip": "Olympics.Tests\\Performance\\PTest05.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:20:25.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Competitor.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Olympics\\Competitor.cs",
+              "RelativeDocumentMoniker": "Olympics\\Competitor.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Olympics\\Competitor.cs",
+              "RelativeToolTip": "Olympics\\Competitor.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA4wBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:05:28.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Competition.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Olympics\\Competition.cs",
+              "RelativeDocumentMoniker": "Olympics\\Competition.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Olympics\\Competition.cs",
+              "RelativeToolTip": "Olympics\\Competition.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:05:23.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Olympics.cs",
+              "DocumentMoniker": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Olympics\\Olympics.cs",
+              "RelativeDocumentMoniker": "Olympics\\Olympics.cs",
+              "ToolTip": "D:\\SoftUni\\Data Structures Fundamentals with C# - Nov 2022\\Exam Prep\\Aug 21\\Olympics\\Olympics.cs",
+              "RelativeToolTip": "Olympics\\Olympics.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAwFwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:02:20.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

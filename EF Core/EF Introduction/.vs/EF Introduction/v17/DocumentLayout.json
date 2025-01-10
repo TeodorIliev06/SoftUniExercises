@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|d:\\softuni\\ef core - jun 2024\\ef introduction\\softunidb.program\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|solutionrelative:softunidb.program\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|d:\\softuni\\ef core - jun 2024\\ef introduction\\softunidb.program\\models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|solutionrelative:softunidb.program\\models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|d:\\softuni\\ef core - jun 2024\\ef introduction\\softunidb.program\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|solutionrelative:softunidb.program\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|d:\\softuni\\ef core - jun 2024\\ef introduction\\softunidb.program\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|solutionrelative:softunidb.program\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|d:\\softuni\\ef core - jun 2024\\ef introduction\\softunidb.program\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|solutionrelative:softunidb.program\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|d:\\softuni\\ef core - jun 2024\\ef introduction\\softunidb.program\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|solutionrelative:softunidb.program\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|d:\\softuni\\ef core - jun 2024\\ef introduction\\softunidb.program\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|solutionrelative:softunidb.program\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|d:\\softuni\\ef core - jun 2024\\ef introduction\\softunidb.program\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|solutionrelative:softunidb.program\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|d:\\softuni\\ef core - jun 2024\\ef introduction\\softunidb.program\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8CCD6A-7BA6-47D5-94E7-7AF93CACD1F1}|SoftUniDb.Program\\SoftUni.csproj|solutionrelative:softunidb.program\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoftUniContext.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Data\\SoftUniContext.cs",
+              "RelativeDocumentMoniker": "SoftUniDb.Program\\Data\\SoftUniContext.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Data\\SoftUniContext.cs",
+              "RelativeToolTip": "SoftUniDb.Program\\Data\\SoftUniContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:28:40.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Models\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "SoftUniDb.Program\\Models\\EmployeeProject.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Models\\EmployeeProject.cs",
+              "RelativeToolTip": "SoftUniDb.Program\\Models\\EmployeeProject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:26:49.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Town.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Models\\Town.cs",
+              "RelativeDocumentMoniker": "SoftUniDb.Program\\Models\\Town.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Models\\Town.cs",
+              "RelativeToolTip": "SoftUniDb.Program\\Models\\Town.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:23:03.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "SoftUniDb.Program\\Models\\Project.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Models\\Project.cs",
+              "RelativeToolTip": "SoftUniDb.Program\\Models\\Project.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:22:56.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SoftUniDb.Program\\Models\\Employee.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Models\\Employee.cs",
+              "RelativeToolTip": "SoftUniDb.Program\\Models\\Employee.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:22:52.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "SoftUniDb.Program\\Models\\Address.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Models\\Address.cs",
+              "RelativeToolTip": "SoftUniDb.Program\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:22:48.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SoftUniDb.Program\\Models\\Department.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Models\\Department.cs",
+              "RelativeToolTip": "SoftUniDb.Program\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:22:42.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "SoftUniDb.Program\\Data\\Configuration.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\Data\\Configuration.cs",
+              "RelativeToolTip": "SoftUniDb.Program\\Data\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:19:25.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\StartUp.cs",
+              "RelativeDocumentMoniker": "SoftUniDb.Program\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\EF Introduction\\SoftUniDb.Program\\StartUp.cs",
+              "RelativeToolTip": "SoftUniDb.Program\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:04:59.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

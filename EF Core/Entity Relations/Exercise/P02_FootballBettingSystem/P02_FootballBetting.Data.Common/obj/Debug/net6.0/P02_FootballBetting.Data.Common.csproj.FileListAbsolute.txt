@@ -1,0 +1,11 @@
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\Exercise\P02_FootballBettingSystem\P02_FootballBetting.Data.Common\bin\Debug\net6.0\P02_FootballBetting.Data.Common.deps.json
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\Exercise\P02_FootballBettingSystem\P02_FootballBetting.Data.Common\bin\Debug\net6.0\P02_FootballBetting.Data.Common.dll
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\Exercise\P02_FootballBettingSystem\P02_FootballBetting.Data.Common\bin\Debug\net6.0\P02_FootballBetting.Data.Common.pdb
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\Exercise\P02_FootballBettingSystem\P02_FootballBetting.Data.Common\obj\Debug\net6.0\P02_FootballBetting.Data.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\Exercise\P02_FootballBettingSystem\P02_FootballBetting.Data.Common\obj\Debug\net6.0\P02_FootballBetting.Data.Common.AssemblyInfoInputs.cache
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\Exercise\P02_FootballBettingSystem\P02_FootballBetting.Data.Common\obj\Debug\net6.0\P02_FootballBetting.Data.Common.AssemblyInfo.cs
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\Exercise\P02_FootballBettingSystem\P02_FootballBetting.Data.Common\obj\Debug\net6.0\P02_FootballBetting.Data.Common.csproj.CoreCompileInputs.cache
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\Exercise\P02_FootballBettingSystem\P02_FootballBetting.Data.Common\obj\Debug\net6.0\P02_FootballBetting.Data.Common.dll
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\Exercise\P02_FootballBettingSystem\P02_FootballBetting.Data.Common\obj\Debug\net6.0\refint\P02_FootballBetting.Data.Common.dll
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\Exercise\P02_FootballBettingSystem\P02_FootballBetting.Data.Common\obj\Debug\net6.0\P02_FootballBetting.Data.Common.pdb
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\Exercise\P02_FootballBettingSystem\P02_FootballBetting.Data.Common\obj\Debug\net6.0\ref\P02_FootballBetting.Data.Common.dll

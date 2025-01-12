@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p03_salesdatabasesystem\\p03_salesdatabase.data\\salesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|solutionrelative:p03_salesdatabasesystem\\p03_salesdatabase.data\\salesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p03_salesdatabasesystem\\p03_salesdatabase.data\\seeding\\salesdbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|solutionrelative:p03_salesdatabasesystem\\p03_salesdatabase.data\\seeding\\salesdbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p03_salesdatabasesystem\\p03_salesdatabase.data\\seeding\\saleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|solutionrelative:p03_salesdatabasesystem\\p03_salesdatabase.data\\seeding\\saleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p03_salesdatabasesystem\\p03_salesdatabase.data\\seeding\\storeseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|solutionrelative:p03_salesdatabasesystem\\p03_salesdatabase.data\\seeding\\storeseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p03_salesdatabasesystem\\p03_salesdatabase.data\\seeding\\productseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|solutionrelative:p03_salesdatabasesystem\\p03_salesdatabase.data\\seeding\\productseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p03_salesdatabasesystem\\p03_salesdatabase.data\\seeding\\customerseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|solutionrelative:p03_salesdatabasesystem\\p03_salesdatabase.data\\seeding\\customerseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A6E400-4ABD-4E95-A598-23C46600DA84}|P03_SalesDatabaseSystem\\P03_SalesDatabase\\P03_SalesDatabase.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p03_salesdatabasesystem\\p03_salesdatabase\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A6E400-4ABD-4E95-A598-23C46600DA84}|P03_SalesDatabaseSystem\\P03_SalesDatabase\\P03_SalesDatabase.csproj|solutionrelative:p03_salesdatabasesystem\\p03_salesdatabase\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D782AD04-C9F9-4488-8F65-1D40A0A0E0C4}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\P03_SalesDatabase.Data.Models.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p03_salesdatabasesystem\\p03_salesdatabase.data.models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D782AD04-C9F9-4488-8F65-1D40A0A0E0C4}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\P03_SalesDatabase.Data.Models.csproj|solutionrelative:p03_salesdatabasesystem\\p03_salesdatabase.data.models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D782AD04-C9F9-4488-8F65-1D40A0A0E0C4}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\P03_SalesDatabase.Data.Models.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p03_salesdatabasesystem\\p03_salesdatabase.data.models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D782AD04-C9F9-4488-8F65-1D40A0A0E0C4}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\P03_SalesDatabase.Data.Models.csproj|solutionrelative:p03_salesdatabasesystem\\p03_salesdatabase.data.models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D782AD04-C9F9-4488-8F65-1D40A0A0E0C4}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\P03_SalesDatabase.Data.Models.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p03_salesdatabasesystem\\p03_salesdatabase.data.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D782AD04-C9F9-4488-8F65-1D40A0A0E0C4}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\P03_SalesDatabase.Data.Models.csproj|solutionrelative:p03_salesdatabasesystem\\p03_salesdatabase.data.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D782AD04-C9F9-4488-8F65-1D40A0A0E0C4}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\P03_SalesDatabase.Data.Models.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p03_salesdatabasesystem\\p03_salesdatabase.data.models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D782AD04-C9F9-4488-8F65-1D40A0A0E0C4}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\P03_SalesDatabase.Data.Models.csproj|solutionrelative:p03_salesdatabasesystem\\p03_salesdatabase.data.models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE36AEBF-C566-4A58-A013-9D7B92443E38}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Common\\P03_SalesDatabase.Data.Common.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p03_salesdatabasesystem\\p03_salesdatabase.data.common\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE36AEBF-C566-4A58-A013-9D7B92443E38}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Common\\P03_SalesDatabase.Data.Common.csproj|solutionrelative:p03_salesdatabasesystem\\p03_salesdatabase.data.common\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p03_salesdatabasesystem\\p03_salesdatabase.data\\configurations\\serverconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|solutionrelative:p03_salesdatabasesystem\\p03_salesdatabase.data\\configurations\\serverconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p03_salesdatabasesystem\\p03_salesdatabase.data\\configurations\\saleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B743A219-678E-4847-838E-0397DCB94505}|P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\P03_SalesDatabase.Data.csproj|solutionrelative:p03_salesdatabasesystem\\p03_salesdatabase.data\\configurations\\saleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE46DB32-F9D2-4BE6-8A7B-C8DA93D50C05}|P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p01_hospitaldatabasesystem\\p01_hospitaldatabase.data\\configurations\\visitationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE46DB32-F9D2-4BE6-8A7B-C8DA93D50C05}|P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabasesystem\\p01_hospitaldatabase.data\\configurations\\visitationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F39127C-FF23-49A7-839C-6B0E4A5DD486}|P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p01_hospitaldatabasesystem\\p01_hospitaldatabase.data.models\\visitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F39127C-FF23-49A7-839C-6B0E4A5DD486}|P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|solutionrelative:p01_hospitaldatabasesystem\\p01_hospitaldatabase.data.models\\visitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE46DB32-F9D2-4BE6-8A7B-C8DA93D50C05}|P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p01_hospitaldatabasesystem\\p01_hospitaldatabase.data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE46DB32-F9D2-4BE6-8A7B-C8DA93D50C05}|P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabasesystem\\p01_hospitaldatabase.data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE46DB32-F9D2-4BE6-8A7B-C8DA93D50C05}|P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p01_hospitaldatabasesystem\\p01_hospitaldatabase.data\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE46DB32-F9D2-4BE6-8A7B-C8DA93D50C05}|P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\P01_HospitalDatabase.Data.csproj|solutionrelative:p01_hospitaldatabasesystem\\p01_hospitaldatabase.data\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F39127C-FF23-49A7-839C-6B0E4A5DD486}|P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p01_hospitaldatabasesystem\\p01_hospitaldatabase.data.models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F39127C-FF23-49A7-839C-6B0E4A5DD486}|P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj|solutionrelative:p01_hospitaldatabasesystem\\p01_hospitaldatabase.data.models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E8C3161-CBB9-4BE2-811A-68E46B580813}|P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Common\\P01_HospitalDatabase.Data.Common.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p01_hospitaldatabasesystem\\p01_hospitaldatabase.data.common\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E8C3161-CBB9-4BE2-811A-68E46B580813}|P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Common\\P01_HospitalDatabase.Data.Common.csproj|solutionrelative:p01_hospitaldatabasesystem\\p01_hospitaldatabase.data.common\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E88A52-570E-4F21-A5F7-3C3E08287841}|P01_HospitalDatabaseSystem\\P01_HospitalDatabase\\P01_HospitalDatabase.csproj|d:\\softuni\\ef core - jun 2024\\entity relations\\more exercise\\p01_hospitaldatabasesystem\\p01_hospitaldatabase\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E88A52-570E-4F21-A5F7-3C3E08287841}|P01_HospitalDatabaseSystem\\P01_HospitalDatabase\\P01_HospitalDatabase.csproj|solutionrelative:p01_hospitaldatabasesystem\\p01_hospitaldatabase\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\PatientMedicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\PatientMedicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\Medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\Medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesDbSeeder.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\SalesDbSeeder.cs",
+              "RelativeDocumentMoniker": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\SalesDbSeeder.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\SalesDbSeeder.cs",
+              "RelativeToolTip": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\SalesDbSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:24:21.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleSeeder.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\SaleSeeder.cs",
+              "RelativeDocumentMoniker": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\SaleSeeder.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\SaleSeeder.cs",
+              "RelativeToolTip": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\SaleSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:23:39.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreSeeder.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\StoreSeeder.cs",
+              "RelativeDocumentMoniker": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\StoreSeeder.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\StoreSeeder.cs",
+              "RelativeToolTip": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\StoreSeeder.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:23:00.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerSeeder.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\CustomerSeeder.cs",
+              "RelativeDocumentMoniker": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\CustomerSeeder.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\CustomerSeeder.cs",
+              "RelativeToolTip": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\CustomerSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:22:15.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductSeeder.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\ProductSeeder.cs",
+              "RelativeDocumentMoniker": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\ProductSeeder.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\ProductSeeder.cs",
+              "RelativeToolTip": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Seeding\\ProductSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:17:18.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Sale.cs",
+              "RelativeDocumentMoniker": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Sale.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Sale.cs",
+              "RelativeToolTip": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Sale.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:31:37.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Store.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Store.cs",
+              "RelativeDocumentMoniker": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Store.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Store.cs",
+              "RelativeToolTip": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Store.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:29:52.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Customer.cs",
+              "RelativeDocumentMoniker": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Customer.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Customer.cs",
+              "RelativeToolTip": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Customer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:25:23.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ValidationConstants.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Common\\ValidationConstants.cs",
+              "RelativeDocumentMoniker": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Common\\ValidationConstants.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Common\\ValidationConstants.cs",
+              "RelativeToolTip": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Common\\ValidationConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:20:33.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Product.cs",
+              "RelativeDocumentMoniker": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Product.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Product.cs",
+              "RelativeToolTip": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data.Models\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:19:22.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesDbContext.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\SalesDbContext.cs",
+              "RelativeDocumentMoniker": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\SalesDbContext.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\SalesDbContext.cs",
+              "RelativeToolTip": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\SalesDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:16:55.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SaleConfiguration.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Configurations\\SaleConfiguration.cs",
+              "RelativeDocumentMoniker": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Configurations\\SaleConfiguration.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Configurations\\SaleConfiguration.cs",
+              "RelativeToolTip": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Configurations\\SaleConfiguration.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:37:19.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServerConfiguration.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Configurations\\ServerConfiguration.cs",
+              "RelativeDocumentMoniker": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Configurations\\ServerConfiguration.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Configurations\\ServerConfiguration.cs",
+              "RelativeToolTip": "P03_SalesDatabaseSystem\\P03_SalesDatabase.Data\\Configurations\\ServerConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:15:29.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Visitation.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Models\\Visitation.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Models\\Visitation.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Models\\Visitation.cs",
+              "RelativeToolTip": "P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Models\\Visitation.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:59:35.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VisitationConfiguration.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\Configurations\\VisitationConfiguration.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\Configurations\\VisitationConfiguration.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\Configurations\\VisitationConfiguration.cs",
+              "RelativeToolTip": "P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\Configurations\\VisitationConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:03:22.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase\\StartUp.cs",
+              "RelativeDocumentMoniker": "P03_SalesDatabaseSystem\\P03_SalesDatabase\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P03_SalesDatabaseSystem\\P03_SalesDatabase\\StartUp.cs",
+              "RelativeToolTip": "P03_SalesDatabaseSystem\\P03_SalesDatabase\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:10:02.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\HospitalDbContext.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\HospitalDbContext.cs",
+              "RelativeToolTip": "P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\HospitalDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:03:43.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoctorConfiguration.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\Configurations\\DoctorConfiguration.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\Configurations\\DoctorConfiguration.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\Configurations\\DoctorConfiguration.cs",
+              "RelativeToolTip": "P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data\\Configurations\\DoctorConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:30:18.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValidationConstants.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Common\\ValidationConstants.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Common\\ValidationConstants.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Common\\ValidationConstants.cs",
+              "RelativeToolTip": "P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Common\\ValidationConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:00:58.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Models\\Doctor.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Models\\Doctor.cs",
+              "RelativeToolTip": "P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Models\\Doctor.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:59:50.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P01_HospitalDatabase\\StartUp.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabaseSystem\\P01_HospitalDatabase\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P01_HospitalDatabase\\StartUp.cs",
+              "RelativeToolTip": "P01_HospitalDatabaseSystem\\P01_HospitalDatabase\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:55:38.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PatientMedicament.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\PatientMedicament.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\PatientMedicament.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\PatientMedicament.cs",
+              "RelativeToolTip": "P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\PatientMedicament.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:43:07.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Medicament.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\Medicament.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\Medicament.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\Medicament.cs",
+              "RelativeToolTip": "P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\Medicament.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:42:57.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\Patient.cs",
+              "RelativeDocumentMoniker": "P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\Patient.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\Patient.cs",
+              "RelativeToolTip": "P01_HospitalDatabaseSystem\\P02_HospitalDatabase.Data.Models\\Patient.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:43:02.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

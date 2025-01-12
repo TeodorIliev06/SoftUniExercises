@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8zzReb475E8=",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\EF Core - Jun 2024\\Entity Relations\\More Exercise\\P01_HospitalDatabaseSystem\\P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

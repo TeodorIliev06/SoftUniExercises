@@ -1,0 +1,11 @@
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\More Exercise\P01_HospitalDatabaseSystem\P01_HospitalDatabase.Data.Common\bin\Debug\net6.0\P01_HospitalDatabase.Data.Common.deps.json
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\More Exercise\P01_HospitalDatabaseSystem\P01_HospitalDatabase.Data.Common\bin\Debug\net6.0\P01_HospitalDatabase.Data.Common.dll
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\More Exercise\P01_HospitalDatabaseSystem\P01_HospitalDatabase.Data.Common\bin\Debug\net6.0\P01_HospitalDatabase.Data.Common.pdb
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\More Exercise\P01_HospitalDatabaseSystem\P01_HospitalDatabase.Data.Common\obj\Debug\net6.0\P01_HospitalDatabase.Data.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\More Exercise\P01_HospitalDatabaseSystem\P01_HospitalDatabase.Data.Common\obj\Debug\net6.0\P01_HospitalDatabase.Data.Common.AssemblyInfoInputs.cache
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\More Exercise\P01_HospitalDatabaseSystem\P01_HospitalDatabase.Data.Common\obj\Debug\net6.0\P01_HospitalDatabase.Data.Common.AssemblyInfo.cs
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\More Exercise\P01_HospitalDatabaseSystem\P01_HospitalDatabase.Data.Common\obj\Debug\net6.0\P01_HospitalDatabase.Data.Common.csproj.CoreCompileInputs.cache
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\More Exercise\P01_HospitalDatabaseSystem\P01_HospitalDatabase.Data.Common\obj\Debug\net6.0\P01_HospitalDatabase.Data.Common.dll
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\More Exercise\P01_HospitalDatabaseSystem\P01_HospitalDatabase.Data.Common\obj\Debug\net6.0\refint\P01_HospitalDatabase.Data.Common.dll
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\More Exercise\P01_HospitalDatabaseSystem\P01_HospitalDatabase.Data.Common\obj\Debug\net6.0\P01_HospitalDatabase.Data.Common.pdb
+D:\SoftUni\EF Core - Jun 2024\Entity Relations\More Exercise\P01_HospitalDatabaseSystem\P01_HospitalDatabase.Data.Common\obj\Debug\net6.0\ref\P01_HospitalDatabase.Data.Common.dll

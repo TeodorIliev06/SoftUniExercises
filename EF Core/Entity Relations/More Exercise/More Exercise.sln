@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_HospitalDatabase", "P01_HospitalDatabaseSystem\P01_HospitalDatabase\P01_HospitalDatabase.csproj", "{E2E88A52-570E-4F21-A5F7-3C3E08287841}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_HospitalDatabase.Data", "P01_HospitalDatabaseSystem\P01_HospitalDatabase.Data\P01_HospitalDatabase.Data.csproj", "{DE46DB32-F9D2-4BE6-8A7B-C8DA93D50C05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_HospitalDatabase.Data.Common", "P01_HospitalDatabaseSystem\P01_HospitalDatabase.Data.Common\P01_HospitalDatabase.Data.Common.csproj", "{4E8C3161-CBB9-4BE2-811A-68E46B580813}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_HospitalDatabase.Data.Models", "P01_HospitalDatabaseSystem\P01_HospitalDatabase.Data.Models\P01_HospitalDatabase.Data.Models.csproj", "{3F39127C-FF23-49A7-839C-6B0E4A5DD486}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "P01_HospitalDatabaseSystem", "P01_HospitalDatabaseSystem", "{7DF139B4-FB3E-4323-800E-54581D2CEBAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "P03_SalesDatabaseSystem", "P03_SalesDatabaseSystem", "{2BBC14C2-BB6D-4CF9-9BDB-273C26CE1748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_SalesDatabase", "P03_SalesDatabaseSystem\P03_SalesDatabase\P03_SalesDatabase.csproj", "{D5A6E400-4ABD-4E95-A598-23C46600DA84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_SalesDatabase.Data", "P03_SalesDatabaseSystem\P03_SalesDatabase.Data\P03_SalesDatabase.Data.csproj", "{B743A219-678E-4847-838E-0397DCB94505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_SalesDatabase.Data.Models", "P03_SalesDatabaseSystem\P03_SalesDatabase.Data.Models\P03_SalesDatabase.Data.Models.csproj", "{D782AD04-C9F9-4488-8F65-1D40A0A0E0C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_SalesDatabase.Data.Common", "P03_SalesDatabaseSystem\P03_SalesDatabase.Data.Common\P03_SalesDatabase.Data.Common.csproj", "{EE36AEBF-C566-4A58-A013-9D7B92443E38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E88A52-570E-4F21-A5F7-3C3E08287841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E88A52-570E-4F21-A5F7-3C3E08287841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E88A52-570E-4F21-A5F7-3C3E08287841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E88A52-570E-4F21-A5F7-3C3E08287841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE46DB32-F9D2-4BE6-8A7B-C8DA93D50C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE46DB32-F9D2-4BE6-8A7B-C8DA93D50C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE46DB32-F9D2-4BE6-8A7B-C8DA93D50C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE46DB32-F9D2-4BE6-8A7B-C8DA93D50C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E8C3161-CBB9-4BE2-811A-68E46B580813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8C3161-CBB9-4BE2-811A-68E46B580813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8C3161-CBB9-4BE2-811A-68E46B580813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8C3161-CBB9-4BE2-811A-68E46B580813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F39127C-FF23-49A7-839C-6B0E4A5DD486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F39127C-FF23-49A7-839C-6B0E4A5DD486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F39127C-FF23-49A7-839C-6B0E4A5DD486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F39127C-FF23-49A7-839C-6B0E4A5DD486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A6E400-4ABD-4E95-A598-23C46600DA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A6E400-4ABD-4E95-A598-23C46600DA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A6E400-4ABD-4E95-A598-23C46600DA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A6E400-4ABD-4E95-A598-23C46600DA84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B743A219-678E-4847-838E-0397DCB94505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B743A219-678E-4847-838E-0397DCB94505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B743A219-678E-4847-838E-0397DCB94505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B743A219-678E-4847-838E-0397DCB94505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D782AD04-C9F9-4488-8F65-1D40A0A0E0C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D782AD04-C9F9-4488-8F65-1D40A0A0E0C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D782AD04-C9F9-4488-8F65-1D40A0A0E0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D782AD04-C9F9-4488-8F65-1D40A0A0E0C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE36AEBF-C566-4A58-A013-9D7B92443E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE36AEBF-C566-4A58-A013-9D7B92443E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE36AEBF-C566-4A58-A013-9D7B92443E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE36AEBF-C566-4A58-A013-9D7B92443E38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E2E88A52-570E-4F21-A5F7-3C3E08287841} = {7DF139B4-FB3E-4323-800E-54581D2CEBAE}
+		{DE46DB32-F9D2-4BE6-8A7B-C8DA93D50C05} = {7DF139B4-FB3E-4323-800E-54581D2CEBAE}
+		{4E8C3161-CBB9-4BE2-811A-68E46B580813} = {7DF139B4-FB3E-4323-800E-54581D2CEBAE}
+		{3F39127C-FF23-49A7-839C-6B0E4A5DD486} = {7DF139B4-FB3E-4323-800E-54581D2CEBAE}
+		{D5A6E400-4ABD-4E95-A598-23C46600DA84} = {2BBC14C2-BB6D-4CF9-9BDB-273C26CE1748}
+		{B743A219-678E-4847-838E-0397DCB94505} = {2BBC14C2-BB6D-4CF9-9BDB-273C26CE1748}
+		{D782AD04-C9F9-4488-8F65-1D40A0A0E0C4} = {2BBC14C2-BB6D-4CF9-9BDB-273C26CE1748}
+		{EE36AEBF-C566-4A58-A013-9D7B92443E38} = {2BBC14C2-BB6D-4CF9-9BDB-273C26CE1748}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B60991E-F2A3-4326-B066-F39341E77E8C}
+	EndGlobalSection
+EndGlobal

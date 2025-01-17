@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\EF Core - Jun 2024\\Advanced Querying\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05ABA8C7-E9FF-4DD2-9FA7-C17A37174890}|BookShop\\BookShop.csproj|d:\\softuni\\ef core - jun 2024\\advanced querying\\bookshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05ABA8C7-E9FF-4DD2-9FA7-C17A37174890}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|d:\\softuni\\ef core - jun 2024\\advanced querying\\bookshop.data\\bookshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|solutionrelative:bookshop.data\\bookshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|d:\\softuni\\ef core - jun 2024\\advanced querying\\bookshop.data\\entityconfiguration\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|solutionrelative:bookshop.data\\entityconfiguration\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|d:\\softuni\\ef core - jun 2024\\advanced querying\\bookshop.models\\enums\\agerestriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|solutionrelative:bookshop.models\\enums\\agerestriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|d:\\softuni\\ef core - jun 2024\\advanced querying\\bookshop.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|solutionrelative:bookshop.models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|d:\\softuni\\ef core - jun 2024\\advanced querying\\bookshop.models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00A6964-65AB-4584-AFAD-1AEA5EFD878F}|BookShop.Models\\BookShop.Models.csproj|solutionrelative:bookshop.models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|d:\\softuni\\ef core - jun 2024\\advanced querying\\bookshop.data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|solutionrelative:bookshop.data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgeRestriction.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Advanced Querying\\BookShop.Models\\Enums\\AgeRestriction.cs",
+              "RelativeDocumentMoniker": "BookShop.Models\\Enums\\AgeRestriction.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Advanced Querying\\BookShop.Models\\Enums\\AgeRestriction.cs",
+              "RelativeToolTip": "BookShop.Models\\Enums\\AgeRestriction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:56:32.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Advanced Querying\\BookShop.Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookShop.Models\\Book.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Advanced Querying\\BookShop.Models\\Book.cs",
+              "RelativeToolTip": "BookShop.Models\\Book.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAEwBoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:56:29.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Advanced Querying\\BookShop\\StartUp.cs",
+              "RelativeDocumentMoniker": "BookShop\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Advanced Querying\\BookShop\\StartUp.cs",
+              "RelativeToolTip": "BookShop\\StartUp.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAA9wIYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:51:00.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorConfiguration.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Advanced Querying\\BookShop.Data\\EntityConfiguration\\AuthorConfiguration.cs",
+              "RelativeDocumentMoniker": "BookShop.Data\\EntityConfiguration\\AuthorConfiguration.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Advanced Querying\\BookShop.Data\\EntityConfiguration\\AuthorConfiguration.cs",
+              "RelativeToolTip": "BookShop.Data\\EntityConfiguration\\AuthorConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:46:05.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Advanced Querying\\BookShop.Models\\Author.cs",
+              "RelativeDocumentMoniker": "BookShop.Models\\Author.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Advanced Querying\\BookShop.Models\\Author.cs",
+              "RelativeToolTip": "BookShop.Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:45:44.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookShopContext.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Advanced Querying\\BookShop.Data\\BookShopContext.cs",
+              "RelativeDocumentMoniker": "BookShop.Data\\BookShopContext.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Advanced Querying\\BookShop.Data\\BookShopContext.cs",
+              "RelativeToolTip": "BookShop.Data\\BookShopContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:44:31.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Advanced Querying\\BookShop.Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "BookShop.Data\\Configuration.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Advanced Querying\\BookShop.Data\\Configuration.cs",
+              "RelativeToolTip": "BookShop.Data\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:44:12.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

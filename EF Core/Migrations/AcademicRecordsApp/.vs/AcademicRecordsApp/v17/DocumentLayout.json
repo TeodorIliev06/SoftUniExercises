@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\EF Core - Jun 2024\\Migrations\\AcademicRecordsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34973E-E01B-43D8-BB6D-CF12BBC5F53D}|AcademicRecordsApp.csproj|d:\\softuni\\ef core - jun 2024\\migrations\\academicrecordsapp\\data\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34973E-E01B-43D8-BB6D-CF12BBC5F53D}|AcademicRecordsApp.csproj|solutionrelative:data\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34973E-E01B-43D8-BB6D-CF12BBC5F53D}|AcademicRecordsApp.csproj|d:\\softuni\\ef core - jun 2024\\migrations\\academicrecordsapp\\data\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34973E-E01B-43D8-BB6D-CF12BBC5F53D}|AcademicRecordsApp.csproj|solutionrelative:data\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34973E-E01B-43D8-BB6D-CF12BBC5F53D}|AcademicRecordsApp.csproj|d:\\softuni\\ef core - jun 2024\\migrations\\academicrecordsapp\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34973E-E01B-43D8-BB6D-CF12BBC5F53D}|AcademicRecordsApp.csproj|solutionrelative:data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34973E-E01B-43D8-BB6D-CF12BBC5F53D}|AcademicRecordsApp.csproj|d:\\softuni\\ef core - jun 2024\\migrations\\academicrecordsapp\\data\\academicrecordsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34973E-E01B-43D8-BB6D-CF12BBC5F53D}|AcademicRecordsApp.csproj|solutionrelative:data\\academicrecordsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34973E-E01B-43D8-BB6D-CF12BBC5F53D}|AcademicRecordsApp.csproj|d:\\softuni\\ef core - jun 2024\\migrations\\academicrecordsapp\\data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34973E-E01B-43D8-BB6D-CF12BBC5F53D}|AcademicRecordsApp.csproj|solutionrelative:data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34973E-E01B-43D8-BB6D-CF12BBC5F53D}|AcademicRecordsApp.csproj|d:\\softuni\\ef core - jun 2024\\migrations\\academicrecordsapp\\data\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34973E-E01B-43D8-BB6D-CF12BBC5F53D}|AcademicRecordsApp.csproj|solutionrelative:data\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE34973E-E01B-43D8-BB6D-CF12BBC5F53D}|AcademicRecordsApp.csproj|d:\\softuni\\ef core - jun 2024\\migrations\\academicrecordsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE34973E-E01B-43D8-BB6D-CF12BBC5F53D}|AcademicRecordsApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationConstants.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Migrations\\AcademicRecordsApp\\Data\\ValidationConstants.cs",
+              "RelativeDocumentMoniker": "Data\\ValidationConstants.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Migrations\\AcademicRecordsApp\\Data\\ValidationConstants.cs",
+              "RelativeToolTip": "Data\\ValidationConstants.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAEwBEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:03:40.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AcademicRecordsDBContext.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Migrations\\AcademicRecordsApp\\Data\\AcademicRecordsDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\AcademicRecordsDBContext.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Migrations\\AcademicRecordsApp\\Data\\AcademicRecordsDBContext.cs",
+              "RelativeToolTip": "Data\\AcademicRecordsDBContext.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAqwFYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:14:49.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Migrations\\AcademicRecordsApp\\Data\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Course.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Migrations\\AcademicRecordsApp\\Data\\Models\\Course.cs",
+              "RelativeToolTip": "Data\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:09:45.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Migrations\\AcademicRecordsApp\\Data\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Grade.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Migrations\\AcademicRecordsApp\\Data\\Models\\Grade.cs",
+              "RelativeToolTip": "Data\\Models\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:07:03.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Migrations\\AcademicRecordsApp\\Data\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Student.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Migrations\\AcademicRecordsApp\\Data\\Models\\Student.cs",
+              "RelativeToolTip": "Data\\Models\\Student.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:03:45.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Migrations\\AcademicRecordsApp\\Data\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Exam.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Migrations\\AcademicRecordsApp\\Data\\Models\\Exam.cs",
+              "RelativeToolTip": "Data\\Models\\Exam.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAawBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:03:31.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Migrations\\AcademicRecordsApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Migrations\\AcademicRecordsApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T08:57:19.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

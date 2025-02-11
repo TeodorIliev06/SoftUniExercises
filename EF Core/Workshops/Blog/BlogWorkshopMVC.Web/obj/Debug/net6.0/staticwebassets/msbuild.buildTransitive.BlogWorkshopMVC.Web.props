@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BlogWorkshopMVC.Web.props" />
+</Project>

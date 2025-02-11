@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlogWorkshopMVC.Web.props" />
+</Project>

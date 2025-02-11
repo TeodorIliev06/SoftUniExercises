@@ -1,0 +1,11 @@
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Common\bin\Debug\net6.0\BlogWorkshopMVC.Common.deps.json
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Common\bin\Debug\net6.0\BlogWorkshopMVC.Common.dll
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Common\bin\Debug\net6.0\BlogWorkshopMVC.Common.pdb
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Common\obj\Debug\net6.0\BlogWorkshopMVC.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Common\obj\Debug\net6.0\BlogWorkshopMVC.Common.AssemblyInfoInputs.cache
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Common\obj\Debug\net6.0\BlogWorkshopMVC.Common.AssemblyInfo.cs
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Common\obj\Debug\net6.0\BlogWorkshopMVC.Common.csproj.CoreCompileInputs.cache
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Common\obj\Debug\net6.0\BlogWorkshopMVC.Common.dll
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Common\obj\Debug\net6.0\refint\BlogWorkshopMVC.Common.dll
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Common\obj\Debug\net6.0\BlogWorkshopMVC.Common.pdb
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Common\obj\Debug\net6.0\ref\BlogWorkshopMVC.Common.dll

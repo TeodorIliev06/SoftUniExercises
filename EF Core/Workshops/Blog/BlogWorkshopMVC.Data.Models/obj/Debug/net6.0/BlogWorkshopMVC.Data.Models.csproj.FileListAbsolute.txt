@@ -1,0 +1,15 @@
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Data.Models\bin\Debug\net6.0\BlogWorkshopMVC.Data.Models.deps.json
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Data.Models\bin\Debug\net6.0\BlogWorkshopMVC.Data.Models.dll
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Data.Models\bin\Debug\net6.0\BlogWorkshopMVC.Data.Models.pdb
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Data.Models\bin\Debug\net6.0\BlogWorkshopMVC.Common.dll
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Data.Models\bin\Debug\net6.0\BlogWorkshopMVC.Common.pdb
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Data.Models\obj\Debug\net6.0\BlogWorkshopMVC.Data.Models.csproj.AssemblyReference.cache
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Data.Models\obj\Debug\net6.0\BlogWorkshopMVC.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Data.Models\obj\Debug\net6.0\BlogWorkshopMVC.Data.Models.AssemblyInfoInputs.cache
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Data.Models\obj\Debug\net6.0\BlogWorkshopMVC.Data.Models.AssemblyInfo.cs
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Data.Models\obj\Debug\net6.0\BlogWorkshopMVC.Data.Models.csproj.CoreCompileInputs.cache
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Data.Models\obj\Debug\net6.0\BlogWork.C7A979D7.Up2Date
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Data.Models\obj\Debug\net6.0\BlogWorkshopMVC.Data.Models.dll
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Data.Models\obj\Debug\net6.0\refint\BlogWorkshopMVC.Data.Models.dll
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Data.Models\obj\Debug\net6.0\BlogWorkshopMVC.Data.Models.pdb
+D:\SoftUni\EF Core - Jun 2024\Workshops\Blog\BlogWorkshopMVC.Data.Models\obj\Debug\net6.0\ref\BlogWorkshopMVC.Data.Models.dll

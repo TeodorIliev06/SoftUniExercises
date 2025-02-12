@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.web\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|solutionrelative:eventmiworkshopmvc.web\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|solutionrelative:eventmiworkshopmvc.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|solutionrelative:eventmiworkshopmvc.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.web\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|solutionrelative:eventmiworkshopmvc.web\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBD6959-0787-4B9B-8295-C0D3D4979451}|EventMiWorkshopMVC.Services.Data\\EventMiWorkshopMVC.Services.Data.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.services.data\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBD6959-0787-4B9B-8295-C0D3D4979451}|EventMiWorkshopMVC.Services.Data\\EventMiWorkshopMVC.Services.Data.csproj|solutionrelative:eventmiworkshopmvc.services.data\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBD6959-0787-4B9B-8295-C0D3D4979451}|EventMiWorkshopMVC.Services.Data\\EventMiWorkshopMVC.Services.Data.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.services.data\\contracts\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBD6959-0787-4B9B-8295-C0D3D4979451}|EventMiWorkshopMVC.Services.Data\\EventMiWorkshopMVC.Services.Data.csproj|solutionrelative:eventmiworkshopmvc.services.data\\contracts\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.web\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|solutionrelative:eventmiworkshopmvc.web\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.web\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|solutionrelative:eventmiworkshopmvc.web\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.web\\views\\event\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|solutionrelative:eventmiworkshopmvc.web\\views\\event\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C8DDBE-A2BD-4648-8E95-395A1838E623}|EventMiWorkshopMVC.Data.Models\\EventMiWorkshopMVC.Data.Models.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.data.models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C8DDBE-A2BD-4648-8E95-395A1838E623}|EventMiWorkshopMVC.Data.Models\\EventMiWorkshopMVC.Data.Models.csproj|solutionrelative:eventmiworkshopmvc.data.models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955F26D8-AECE-40D2-9425-FE6896591E06}|EventMiWorkshopMVC.Data\\EventMiWorkshopMVC.Data.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.data\\eventmidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955F26D8-AECE-40D2-9425-FE6896591E06}|EventMiWorkshopMVC.Data\\EventMiWorkshopMVC.Data.csproj|solutionrelative:eventmiworkshopmvc.data\\eventmidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF283A44-06A6-464D-AFFA-E7B26EDD762D}|EventMiWorkshopMVC.Web.ViewModels\\EventMiWorkshopMVC.Web.ViewModels.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.web.viewmodels\\event\\editeventformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF283A44-06A6-464D-AFFA-E7B26EDD762D}|EventMiWorkshopMVC.Web.ViewModels\\EventMiWorkshopMVC.Web.ViewModels.csproj|solutionrelative:eventmiworkshopmvc.web.viewmodels\\event\\editeventformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|solutionrelative:eventmiworkshopmvc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF283A44-06A6-464D-AFFA-E7B26EDD762D}|EventMiWorkshopMVC.Web.ViewModels\\EventMiWorkshopMVC.Web.ViewModels.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.web.viewmodels\\event\\addeventformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF283A44-06A6-464D-AFFA-E7B26EDD762D}|EventMiWorkshopMVC.Web.ViewModels\\EventMiWorkshopMVC.Web.ViewModels.csproj|solutionrelative:eventmiworkshopmvc.web.viewmodels\\event\\addeventformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|solutionrelative:eventmiworkshopmvc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|solutionrelative:eventmiworkshopmvc.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9781C10-4F05-4DA5-9047-CF389D099BF5}|EventMiWorkshopMVC.Common\\EventMiWorkshopMVC.Common.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.common\\entityconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9781C10-4F05-4DA5-9047-CF389D099BF5}|EventMiWorkshopMVC.Common\\EventMiWorkshopMVC.Common.csproj|solutionrelative:eventmiworkshopmvc.common\\entityconstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF283A44-06A6-464D-AFFA-E7B26EDD762D}|EventMiWorkshopMVC.Web.ViewModels\\EventMiWorkshopMVC.Web.ViewModels.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.web.viewmodels\\home\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF283A44-06A6-464D-AFFA-E7B26EDD762D}|EventMiWorkshopMVC.Web.ViewModels\\EventMiWorkshopMVC.Web.ViewModels.csproj|solutionrelative:eventmiworkshopmvc.web.viewmodels\\home\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|solutionrelative:eventmiworkshopmvc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9781C10-4F05-4DA5-9047-CF389D099BF5}|EventMiWorkshopMVC.Common\\EventMiWorkshopMVC.Common.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.common\\generalapplicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9781C10-4F05-4DA5-9047-CF389D099BF5}|EventMiWorkshopMVC.Common\\EventMiWorkshopMVC.Common.csproj|solutionrelative:eventmiworkshopmvc.common\\generalapplicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C0AA3C1-114E-4796-B708-0D08E0439933}|EventMiWorkshopMVC.Web\\EventMiWorkshopMVC.Web.csproj|solutionrelative:eventmiworkshopmvc.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955F26D8-AECE-40D2-9425-FE6896591E06}|EventMiWorkshopMVC.Data\\EventMiWorkshopMVC.Data.csproj|d:\\softuni\\ef core - jun 2024\\workshops\\eventmi\\eventmi\\eventmiworkshopmvc.data\\migrations\\20240727175427_initial_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955F26D8-AECE-40D2-9425-FE6896591E06}|EventMiWorkshopMVC.Data\\EventMiWorkshopMVC.Data.csproj|solutionrelative:eventmiworkshopmvc.data\\migrations\\20240727175427_initial_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\Event\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Web\\Views\\Event\\Details.cshtml",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\Event\\Details.cshtml",
+              "RelativeToolTip": "EventMiWorkshopMVC.Web\\Views\\Event\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T12:03:31.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\Event\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Web\\Views\\Event\\Delete.cshtml",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\Event\\Delete.cshtml",
+              "RelativeToolTip": "EventMiWorkshopMVC.Web\\Views\\Event\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T11:41:49.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Web\\Views\\Event\\Edit.cshtml",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "EventMiWorkshopMVC.Web\\Views\\Event\\Edit.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T09:35:39.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditEventFormModel.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web.ViewModels\\Event\\EditEventFormModel.cs",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Web.ViewModels\\Event\\EditEventFormModel.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web.ViewModels\\Event\\EditEventFormModel.cs",
+              "RelativeToolTip": "EventMiWorkshopMVC.Web.ViewModels\\Event\\EditEventFormModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:21:01.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Services.Data\\Contracts\\IEventService.cs",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Services.Data\\Contracts\\IEventService.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Services.Data\\Contracts\\IEventService.cs",
+              "RelativeToolTip": "EventMiWorkshopMVC.Services.Data\\Contracts\\IEventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAEwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:18:50.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Services.Data\\EventService.cs",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Services.Data\\EventService.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Services.Data\\EventService.cs",
+              "RelativeToolTip": "EventMiWorkshopMVC.Services.Data\\EventService.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwFoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:17:49.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Data.Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Data.Models\\Event.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Data.Models\\Event.cs",
+              "RelativeToolTip": "EventMiWorkshopMVC.Data.Models\\Event.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAEwBkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T17:15:23.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Web\\Controllers\\EventController.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventMiWorkshopMVC.Web\\Controllers\\EventController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswIIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:03:15.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\Event\\Add.cshtml",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Web\\Views\\Event\\Add.cshtml",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\Event\\Add.cshtml",
+              "RelativeToolTip": "EventMiWorkshopMVC.Web\\Views\\Event\\Add.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T08:47:29.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web.ViewModels\\Home\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Web.ViewModels\\Home\\ErrorViewModel.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web.ViewModels\\Home\\ErrorViewModel.cs",
+              "RelativeToolTip": "EventMiWorkshopMVC.Web.ViewModels\\Home\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T08:09:05.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEventFormModel.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web.ViewModels\\Event\\AddEventFormModel.cs",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Web.ViewModels\\Event\\AddEventFormModel.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web.ViewModels\\Event\\AddEventFormModel.cs",
+              "RelativeToolTip": "EventMiWorkshopMVC.Web.ViewModels\\Event\\AddEventFormModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T08:07:55.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EventMiWorkshopMVC.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T19:08:45.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GeneralApplicationConstants.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Common\\GeneralApplicationConstants.cs",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Common\\GeneralApplicationConstants.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Common\\GeneralApplicationConstants.cs",
+              "RelativeToolTip": "EventMiWorkshopMVC.Common\\GeneralApplicationConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:06:32.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240727175427_Initial_Db.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Data\\Migrations\\20240727175427_Initial_Db.cs",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Data\\Migrations\\20240727175427_Initial_Db.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Data\\Migrations\\20240727175427_Initial_Db.cs",
+              "RelativeToolTip": "EventMiWorkshopMVC.Data\\Migrations\\20240727175427_Initial_Db.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T17:54:29.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Program.cs",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Web\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Program.cs",
+              "RelativeToolTip": "EventMiWorkshopMVC.Web\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T17:45:41.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventMiDbContext.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Data\\EventMiDbContext.cs",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Data\\EventMiDbContext.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Data\\EventMiDbContext.cs",
+              "RelativeToolTip": "EventMiWorkshopMVC.Data\\EventMiDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T17:31:30.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EntityConstraints.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Common\\EntityConstraints.cs",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Common\\EntityConstraints.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Common\\EntityConstraints.cs",
+              "RelativeToolTip": "EventMiWorkshopMVC.Common\\EntityConstraints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T17:17:03.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "EventMiWorkshopMVC.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T17:09:43.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EventMiWorkshopMVC.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T16:55:31.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EventMiWorkshopMVC.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T17:07:25.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EventMiWorkshopMVC.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T17:07:24.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EventMiWorkshopMVC.Web\\appsettings.Development.json",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Workshops\\Eventmi\\EventMi\\EventMiWorkshopMVC.Web\\appsettings.Development.json",
+              "RelativeToolTip": "EventMiWorkshopMVC.Web\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T16:57:34.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

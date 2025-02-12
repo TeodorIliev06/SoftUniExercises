@@ -1,0 +1,15 @@
+D:\SoftUni\EF Core - Jun 2024\Workshops\Eventmi\EventMi\EventMiWorkshopMVC.Web.ViewModels\bin\Debug\net6.0\EventMiWorkshopMVC.Web.ViewModels.deps.json
+D:\SoftUni\EF Core - Jun 2024\Workshops\Eventmi\EventMi\EventMiWorkshopMVC.Web.ViewModels\bin\Debug\net6.0\EventMiWorkshopMVC.Web.ViewModels.dll
+D:\SoftUni\EF Core - Jun 2024\Workshops\Eventmi\EventMi\EventMiWorkshopMVC.Web.ViewModels\bin\Debug\net6.0\EventMiWorkshopMVC.Web.ViewModels.pdb
+D:\SoftUni\EF Core - Jun 2024\Workshops\Eventmi\EventMi\EventMiWorkshopMVC.Web.ViewModels\obj\Debug\net6.0\EventMiWorkshopMVC.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\EF Core - Jun 2024\Workshops\Eventmi\EventMi\EventMiWorkshopMVC.Web.ViewModels\obj\Debug\net6.0\EventMiWorkshopMVC.Web.ViewModels.AssemblyInfoInputs.cache
+D:\SoftUni\EF Core - Jun 2024\Workshops\Eventmi\EventMi\EventMiWorkshopMVC.Web.ViewModels\obj\Debug\net6.0\EventMiWorkshopMVC.Web.ViewModels.AssemblyInfo.cs
+D:\SoftUni\EF Core - Jun 2024\Workshops\Eventmi\EventMi\EventMiWorkshopMVC.Web.ViewModels\obj\Debug\net6.0\EventMiWorkshopMVC.Web.ViewModels.csproj.CoreCompileInputs.cache
+D:\SoftUni\EF Core - Jun 2024\Workshops\Eventmi\EventMi\EventMiWorkshopMVC.Web.ViewModels\obj\Debug\net6.0\EventMiWorkshopMVC.Web.ViewModels.dll
+D:\SoftUni\EF Core - Jun 2024\Workshops\Eventmi\EventMi\EventMiWorkshopMVC.Web.ViewModels\obj\Debug\net6.0\refint\EventMiWorkshopMVC.Web.ViewModels.dll
+D:\SoftUni\EF Core - Jun 2024\Workshops\Eventmi\EventMi\EventMiWorkshopMVC.Web.ViewModels\obj\Debug\net6.0\EventMiWorkshopMVC.Web.ViewModels.pdb
+D:\SoftUni\EF Core - Jun 2024\Workshops\Eventmi\EventMi\EventMiWorkshopMVC.Web.ViewModels\obj\Debug\net6.0\ref\EventMiWorkshopMVC.Web.ViewModels.dll
+D:\SoftUni\EF Core - Jun 2024\Workshops\Eventmi\EventMi\EventMiWorkshopMVC.Web.ViewModels\bin\Debug\net6.0\EventMiWorkshopMVC.Common.dll
+D:\SoftUni\EF Core - Jun 2024\Workshops\Eventmi\EventMi\EventMiWorkshopMVC.Web.ViewModels\bin\Debug\net6.0\EventMiWorkshopMVC.Common.pdb
+D:\SoftUni\EF Core - Jun 2024\Workshops\Eventmi\EventMi\EventMiWorkshopMVC.Web.ViewModels\obj\Debug\net6.0\EventMiWorkshopMVC.Web.ViewModels.csproj.AssemblyReference.cache
+D:\SoftUni\EF Core - Jun 2024\Workshops\Eventmi\EventMi\EventMiWorkshopMVC.Web.ViewModels\obj\Debug\net6.0\EventMiW.20720E57.Up2Date

@@ -1,0 +1,91 @@
+@media screen and (width <= 600px) {
+    body {
+        width: 70%;
+        margin: 0 auto;
+      }
+      
+      /* Navigation styles */
+      nav {
+        flex-direction: column;
+        padding: 15px 0;
+      }
+      
+      .nav-burger-menu {
+        display: block;
+        position: absolute;
+        top: 4%;
+        left: 25%;
+        font-size: 24px;
+        color: white;
+        cursor: pointer;
+      }
+      
+      .nav-menu {
+        display: none;
+      }
+      
+      .nav-user-btns {
+        width: 100%;
+        flex-direction: column;
+        margin-top: 15px;
+      }
+      
+      .nav-user-btns > li > button {
+        width: 100%;
+        padding: 10px 0;
+      }
+      
+      /* Content info section */
+      .content-info {
+        flex-direction: column;
+        padding: 20px;
+        gap: 30px;
+        align-items: center;
+      }
+      
+      .content-info-welcome {
+        width: 100%;
+        text-align: center;
+      }
+      
+      .content-info-welcome h2 {
+        font-size: 48px;
+      }
+      
+      .content-info-welcome button {
+        width: 80%;
+      }
+      
+      .content-info-img {
+        display: none;
+      }
+      
+      /* Services section */
+      .content-services {
+        flex-direction: column;
+        align-items: center;
+      }
+      
+      .content-services div {
+        width: 100%;
+        padding: 30px;
+        border-radius: 50px;
+      }
+      
+      /* Gallery section */
+      .gallery {
+        flex-direction: column;
+        gap: 20px;
+      }
+      
+      .gallery img {
+        background-color: transparent;
+        width: 80%;
+        height: auto;
+      }
+      
+      /* Footer */
+      footer {
+        padding: 30px 0;
+      }
+}

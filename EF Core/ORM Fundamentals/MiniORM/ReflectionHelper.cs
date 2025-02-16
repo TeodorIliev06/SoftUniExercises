@@ -32,5 +32,30 @@
             return type.GetProperties().Where(pi =>
                 DbContext.AllowedSqlTypes.Contains(pi.PropertyType)).ToArray();
         }
+
+        internal static PropertyInfo[] GetKeyProperties(this Type type)
+        {
+            var keyProperties = type.GetProperties()
+                .Where(pi => pi.HasAttribute<KeyAttribute>())
+                .ToArray();
+
+            if (keyProperties.Length == 0)
+            {
+                throw new InvalidOperationException($"There is no primary key configuration for type {type}.");
+            }
+
+            return keyProperties;
+        }
+
+        internal static PropertyInfo GetSingleKeyProperty(this Type type)
+        {
+            var keyProperties = type.GetKeyProperties();
+            if (keyProperties.Length != 1)
+            {
+                throw new InvalidOperationException($"Expected a non-compound primary key for type {type}.");
+            }
+
+            return keyProperties[0];
+        }
     }
 }

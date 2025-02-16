@@ -30,13 +30,13 @@
 
         public void Add(T entity)
         {
-            CheckIfNull(entity);
+            ValidationUtils<T>.CheckIfNull(entity);
             this.added.Add(entity);
         }
 
         public void Remove(T entity)
         {
-            CheckIfNull(entity);
+            ValidationUtils<T>.CheckIfNull(entity);
             this.removed.Add(entity);
         }
 
@@ -65,14 +65,6 @@
             }
 
             return result;
-        }
-
-        private static void CheckIfNull(T entity)
-        {
-            if (entity == null)
-            {
-                throw new ArgumentNullException(nameof(entity));
-            }
         }
 
         private static HashSet<T> CloneEntities(IEnumerable<T> entities)

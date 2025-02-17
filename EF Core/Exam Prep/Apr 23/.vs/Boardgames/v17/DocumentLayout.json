@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\apr 23\\boardgames\\dataprocessor\\exportdto\\boardgameexportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\exportdto\\boardgameexportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\apr 23\\boardgames\\dataprocessor\\exportdto\\creatorexportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\exportdto\\creatorexportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\apr 23\\boardgames\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\apr 23\\boardgames\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\apr 23\\boardgames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\apr 23\\boardgames\\data\\models\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\models\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\apr 23\\boardgames\\utilities\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\utilities\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\apr 23\\boardgames\\common\\entityvalidationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\common\\entityvalidationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\apr 23\\boardgames\\data\\models\\enums\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\models\\enums\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\apr 23\\boardgames\\data\\boardgamescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\boardgamescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\apr 23\\boardgames\\data\\models\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\models\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\apr 23\\boardgames\\data\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\apr 23\\boardgames\\data\\models\\boardgameseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\data\\models\\boardgameseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\apr 23\\boardgames\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C2903-406D-4AFE-8A26-490687D823A3}|Boardgames\\Boardgames.csproj|solutionrelative:boardgames\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoardgameExportDto.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\DataProcessor\\ExportDto\\BoardgameExportDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ExportDto\\BoardgameExportDto.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\DataProcessor\\ExportDto\\BoardgameExportDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ExportDto\\BoardgameExportDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAlwBAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:15:10.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreatorExportDto.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\DataProcessor\\ExportDto\\CreatorExportDto.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\ExportDto\\CreatorExportDto.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\DataProcessor\\ExportDto\\CreatorExportDto.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\ExportDto\\CreatorExportDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAlwBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:12:14.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\Serializer.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwBYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:56:58.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Utilities\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Utilities\\JsonHelper.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Utilities\\JsonHelper.cs",
+              "RelativeToolTip": "Boardgames\\Utilities\\JsonHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:37:04.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\StartUp.cs",
+              "RelativeDocumentMoniker": "Boardgames\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\StartUp.cs",
+              "RelativeToolTip": "Boardgames\\StartUp.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowCoAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:09:00.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "Boardgames\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "Boardgames\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAqwHMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:31:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "XmlHelper.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Utilities\\XmlHelper.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Utilities\\XmlHelper.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Utilities\\XmlHelper.cs",
+              "RelativeToolTip": "Boardgames\\Utilities\\XmlHelper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:35:46.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BoardgameSeller.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Data\\Models\\BoardgameSeller.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\BoardgameSeller.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Data\\Models\\BoardgameSeller.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Models\\BoardgameSeller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:29:14.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Data\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Seller.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Data\\Models\\Seller.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Models\\Seller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:21:27.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Creator.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Data\\Models\\Creator.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Creator.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Data\\Models\\Creator.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Models\\Creator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:13:11.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoardgamesContext.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Data\\BoardgamesContext.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\BoardgamesContext.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Data\\BoardgamesContext.cs",
+              "RelativeToolTip": "Boardgames\\Data\\BoardgamesContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:11:00.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryType.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Data\\Models\\Enums\\CategoryType.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Enums\\CategoryType.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Data\\Models\\Enums\\CategoryType.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Models\\Enums\\CategoryType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:05:07.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Boardgame.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Data\\Models\\Boardgame.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Data\\Models\\Boardgame.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Data\\Models\\Boardgame.cs",
+              "RelativeToolTip": "Boardgames\\Data\\Models\\Boardgame.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:48:51.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntityValidationConstants.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Common\\EntityValidationConstants.cs",
+              "RelativeDocumentMoniker": "Boardgames\\Common\\EntityValidationConstants.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Apr 23\\Boardgames\\Common\\EntityValidationConstants.cs",
+              "RelativeToolTip": "Boardgames\\Common\\EntityValidationConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:45:51.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\utilities\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\abfefb15-e74b-4e08-b9ae-f0b5f8b9e955_toDelete.zip.955\\DataProcessor\\ExportDtos\\ExportMedicineDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\dataprocessor\\exportdtos\\exportmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\exportdtos\\exportmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\dataprocessor\\exportdtos\\exportpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\exportdtos\\exportpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\exportresults\\expected result - exportpatientswiththeirmedicines.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\exportresults\\expected result - exportpatientswiththeirmedicines.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\exportresults\\expected result - exportmedicinesfromdesiredcategoryinnonstoppharmacies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\exportresults\\expected result - exportmedicinesfromdesiredcategoryinnonstoppharmacies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\exportresults\\actual result - exportpatientswiththeirmedicines.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\exportresults\\actual result - exportpatientswiththeirmedicines.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\data\\medicinescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\medicinescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\03e63830-605d-427d-ab02-18eb3c409ec9_toDelete.zip.ec9\\DataProcessor\\Serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\46e577ec-40d0-43b7-9816-5ca899d30395_toDelete.zip.395\\DataProcessor\\ExportDtos\\ExportMedicineDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\utilities\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\utilities\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\dataprocessor\\importdtos\\patientimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\importdtos\\patientimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\common\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\common\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\data\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\dataprocessor\\importdtos\\medicineimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\importdtos\\medicineimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\dataprocessor\\importdtos\\pharmacyimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\importdtos\\pharmacyimportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\data\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\data\\models\\enums\\agegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\enums\\agegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\data\\models\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|d:\\softuni\\ef core - jun 2024\\exam prep\\dec 23\\medicines\\data\\models\\patientmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\patientmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Expected Result - ExportPatientsWithTheirMedicines.xml",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\ExportResults\\Expected Result - ExportPatientsWithTheirMedicines.xml",
+              "RelativeDocumentMoniker": "Medicines\\ExportResults\\Expected Result - ExportPatientsWithTheirMedicines.xml",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\ExportResults\\Expected Result - ExportPatientsWithTheirMedicines.xml",
+              "RelativeToolTip": "Medicines\\ExportResults\\Expected Result - ExportPatientsWithTheirMedicines.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-18T15:42:33.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Expected Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\ExportResults\\Expected Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
+              "RelativeDocumentMoniker": "Medicines\\ExportResults\\Expected Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\ExportResults\\Expected Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
+              "RelativeToolTip": "Medicines\\ExportResults\\Expected Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T15:42:23.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Actual Result - ExportPatientsWithTheirMedicines.xml",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\ExportResults\\Actual Result - ExportPatientsWithTheirMedicines.xml",
+              "RelativeDocumentMoniker": "Medicines\\ExportResults\\Actual Result - ExportPatientsWithTheirMedicines.xml",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\ExportResults\\Actual Result - ExportPatientsWithTheirMedicines.xml",
+              "RelativeToolTip": "Medicines\\ExportResults\\Actual Result - ExportPatientsWithTheirMedicines.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-18T15:40:35.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportMedicineDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\abfefb15-e74b-4e08-b9ae-f0b5f8b9e955_toDelete.zip.955\\DataProcessor\\ExportDtos\\ExportMedicineDto.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\abfefb15-e74b-4e08-b9ae-f0b5f8b9e955_toDelete.zip.955\\DataProcessor\\ExportDtos\\ExportMedicineDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:30:53.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExportMedicineDto.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\DataProcessor\\ExportDtos\\ExportMedicineDto.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\ExportDtos\\ExportMedicineDto.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\DataProcessor\\ExportDtos\\ExportMedicineDto.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\ExportDtos\\ExportMedicineDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:29:42.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\Serializer.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAIAwwEsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:28:41.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\StartUp.cs",
+              "RelativeDocumentMoniker": "Medicines\\StartUp.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\StartUp.cs",
+              "RelativeToolTip": "Medicines\\StartUp.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:59:08.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XmlHelper.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Utilities\\XmlHelper.cs",
+              "RelativeDocumentMoniker": "Medicines\\Utilities\\XmlHelper.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Utilities\\XmlHelper.cs",
+              "RelativeToolTip": "Medicines\\Utilities\\XmlHelper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:28:46.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:52:56.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PatientImportDto.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\DataProcessor\\ImportDtos\\PatientImportDto.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\ImportDtos\\PatientImportDto.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\DataProcessor\\ImportDtos\\PatientImportDto.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\ImportDtos\\PatientImportDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:36:46.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExportPatientDto.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\DataProcessor\\ExportDtos\\ExportPatientDto.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\ExportDtos\\ExportPatientDto.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\DataProcessor\\ExportDtos\\ExportPatientDto.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\ExportDtos\\ExportPatientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:59:11.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Utilities\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "Medicines\\Utilities\\JsonHelper.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Utilities\\JsonHelper.cs",
+              "RelativeToolTip": "Medicines\\Utilities\\JsonHelper.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:37:31.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\Configuration.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\Configuration.cs",
+              "RelativeToolTip": "Medicines\\Data\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:39:05.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicinesContext.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\MedicinesContext.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\MedicinesContext.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\MedicinesContext.cs",
+              "RelativeToolTip": "Medicines\\Data\\MedicinesContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:03:35.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\03e63830-605d-427d-ab02-18eb3c409ec9_toDelete.zip.ec9\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\03e63830-605d-427d-ab02-18eb3c409ec9_toDelete.zip.ec9\\DataProcessor\\Serializer.cs [Read Only]",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:51:56.68Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExportMedicineDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\46e577ec-40d0-43b7-9816-5ca899d30395_toDelete.zip.395\\DataProcessor\\ExportDtos\\ExportMedicineDto.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\46e577ec-40d0-43b7-9816-5ca899d30395_toDelete.zip.395\\DataProcessor\\ExportDtos\\ExportMedicineDto.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:53:33.339Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MedicineImportDto.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\DataProcessor\\ImportDtos\\MedicineImportDto.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\ImportDtos\\MedicineImportDto.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\DataProcessor\\ImportDtos\\MedicineImportDto.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\ImportDtos\\MedicineImportDto.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:04:31.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PharmacyImportDto.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\DataProcessor\\ImportDtos\\PharmacyImportDto.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\ImportDtos\\PharmacyImportDto.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\DataProcessor\\ImportDtos\\PharmacyImportDto.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\ImportDtos\\PharmacyImportDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:57:40.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AgeGroup.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\Models\\Enums\\AgeGroup.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\Models\\Enums\\AgeGroup.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\Models\\Enums\\AgeGroup.cs",
+              "RelativeToolTip": "Medicines\\Data\\Models\\Enums\\AgeGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:16:46.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\Models\\Patient.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\Models\\Patient.cs",
+              "RelativeToolTip": "Medicines\\Data\\Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:15:08.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\Models\\Medicine.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\Models\\Medicine.cs",
+              "RelativeToolTip": "Medicines\\Data\\Models\\Medicine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:04:41.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ValidationConstants.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Common\\ValidationConstants.cs",
+              "RelativeDocumentMoniker": "Medicines\\Common\\ValidationConstants.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Common\\ValidationConstants.cs",
+              "RelativeToolTip": "Medicines\\Common\\ValidationConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:49:37.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\Models\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\Models\\Enums\\Gender.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\Models\\Enums\\Gender.cs",
+              "RelativeToolTip": "Medicines\\Data\\Models\\Enums\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:17:29.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Pharmacy.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\Models\\Pharmacy.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\Models\\Pharmacy.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\Models\\Pharmacy.cs",
+              "RelativeToolTip": "Medicines\\Data\\Models\\Pharmacy.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvxkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:42:49.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PatientMedicine.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\Models\\PatientMedicine.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\Models\\PatientMedicine.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\Exam Prep\\Dec 23\\Medicines\\Data\\Models\\PatientMedicine.cs",
+              "RelativeToolTip": "Medicines\\Data\\Models\\PatientMedicine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:18:11.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

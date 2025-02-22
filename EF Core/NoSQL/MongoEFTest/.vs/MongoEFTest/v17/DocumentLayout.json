@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\EF Core - Jun 2024\\NoSQL\\MongoEFTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B250373D-40E0-4DB0-8FB2-D527CD7D80B2}|MongoEFTest.csproj|d:\\softuni\\ef core - jun 2024\\nosql\\mongoeftest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B250373D-40E0-4DB0-8FB2-D527CD7D80B2}|MongoEFTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422A5931-2F6B-4191-9CF5-736F48E68916}|NewFolder1{422A5931-2F6B-4191-9CF5-736F48E68916}|D:\\SoftUni\\EF Core - Jun 2024\\NoSQL\\MongoEFTest\\articles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{422A5931-2F6B-4191-9CF5-736F48E68916}|NewFolder1{422A5931-2F6B-4191-9CF5-736F48E68916}|solutionrelative:articles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59448142-A325-403D-9679-434A4A81690F}|..\\MongoEFTest.Data.Models\\MongoEFTest.Data.Models.csproj|d:\\softuni\\ef core - jun 2024\\nosql\\mongoeftest.data.models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B250373D-40E0-4DB0-8FB2-D527CD7D80B2}|MongoEFTest.csproj|d:\\softuni\\ef core - jun 2024\\nosql\\mongoeftest\\mongoeftest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B250373D-40E0-4DB0-8FB2-D527CD7D80B2}|MongoEFTest.csproj|solutionrelative:mongoeftest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6837D3E3-A4B3-4462-8A4F-1B706804900E}|..\\MongoEFTest.Data\\MongoEFTest.Data.csproj|d:\\softuni\\ef core - jun 2024\\nosql\\mongoeftest.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoEFTest",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\NoSQL\\MongoEFTest\\MongoEFTest.csproj",
+              "RelativeDocumentMoniker": "MongoEFTest.csproj",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\NoSQL\\MongoEFTest\\MongoEFTest.csproj",
+              "RelativeToolTip": "MongoEFTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T15:45:10.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "articles.json",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\NoSQL\\MongoEFTest\\articles.json",
+              "RelativeDocumentMoniker": "articles.json",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\NoSQL\\MongoEFTest\\articles.json",
+              "RelativeToolTip": "articles.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T15:31:02.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Article.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\NoSQL\\MongoEFTest.Data.Models\\Article.cs",
+              "RelativeDocumentMoniker": "..\\MongoEFTest.Data.Models\\Article.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\NoSQL\\MongoEFTest.Data.Models\\Article.cs",
+              "RelativeToolTip": "..\\MongoEFTest.Data.Models\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:23:59.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\NoSQL\\MongoEFTest.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\MongoEFTest.Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\NoSQL\\MongoEFTest.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\MongoEFTest.Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:08:22.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\EF Core - Jun 2024\\NoSQL\\MongoEFTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SoftUni\\EF Core - Jun 2024\\NoSQL\\MongoEFTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:01:38.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

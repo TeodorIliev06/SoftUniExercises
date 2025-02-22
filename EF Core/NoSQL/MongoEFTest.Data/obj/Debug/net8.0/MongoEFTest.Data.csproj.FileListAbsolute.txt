@@ -1,0 +1,15 @@
+D:\SoftUni\EF Core - Jun 2024\NoSQL\MongoEFTest.Data\bin\Debug\net8.0\MongoEFTest.Data.deps.json
+D:\SoftUni\EF Core - Jun 2024\NoSQL\MongoEFTest.Data\bin\Debug\net8.0\MongoEFTest.Data.dll
+D:\SoftUni\EF Core - Jun 2024\NoSQL\MongoEFTest.Data\bin\Debug\net8.0\MongoEFTest.Data.pdb
+D:\SoftUni\EF Core - Jun 2024\NoSQL\MongoEFTest.Data\bin\Debug\net8.0\MongoEFTest.Data.Models.dll
+D:\SoftUni\EF Core - Jun 2024\NoSQL\MongoEFTest.Data\bin\Debug\net8.0\MongoEFTest.Data.Models.pdb
+D:\SoftUni\EF Core - Jun 2024\NoSQL\MongoEFTest.Data\obj\Debug\net8.0\MongoEFTest.Data.csproj.AssemblyReference.cache
+D:\SoftUni\EF Core - Jun 2024\NoSQL\MongoEFTest.Data\obj\Debug\net8.0\MongoEFTest.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\EF Core - Jun 2024\NoSQL\MongoEFTest.Data\obj\Debug\net8.0\MongoEFTest.Data.AssemblyInfoInputs.cache
+D:\SoftUni\EF Core - Jun 2024\NoSQL\MongoEFTest.Data\obj\Debug\net8.0\MongoEFTest.Data.AssemblyInfo.cs
+D:\SoftUni\EF Core - Jun 2024\NoSQL\MongoEFTest.Data\obj\Debug\net8.0\MongoEFTest.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\EF Core - Jun 2024\NoSQL\MongoEFTest.Data\obj\Debug\net8.0\MongoEFT.9C65EDD5.Up2Date
+D:\SoftUni\EF Core - Jun 2024\NoSQL\MongoEFTest.Data\obj\Debug\net8.0\MongoEFTest.Data.dll
+D:\SoftUni\EF Core - Jun 2024\NoSQL\MongoEFTest.Data\obj\Debug\net8.0\refint\MongoEFTest.Data.dll
+D:\SoftUni\EF Core - Jun 2024\NoSQL\MongoEFTest.Data\obj\Debug\net8.0\MongoEFTest.Data.pdb
+D:\SoftUni\EF Core - Jun 2024\NoSQL\MongoEFTest.Data\obj\Debug\net8.0\ref\MongoEFTest.Data.dll

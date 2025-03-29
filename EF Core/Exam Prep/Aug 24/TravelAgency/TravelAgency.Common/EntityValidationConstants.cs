@@ -13,10 +13,15 @@
             public const string PhoneNumberRegex = @"^\+\d{12}$";
         }
 
+        public class Booking
+        {
+            public const string BookingDateFormat = @"yyyy-MM-dd";
+        }
+
         public class TourPackage
         {
             public const int PackageNameMinLength = 2;
-            public const int PackageNameMaxLength = 400;
+            public const int PackageNameMaxLength = 40;
             public const int DescriptionMaxLength = 200;
         }
 

@@ -15,12 +15,16 @@
         {
             public const int ContentMinLength = 5;
             public const int ContentMaxLength = 300;
+            public const string CreatedAtDateFormat = @"yyyy-MM-ddTHH:mm:ss";
         }
 
         public class Message
         {
             public const int ContentMinLength = 1;
             public const int ContentMaxLength = 200;
+            public const int StatusMinValue = 0;
+            public const int StatusMaxValue = 3;
+            public const string SentAtDateFormat = @"yyyy-MM-ddTHH:mm:ss";
         }
 
         public class Conversation

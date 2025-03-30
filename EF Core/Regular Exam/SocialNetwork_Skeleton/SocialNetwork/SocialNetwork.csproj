@@ -25,11 +25,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DataProcessor\ExportDTOs\" />
-    <Folder Include="DataProcessor\ImportDTOs\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\SocialNetwork.Common\SocialNetwork.Common.csproj" />
   </ItemGroup>
 

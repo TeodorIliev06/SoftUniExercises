@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 6,
+    "Title": "Study Group",
+    "StartedAt": "2024-08-10T14:00:00",
+    "Messages": []
+  },
+  {
+    "Id": 5,
+    "Title": "BackUp Group",
+    "StartedAt": "2024-08-10T20:11:00",
+    "Messages": []
+  },
+  {
+    "Id": 4,
+    "Title": "Movie Night",
+    "StartedAt": "2025-01-31T16:23:00",
+    "Messages": []
+  },
+  {
+    "Id": 2,
+    "Title": "Weekend Plans",
+    "StartedAt": "2025-02-22T18:00:00",
+    "Messages": []
+  },
+  {
+    "Id": 3,
+    "Title": "Team Meeting",
+    "StartedAt": "2025-02-23T10:15:00",
+    "Messages": []
+  },
+  {
+    "Id": 1,
+    "Title": "Project Discussion",
+    "StartedAt": "2025-02-24T14:30:00",
+    "Messages": []
+  }
+]

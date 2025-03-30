@@ -27,7 +27,10 @@
   <ItemGroup>
     <Folder Include="DataProcessor\ExportDTOs\" />
     <Folder Include="DataProcessor\ImportDTOs\" />
-    <Folder Include="Data\Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SocialNetwork.Common\SocialNetwork.Common.csproj" />
   </ItemGroup>
 
 </Project>

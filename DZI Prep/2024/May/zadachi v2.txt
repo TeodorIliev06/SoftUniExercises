@@ -1,0 +1,25 @@
+1 - a
+2 - в
+3 - б
+4 - а
+5 - б
+6 - в - replace on immutable string
+7 - в - binary search
+8 - в - access to public and proteced members
+9 - в
+10 - б
+11 - г
+12 - в
+
+13 - б
+stack: 2025 1 -> peek ...
+
+14 - г
+Rec(7) => 1 + Rec(3) => 1 + Rec(1) => 1 + Rec(0)
+
+15 - a
+16 - г
+
+17 - 
+1) 6
+2) (b - a) / step + 1

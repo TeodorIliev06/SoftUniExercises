@@ -1,0 +1,55 @@
+1 - а
+2 - б
+3 - г
+4 - б
+5 - г
+6 - в
+7 - г
+8 - б
+9 - в (г)
+10 - в (а)
+11 - б
+12 - в
+13 - а
+14 - в
+15 - а
+16 - в
+
+17 - 
+total = 10
+count = 6
+
+18 - 
+1234The index is out of range.
+
+19 - 
+1) в 2) г 3) а 4) б
+
+20 - 
+1)
+UPDATE cars
+   SET Age = 24
+ WHERE FirstName = 'Ivan'
+
+2)
+DELETE FROM cars
+ WHERE age > 30
+
+21 - 3 cols, 2 rows
+
+22 -
+ string sentence = "Your birthday is April 12, 1998";
+ int sum = 0;  
+ for (int i = 0; i < sentence.Length; i++) 
+ { 
+    
+    if (char.IsDigit(sentence[i]))
+{ sum += sentence[i] – '0'; }
+ } 
+ Console.WriteLine(sum);
+
+23 - 5 4 3 2 1
+
+24 - 
+1) int sum = 0;
+2) sum += a[j, i]

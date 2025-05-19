@@ -18,9 +18,9 @@
             var smallestWinningsIndex = 0;
             for (int i = 1; i < winnings.Length; i++)
             {
-                var currentMonthWinings = input[i];
-                var lastMonthWinings = input[i - 1];
-                if (currentMonthWinings >= lastMonthWinings)
+                var currentMonthWinnings = input[i];
+                var lastMonthWinnings = input[i - 1];
+                if (currentMonthWinnings >= lastMonthWinnings)
                 {
                     currentStreak++;
                     if (currentStreak > longestStreak)
@@ -35,16 +35,19 @@
                 currentStreak = 1;
             }
 
-            double percentage;
-            int smallestProfit = winnings[smallestWinningsIndex];
             int closestProfit;
+            int smallestProfit = winnings[smallestWinningsIndex];
+
             if (smallestWinningsIndex == winnings.Length - 1)
             {
                 closestProfit = winnings[smallestWinningsIndex - 1];
             }
+            else
+            {
+                closestProfit = winnings[smallestWinningsIndex + 1];
+            }
 
-            closestProfit = winnings[smallestWinningsIndex + 1];
-            percentage = (closestProfit - smallestProfit) / (double)closestProfit * 100;
+            var percentage = (closestProfit - smallestProfit) / (double)closestProfit * 100;
 
             Console.WriteLine($"The longest period with bigger profit is {longestStreak} months");
             Console.WriteLine($"Smaller with {percentage:f2}%");

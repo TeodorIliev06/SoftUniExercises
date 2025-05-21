@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Zad_28
 {
-    internal class ClubMember
+    internal abstract class ClubMember
     {
         private string _firstName;
         private string _lastName;
         private int _age;
         private double _salary;
 
-        public ClubMember(string firstName, string lastName, int age, double salary)
+        protected ClubMember(string firstName, string lastName, int age, double salary)
         {
             this.FirstName = firstName;
             this.LastName = lastName;
@@ -26,7 +26,7 @@ namespace Zad_28
             get => _firstName;
             set
             {
-                if (string.IsNullOrEmpty(_firstName))
+                if (string.IsNullOrEmpty(value))
                 {
                     throw new ArgumentNullException($"The name can't be an empty string!");
                 }
@@ -39,7 +39,7 @@ namespace Zad_28
             get => _lastName;
             set
             {
-                if (string.IsNullOrEmpty(_lastName))
+                if (string.IsNullOrEmpty(value))
                 {
                     throw new ArgumentNullException($"The name can't be an empty string!");
                 }
@@ -52,7 +52,7 @@ namespace Zad_28
             get => _age;
             set
             {
-                if (_age <= 17)
+                if (value <= 17)
                 {
                     throw new ArgumentNullException($"Age must be greater than 17 years!");
                 }
@@ -65,12 +65,14 @@ namespace Zad_28
             get => _salary;
             set
             {
-                if (_salary <= 0)
+                if (value <= 0)
                 {
                     throw new ArgumentNullException($"Salary must be a positive number!");
                 }
                 _salary = value;
             }
         }
+
+        public abstract void Info();
     }
 }

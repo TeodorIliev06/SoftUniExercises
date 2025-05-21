@@ -16,7 +16,7 @@ namespace Zad_28
 
         public string DirectorType { get; set; }
 
-        public void Info()
+        public override void Info()
         {
             Console.WriteLine($"{this.DirectorType} director: {this.FirstName} {this.LastName}");
             Console.WriteLine($"salary: {this.Salary:F2} lv");

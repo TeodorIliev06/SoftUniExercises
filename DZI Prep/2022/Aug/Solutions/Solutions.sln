@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad 25", "Zad 25\Zad 25.csproj", "{D1659753-989F-41AA-ABBB-88F08D923D43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad 26", "Zad 26\Zad 26.csproj", "{883DB223-0E4B-459C-A118-31628C7FF7E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad 28", "Zad 28\Zad 28.csproj", "{71E1A0A7-6784-465D-8EBB-42F6CA19F370}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1659753-989F-41AA-ABBB-88F08D923D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1659753-989F-41AA-ABBB-88F08D923D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1659753-989F-41AA-ABBB-88F08D923D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1659753-989F-41AA-ABBB-88F08D923D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{883DB223-0E4B-459C-A118-31628C7FF7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883DB223-0E4B-459C-A118-31628C7FF7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883DB223-0E4B-459C-A118-31628C7FF7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883DB223-0E4B-459C-A118-31628C7FF7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E1A0A7-6784-465D-8EBB-42F6CA19F370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E1A0A7-6784-465D-8EBB-42F6CA19F370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E1A0A7-6784-465D-8EBB-42F6CA19F370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E1A0A7-6784-465D-8EBB-42F6CA19F370}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

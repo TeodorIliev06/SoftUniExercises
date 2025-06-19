@@ -4,6 +4,7 @@ namespace Horizons.Web
 
     using Microsoft.AspNetCore.Identity;
     using Microsoft.EntityFrameworkCore;
+
     public class Program
     {
         public static void Main(string[] args)

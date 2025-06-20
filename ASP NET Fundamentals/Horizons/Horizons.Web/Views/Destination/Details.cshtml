@@ -1,9 +1,9 @@
 ﻿@* 
     IsPublisher: A boolean property that indicates whether the currently logged-in user is the creator (publisher) of the destination. 
-    If true, the user cannot add the destination to their favorites, the "Favorites" button will not be displayed.
+    If true, the user cannot add the destination to their Favourites, the "Favourites" button will not be displayed.
 
-    IsFavourite: A boolean property that indicates whether the currently logged-in user has already added this destination to their favorites.
-    If true, the "Favorites" button will not be displayed.
+    IsFavourite: A boolean property that indicates whether the currently logged-in user has already added this destination to their Favourites.
+    If true, the "Favourites" button will not be displayed.
 *@
 
 @* @{
@@ -45,10 +45,10 @@
                 </a>
                 @if (User?.Identity?.IsAuthenticated == true && !Model.IsPublisher && !Model.IsFavourite)
                 {
-                    <form asp-controller="Destination" asp-action="AddToFavorites" method="post" class="d-flex justify-content-center align-items-center flex-fill mx-1">
+                    <form asp-controller="Destination" asp-action="AddToFavourites" method="post" class="d-flex justify-content-center align-items-center flex-fill mx-1">
                         <input type="hidden" name="id" value="@Model.Id" />
                         <button type="submit" class="btn btn-success w-100">
-                            <i class="fas fa-heart"></i> Add to Favorites
+                            <i class="fas fa-heart"></i> Add to Favourites
                         </button>
                     </form>
                 }

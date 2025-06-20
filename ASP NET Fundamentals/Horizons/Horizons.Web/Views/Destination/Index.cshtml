@@ -1,9 +1,9 @@
 ﻿@* 
     IsPublisher: A boolean property that indicates whether the currently logged-in user is the creator (publisher) of the destination. 
-    If true, the user cannot add the destination to their favorites, the "Favorites" button will not be displayed.
+    If true, the user cannot add the destination to their Favourites, the "Favourites" button will not be displayed.
 
-    IsFavourite: A boolean property that indicates whether the currently logged-in user has already added this destination to their favorites.
-    If true, the "Favorites" button will not be displayed.
+    IsFavourite: A boolean property that indicates whether the currently logged-in user has already added this destination to their Favourites.
+    If true, the "Favourites" button will not be displayed.
 *@
 @using Horizons.Web.ViewModels.Destination
 @model AllDestinationsViewModel
@@ -39,16 +39,16 @@
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">@destination.Name</h5>
                     <p class="card-text">Terrain: @destination.TerrainName</p>
-                    <p class="card-text"><small>Favorites: @destination.FavouritesCount</small></p>
+                    <p class="card-text"><small>Favourites: @destination.FavouritesCount</small></p>
                     <div class="d-flex justify-content-between mt-auto">
                         @if (User?.Identity?.IsAuthenticated == true && !destination.IsPublisher && !destination.IsFavourite)
                         {
                             <a asp-controller="Destination" asp-action="Details" asp-route-id="@destination.Id" class="btn btn-info me-2 w-50">
                                 <i class="fas fa-info-circle"></i> Details</a>
-                            <form asp-controller="Destination" asp-action="AddToFavorites" method="post" class="w-50">
+                            <form asp-controller="Destination" asp-action="AddToFavourites" method="post" class="w-50">
                                 <input type="hidden" name="id" value="@destination.Id" />
                                 <button type="submit" class="btn btn-success w-100">
-                                    <i class="fas fa-heart"></i> Favorites</button>
+                                    <i class="fas fa-heart"></i> Favourites</button>
                             </form>
                         }
                         else

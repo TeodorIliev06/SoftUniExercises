@@ -69,5 +69,89 @@
                 return RedirectToAction(nameof(Index));
             }
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Favourites()
+        {
+            try
+            {
+                string userId = this.GetUserId();
+
+                var viewModel = await destinationService.GetUserFavouriteDestinationsAsync(userId);
+
+                if (viewModel == null)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+
+                return View(viewModel);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                
+                return RedirectToAction(nameof(Index));
+            }
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> AddToFavourites(int? id)
+        {
+            try
+            {
+                string userId = this.GetUserId()!;
+
+                if (id == null)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+
+                var isDestAddedToFavourites = await destinationService
+                    .AddDestinationToUserFavouritesAsync(userId, id.Value);
+
+                if (!isDestAddedToFavourites)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+
+                return RedirectToAction(nameof(Index));
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+
+                return RedirectToAction(nameof(Index));
+            }
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> RemoveFromFavourites(int? id)
+        {
+            try
+            {
+                string userId = this.GetUserId()!;
+
+                if (id == null)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+
+                var isDestRemovedFromFavourites = await destinationService
+                    .RemoveDestinationFromUserFavouritesAsync(userId, id.Value);
+
+                if (!isDestRemovedFromFavourites)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+
+                return RedirectToAction(nameof(Favourites));
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+
+                return RedirectToAction(nameof(Index));
+            }
+        }
     }
 }

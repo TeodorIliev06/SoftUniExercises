@@ -64,7 +64,7 @@ namespace Horizons.Data.Migrations
 
                     b.HasIndex("TerrainId");
 
-                    b.ToTable("Destinations");
+                    b.ToTable("Destinations", (string)null);
 
                     b.HasData(
                         new
@@ -117,7 +117,7 @@ namespace Horizons.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Terrains");
+                    b.ToTable("Terrains", (string)null);
 
                     b.HasData(
                         new
@@ -174,7 +174,7 @@ namespace Horizons.Data.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("UsersDestinations");
+                    b.ToTable("UsersDestinations", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>

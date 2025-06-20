@@ -7,5 +7,11 @@
         Task<AllDestinationsViewModel> GetAllDestinationsAsync(string? userId);
 
         Task<bool> AddDestinationAsync(string userId, AddDestinationFormModel formModel);
+
+        Task<IEnumerable<FavouriteDestinationViewModel>> GetUserFavouriteDestinationsAsync(string? userId);
+
+        Task<bool> AddDestinationToUserFavouritesAsync(string userId, int destinationId);
+
+        Task<bool> RemoveDestinationFromUserFavouritesAsync(string userId, int destinationId);
     }
 }

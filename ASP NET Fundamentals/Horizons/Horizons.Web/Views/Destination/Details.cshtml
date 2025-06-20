@@ -5,8 +5,10 @@
     IsFavourite: A boolean property that indicates whether the currently logged-in user has already added this destination to their Favourites.
     If true, the "Favourites" button will not be displayed.
 *@
+@using Horizons.Web.ViewModels.Destination
+@model DestinationDetailsViewModel
 
-@* @{
+@{
     ViewData["Title"] = "Destination Details";
 }
 
@@ -33,9 +35,9 @@
             <hr />
             <p class="card-text">@Model.Description</p>
             <hr />
-            <p class="card-text"><small class="text-muted">Terrain: @Model.Terrain</small></p>
-            <p class="card-text"><small class="text-muted">Published On: @Model.PublishedOn.ToString("dd/MM/yyyy")</small></p>
-            <p class="card-text"><small class="text-muted">Publisher: @Model.Publisher</small></p>
+            <p class="card-text"><small class="text-muted">Terrain: @Model.TerrainName</small></p>
+            <p class="card-text"><small class="text-muted">Published On: @Model.PublishedOn</small></p>
+            <p class="card-text"><small class="text-muted">Publisher: @Model.PublisherName</small></p>
             <hr />
         </div>
         <div class="card-footer text-center">
@@ -65,4 +67,3 @@
         </div>
     </div>
 </div>
- *@

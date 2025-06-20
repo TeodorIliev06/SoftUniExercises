@@ -181,5 +181,45 @@
 
             return true;
         }
+
+        public async Task<DestinationDetailsViewModel?> GetDestinationDetailsAsync(int? destinationId, string? userId)
+        {
+            if (destinationId == null)
+            {
+                return null;
+            }
+
+            var destination = await dbContext.Destinations
+                .AsNoTracking()
+                .Include(d => d.Terrain)
+                .Include(d => d.Publisher)
+                .Include(d => d.UsersDestinations)
+                .SingleOrDefaultAsync(d => d.Id == destinationId);
+
+            if (destination == null)
+            {
+                return null;
+            }
+
+            bool isIdValid = !String.IsNullOrEmpty(userId);
+            var viewModel = new DestinationDetailsViewModel()
+            {
+                Description = destination.Description,
+                Id = destination.Id,
+                ImageUrl = destination.ImageUrl,
+                PublishedOn = destination.PublishedOn.ToString(PublishedOnFormat),
+                TerrainName = destination.Terrain.Name,
+                PublisherName = destination.Publisher.UserName!,
+
+                IsPublisher = isIdValid
+                    ? destination.PublisherId.ToLower() == userId!.ToLower()
+                    : false,
+                IsFavourite = isIdValid
+                    ? destination.UsersDestinations.Any(ud => ud.UserId.ToLower() == userId!.ToLower())
+                    : false
+            };
+
+            return viewModel;
+        }
     }
 }

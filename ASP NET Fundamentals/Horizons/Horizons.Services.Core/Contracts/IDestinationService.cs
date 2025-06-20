@@ -13,5 +13,7 @@
         Task<bool> AddDestinationToUserFavouritesAsync(string userId, int destinationId);
 
         Task<bool> RemoveDestinationFromUserFavouritesAsync(string userId, int destinationId);
+
+        Task<DestinationDetailsViewModel?> GetDestinationDetailsAsync(int? destinationId, string? userId);
     }
 }

@@ -1,4 +1,11 @@
-﻿@{
+﻿@using Horizons.Data.Models
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@{
     ViewData["Title"] = "Home";
 }
 
@@ -7,7 +14,7 @@
         <div class="col-md-8 col-sm-10 text-center">
             <h1 class="display-4">Welcome to Horizons</h1>
             <p class="lead">Explore Bulgaria's breathtaking destinations and terrains</p>
-            <a href="/Identity/Account/Register" class="btn btn-primary btn-lg mt-3">Start Your Adventure</a>
+            <a asp-area="Identity" asp-page="/Account/Register" class="btn btn-primary btn-lg mt-3">Start Your Adventure</a>
         </div>
     </div>
 </div>

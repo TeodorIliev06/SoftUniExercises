@@ -1,9 +1,12 @@
 namespace Horizons.Web
 {
-    using Horizons.Data;
-
     using Microsoft.AspNetCore.Identity;
     using Microsoft.EntityFrameworkCore;
+
+    using Horizons.Data;
+    using Horizons.Services.Core;
+    using Horizons.Web.Infrastructure;
+    using Horizons.Services.Core.Contracts;
 
     public class Program
     {
@@ -17,11 +20,14 @@ namespace Horizons.Web
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-            builder.Services.AddDefaultIdentity<IdentityUser>(options =>
+            builder.Services.AddDefaultIdentity<IdentityUser>(cfg =>
             {
-                options.SignIn.RequireConfirmedAccount = false;
+                IdentityOptionsConfigurator.Configure(builder, cfg);
             })
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+
+            builder.Services.AddScoped<IDestinationService, DestinationService>();
+
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();

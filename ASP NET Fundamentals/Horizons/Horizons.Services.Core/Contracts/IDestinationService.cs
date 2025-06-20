@@ -5,5 +5,7 @@
     public interface IDestinationService
     {
         Task<AllDestinationsViewModel> GetAllDestinationsAsync(string? userId);
+
+        Task<bool> AddDestinationAsync(string userId, AddDestinationFormModel formModel);
     }
 }

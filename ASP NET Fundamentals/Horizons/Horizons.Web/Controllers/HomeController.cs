@@ -9,7 +9,21 @@
     {
         public IActionResult Index()
         {
-            return View();
+            try
+            {
+                if (this.IsUserAuthenticated())
+                {
+                    return RedirectToAction(nameof(Index), "Destination");
+                }
+
+                return View();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+
+                return RedirectToAction(nameof(Index));
+            }
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

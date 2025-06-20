@@ -1,13 +1,20 @@
 ﻿namespace Horizons.Services.Core
 {
+    using System.Globalization;
+
     using Microsoft.EntityFrameworkCore;
+    using Microsoft.AspNetCore.Identity;
 
     using Horizons.Data;
+    using Horizons.Data.Models;
     using Horizons.Services.Core.Contracts;
     using Horizons.Web.ViewModels.Destination;
 
+    using static GCommon.ValidationConstants.Destination;
+
     public class DestinationService(
-        ApplicationDbContext dbContext) : IDestinationService
+        ApplicationDbContext dbContext,
+        UserManager<IdentityUser> userManager) : IDestinationService
     {
         public async Task<AllDestinationsViewModel> GetAllDestinationsAsync(string? userId)
         {
@@ -38,6 +45,42 @@
             };
 
             return viewModel;
+        }
+
+        public async Task<bool> AddDestinationAsync(string userId, AddDestinationFormModel formModel)
+        {
+            var user = await userManager.FindByIdAsync(userId);
+
+            if (user == null)
+            {
+                return false;
+            }
+
+            var terrain = await dbContext.Terrains.FindAsync(formModel.TerrainId);
+
+            if (terrain == null)
+            {
+                return false;
+            }
+
+            bool isPublishedOnDateValid = DateTime.TryParseExact(formModel.PublishedOn,
+                PublishedOnFormat, CultureInfo.InvariantCulture,
+                DateTimeStyles.None, out DateTime publishedOnDate);
+
+            var newDestination = new Destination()
+            {
+                Name = formModel.Name,
+                Description = formModel.Description,
+                ImageUrl = formModel.ImageUrl,
+                TerrainId = formModel.TerrainId,
+                PublishedOn = publishedOnDate,
+                PublisherId = userId
+            };
+
+            await dbContext.Destinations.AddAsync(newDestination);
+            await dbContext.SaveChangesAsync();
+
+            return true;
         }
     }
 }

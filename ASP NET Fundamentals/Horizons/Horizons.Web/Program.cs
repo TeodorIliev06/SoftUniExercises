@@ -27,6 +27,7 @@ namespace Horizons.Web
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
             builder.Services.AddScoped<IDestinationService, DestinationService>();
+            builder.Services.AddScoped<ITerrainService, TerrainService>();
 
             builder.Services.AddControllersWithViews();
 

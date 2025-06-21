@@ -163,5 +163,27 @@
                 return RedirectToAction(nameof(Index));
             }
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Details(int? id)
+        {
+            try
+            {
+                var userId = this.GetUserId();
+                var viewModel = await recipeService.GetRecipeDetailsAsync(id, userId);
+
+                if (viewModel == null)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+
+                return View(viewModel);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return RedirectToAction(nameof(Index));
+            }
+        }
     }
 }

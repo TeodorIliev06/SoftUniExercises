@@ -13,5 +13,7 @@
         Task<bool> AddRecipeToUserFavouritesAsync(string userId, int recipeId);
 
         Task<bool> RemoveRecipeFromUserFavouritesAsync(string userId, int recipeId);
+
+        Task<RecipeDetailsViewModel?> GetRecipeDetailsAsync(int? recipeId, string? userId);
     }
 }

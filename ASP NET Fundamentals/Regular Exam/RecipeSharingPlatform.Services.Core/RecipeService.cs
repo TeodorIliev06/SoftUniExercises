@@ -176,5 +176,44 @@
 
             return true;
         }
+
+        public async Task<RecipeDetailsViewModel?> GetRecipeDetailsAsync(int? recipeId, string? userId)
+        {
+            if (recipeId == null)
+            {
+                return null;
+            }
+
+            var recipe = await dbContext.Recipes
+                .AsNoTracking()
+                .Include(r => r.Category)
+                .Include(r => r.Author)
+                .Include(r => r.UsersRecipes)
+                .SingleOrDefaultAsync(r => r.Id == recipeId);
+
+            if (recipe == null)
+            {
+                return null;
+            }
+
+            bool isIdValid = !String.IsNullOrEmpty(userId);
+            var viewModel = new RecipeDetailsViewModel()
+            {
+                Instructions = recipe.Instructions,
+                Id = recipe.Id,
+                ImageUrl = recipe.ImageUrl,
+                CreatedOn = recipe.CreatedOn.ToString(CreatedOnFormat),
+                CategoryName = recipe.Category.Name,
+                AuthorName = recipe.Author.UserName!,
+                IsAuthor = isIdValid
+                    ? recipe.AuthorId.ToLower() == userId!.ToLower()
+                    : false,
+                IsSaved = isIdValid
+                    ? recipe.UsersRecipes.Any(ud => ud.UserId.ToLower() == userId!.ToLower())
+                    : false
+            };
+
+            return viewModel;
+        }
     }
 }

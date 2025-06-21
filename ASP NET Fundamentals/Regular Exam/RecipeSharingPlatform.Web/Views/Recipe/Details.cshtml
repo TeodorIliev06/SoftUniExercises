@@ -1,4 +1,7 @@
-﻿@* @{
+﻿@using RecipeSharingPlatform.ViewModels.Recipe
+@model RecipeDetailsViewModel
+
+@{
     ViewData["Title"] = "Recipe Details";
 }
 
@@ -25,9 +28,9 @@
             <hr />
             <p class="card-text">@Model.Instructions</p>
             <hr />
-            <p class="card-text"><small class="text-muted">Category: @Model.Category</small></p>
-            <p class="card-text"><small class="text-muted">Created On: @Model.CreatedOn.ToString("dd/MM/yyyy")</small></p>
-            <p class="card-text"><small class="text-muted">Author: @Model.Author</small></p>
+            <p class="card-text"><small class="text-muted">Category: @Model.CategoryName</small></p>
+            <p class="card-text"><small class="text-muted">Created On: @Model.CreatedOn</small></p>
+            <p class="card-text"><small class="text-muted">Author: @Model.AuthorName</small></p>
             <hr />
         </div>
         <div class="card-footer text-center">
@@ -57,4 +60,3 @@
         </div>
     </div>
 </div>
- *@

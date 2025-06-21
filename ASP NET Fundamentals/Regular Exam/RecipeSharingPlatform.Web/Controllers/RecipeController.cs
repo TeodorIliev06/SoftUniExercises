@@ -39,7 +39,7 @@
             {
                 Console.WriteLine(e.Message);
 
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Create));
             }
         }
 
@@ -91,7 +91,7 @@
 
                 if (viewModel == null)
                 {
-                    return RedirectToAction(nameof(Index));
+                    return RedirectToAction(nameof(Favorites));
                 }
 
                 return View(viewModel);
@@ -100,7 +100,7 @@
             {
                 Console.WriteLine(e.Message);
 
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Favorites));
             }
         }
 
@@ -113,7 +113,7 @@
 
                 if (id == null)
                 {
-                    return RedirectToAction(nameof(Index));
+                    return RedirectToAction(nameof(Save));
                 }
 
                 var isRecipeAddedToFavourites = await recipeService
@@ -121,7 +121,7 @@
 
                 if (!isRecipeAddedToFavourites)
                 {
-                    return RedirectToAction(nameof(Index));
+                    return RedirectToAction(nameof(Save));
                 }
 
                 return RedirectToAction(nameof(Index));
@@ -130,7 +130,7 @@
             {
                 Console.WriteLine(e);
 
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Save));
             }
         }
 
@@ -143,7 +143,7 @@
 
                 if (id == null)
                 {
-                    return RedirectToAction(nameof(Index));
+                    return RedirectToAction(nameof(Favorites));
                 }
 
                 var isRecipeRemovedFromFavourites = await recipeService
@@ -151,7 +151,7 @@
 
                 if (!isRecipeRemovedFromFavourites)
                 {
-                    return RedirectToAction(nameof(Index));
+                    return RedirectToAction(nameof(Favorites));
                 }
 
                 return RedirectToAction(nameof(Favorites));
@@ -160,7 +160,7 @@
             {
                 Console.WriteLine(e);
 
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Favorites));
             }
         }
 
@@ -182,6 +182,117 @@
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
+                return RedirectToAction(nameof(Index));
+            }
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Edit(int? id)
+        {
+            try
+            {
+                var userId = this.GetUserId();
+                var viewModel = await recipeService.GetRecipeForEditingAsync(id, userId);
+
+                if (viewModel == null)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+
+                viewModel.Categories = await categoryService.GetAllCategoriesAsync();
+
+                return View(viewModel);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return RedirectToAction(nameof(Index));
+            }
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(EditRecipeFormModel formModel)
+        {
+            try
+            {
+                if (!this.ModelState.IsValid)
+                {
+                    return RedirectToAction(nameof(Edit));
+                }
+
+                //Note: A workaround for saving the dava in required format (dd-MM-yyyy)
+                if (DateTime.TryParseExact(formModel.CreatedOn, "yyyy-MM-dd",
+                        CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime parsedDate))
+                {
+                    formModel.CreatedOn = parsedDate.ToString("dd-MM-yyyy", CultureInfo.InvariantCulture);
+                }
+
+                bool isRecipeEditPersisted = await recipeService
+                    .UpdateRecipeForEditingAsync(this.GetUserId()!, formModel);
+
+                if (!isRecipeEditPersisted)
+                {
+                    //TODO: Display an error
+                    return RedirectToAction(nameof(Edit));
+                }
+
+                return RedirectToAction(nameof(Index));
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+
+                return RedirectToAction(nameof(Index));
+            }
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Delete(int? id)
+        {
+            try
+            {
+                var userId = this.GetUserId();
+                var viewModel = await recipeService.GetRecipeForDeletionAsync(userId, id);
+
+                if (viewModel == null)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+
+                return View(viewModel);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return RedirectToAction(nameof(Index));
+            }
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> ConfirmDelete(DeleteRecipeFormModel formModel)
+        {
+            try
+            {
+                if (!this.ModelState.IsValid)
+                {
+                    return RedirectToAction(nameof(Delete));
+                }
+
+                bool isRecipeSoftDeleted = await recipeService
+                    .SoftDeleteRecipeAsync(this.GetUserId()!, formModel);
+
+                if (!isRecipeSoftDeleted)
+                {
+                    //TODO: Display an error
+                    return RedirectToAction(nameof(Delete));
+                }
+
+                return RedirectToAction(nameof(Index));
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+
                 return RedirectToAction(nameof(Index));
             }
         }

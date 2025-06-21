@@ -39,6 +39,8 @@
             builder
                 .Property(r => r.IsDeleted)
                 .HasDefaultValue(false);
+
+            builder.HasQueryFilter(r => r.IsDeleted == false);
         }
     }
 }

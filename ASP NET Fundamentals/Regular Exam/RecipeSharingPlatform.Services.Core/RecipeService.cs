@@ -215,5 +215,122 @@
 
             return viewModel;
         }
+
+        public async Task<EditRecipeFormModel> GetRecipeForEditingAsync(int? recipeId, string? userId)
+        {
+            if (recipeId == null)
+            {
+                return null;
+            }
+
+            var recipe = await dbContext.Recipes
+                .AsNoTracking()
+                .SingleOrDefaultAsync(r => r.Id == recipeId);
+
+            if (recipe == null)
+            {
+                return null;
+            }
+
+            var viewModel = new EditRecipeFormModel()
+            {
+                Id = recipe.Id,
+                Title = recipe.Title,
+                ImageUrl = recipe.ImageUrl,
+                Instructions = recipe.Instructions,
+                CreatedOn = recipe.CreatedOn.ToString(CreatedOnFormat),
+                CategoryId = recipe.CategoryId
+            };
+
+            return viewModel;
+        }
+
+        public async Task<bool> UpdateRecipeForEditingAsync(string userId, EditRecipeFormModel formModel)
+        {
+            var user = await userManager.FindByIdAsync(userId);
+
+            if (user == null)
+            {
+                return false;
+            }
+
+            bool isCreatedOnDateValid = DateTime.TryParseExact(formModel.CreatedOn,
+                CreatedOnFormat, CultureInfo.InvariantCulture,
+                DateTimeStyles.None, out DateTime createdOnDate);
+
+            if (!isCreatedOnDateValid)
+            {
+                return false;
+            }
+
+            var category = await dbContext.Categories.FindAsync(formModel.CategoryId);
+            var updatedRecipe = await dbContext.Recipes.FindAsync(formModel.Id);
+
+            if (updatedRecipe == null || category == null)
+            {
+                return false;
+            }
+
+            updatedRecipe.Title = formModel.Title;
+            updatedRecipe.Instructions = formModel.Instructions;
+            updatedRecipe.ImageUrl = formModel.ImageUrl;
+            updatedRecipe.CreatedOn = createdOnDate;
+            updatedRecipe.CategoryId = formModel.CategoryId;
+
+            await dbContext.SaveChangesAsync();
+
+            return true;
+        }
+
+        public async Task<DeleteRecipeFormModel> GetRecipeForDeletionAsync(string userId, int? recipeId)
+        {
+            if (recipeId == null)
+            {
+                return null;
+            }
+
+            var recipe = await dbContext.Recipes
+                .Include(r => r.Author)
+                .AsNoTracking()
+                .SingleOrDefaultAsync(r => r.Id == recipeId);
+
+            if (recipe == null)
+            {
+                return null;
+            }
+
+            var viewModel = new DeleteRecipeFormModel()
+            {
+                Id = recipe.Id,
+                Title = recipe.Title,
+                AuthorName = recipe.Author.UserName!,
+                AuthorId = recipe.AuthorId
+            };
+
+            return viewModel;
+        }
+
+        public async Task<bool> SoftDeleteRecipeAsync(string userId, DeleteRecipeFormModel formModel)
+        {
+            var user = await userManager.FindByIdAsync(userId);
+
+            if (user == null)
+            {
+                return false;
+            }
+
+            var deletedRecipe = await dbContext.Recipes.FindAsync(formModel.Id);
+
+            if (deletedRecipe == null)
+            {
+                return false;
+            }
+
+            deletedRecipe.IsDeleted = true;
+
+            await dbContext.SaveChangesAsync();
+
+            return true;
+        }
     }
 }

@@ -1,5 +1,22 @@
-﻿@* @{
+﻿@using System.Globalization
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using RecipeSharingPlatform.ViewModels.Recipe
+@model EditRecipeFormModel
+
+@{
     ViewData["Title"] = "Edit Recipe";
+   
+    var dateForInput = "";
+    if (!string.IsNullOrEmpty(Model.CreatedOn) &&
+        DateTime.TryParseExact(Model.CreatedOn, "dd-MM-yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime parsedDate))
+    {
+        dateForInput = parsedDate.ToString("yyyy-MM-dd");
+    }
+    else
+    {
+        // Fallback to today's date in correct format
+        dateForInput = DateTime.Now.ToString("yyyy-MM-dd");
+    }
 }
 
 <div class="d-flex justify-content-between align-items-center mb-3" style="margin-top: 20px;">
@@ -42,7 +59,7 @@
 
             <div class="col-sm-6 mb-2">
                 <label asp-for="CreatedOn" class="form-label-add-edit">Created On</label>
-                <input asp-for="CreatedOn" class="form-control" type="date" />
+                <input asp-for="CreatedOn" class="form-control" type="date" aria-required="true" value="@dateForInput" />
                 <span asp-validation-for="CreatedOn" class="text-danger"></span>
             </div>
 
@@ -57,4 +74,3 @@
         </form>
     </div>
 </div>
- *@

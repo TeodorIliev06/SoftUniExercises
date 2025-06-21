@@ -27,6 +27,9 @@
                 .HasForeignKey(ur => ur.RecipeId)
                 .IsRequired()
                 .OnDelete(DeleteBehavior.Restrict);
+
+            builder
+                .HasQueryFilter(ur => ur.Recipe.IsDeleted == false);
         }
     }
 }

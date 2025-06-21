@@ -1,4 +1,7 @@
-﻿@* @{
+﻿@using RecipeSharingPlatform.ViewModels.Recipe
+@model DeleteRecipeFormModel
+
+@{
     ViewData["Title"] = "Delete Recipe";
 }
 
@@ -12,13 +15,13 @@
         <div class="card">
             <div class="card-body">
                 <h3 class="card-title text-center">@Model.Title</h3>
-                <p class="mb-0"><strong>Published By:</strong> @Model.Author</p>
+                <p class="mb-0"><strong>Published By:</strong> @Model.AuthorName</p>
                 <p class="text-danger mt-3">
                     Are you sure you want to delete <strong>@Model.Title</strong>?
                 </p>
             </div>
             <div class="card-footer d-flex justify-content-between">
-                <form asp-action="ConfirmDelete" method="post">
+                <form asp-controller="Recipe" asp-action="ConfirmDelete" method="post">
                     <input type="hidden" asp-for="Id" />
                     <input type="hidden" asp-for="Title" />
                     <input type="hidden" asp-for="AuthorId" />
@@ -33,4 +36,3 @@
         </div>
     </div>
 </div>
- *@

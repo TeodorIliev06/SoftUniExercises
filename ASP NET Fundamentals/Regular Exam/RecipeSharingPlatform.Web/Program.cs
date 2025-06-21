@@ -1,9 +1,11 @@
-using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
-using RecipeSharingPlatform.Data;
-
 namespace RecipeSharingPlatform.Web
 {
+    using Microsoft.AspNetCore.Identity;
+    using Microsoft.EntityFrameworkCore;
+
+    using RecipeSharingPlatform.Data;
+    using RecipeSharingPlatform.Web.Infrastructure;
+
     public class Program
     {
         public static void Main(string[] args)
@@ -16,7 +18,11 @@ namespace RecipeSharingPlatform.Web
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-            builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+            builder.Services.AddDefaultIdentity<IdentityUser>(options =>
+                {
+                    options.SignIn.RequireConfirmedAccount = true;
+                    IdentityOptionsConfigurator.Configure(builder, options);
+                })
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
 

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeSharingPlatform.Web", "RecipeSharingPlatform.Web\RecipeSharingPlatform.Web.csproj", "{BAB6FCD5-D27B-4D80-99AB-21817CF658A6}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeSharingPlatform.ViewModels", "RecipeSharingPlatform.ViewModels\RecipeSharingPlatform.ViewModels.csproj", "{557DB58F-1980-4EA3-B19A-1B895728C971}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeSharingPlatform.GCommon", "RecipeSharingPlatform.GCommon\RecipeSharingPlatform.GCommon.csproj", "{C9E3A0CC-F4CB-48F5-8F6C-4C04095CF66D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeSharingPlatform.Web.Infrastructure", "RecipeSharingPlatform.Web.Infrastrucutre\RecipeSharingPlatform.Web.Infrastructure.csproj", "{477429DE-270D-40E6-8447-B64893C0FFF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C9E3A0CC-F4CB-48F5-8F6C-4C04095CF66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9E3A0CC-F4CB-48F5-8F6C-4C04095CF66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9E3A0CC-F4CB-48F5-8F6C-4C04095CF66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477429DE-270D-40E6-8447-B64893C0FFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477429DE-270D-40E6-8447-B64893C0FFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477429DE-270D-40E6-8447-B64893C0FFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477429DE-270D-40E6-8447-B64893C0FFF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -61,6 +67,7 @@ Global
 		{01E10422-237B-4615-BE52-DBB094DE56D3} = {F0E0EAE6-B94C-4A0B-8496-2FAA333F6847}
 		{FC2AEE5F-F66A-45DE-BA52-7A3152583622} = {13090C13-01A8-4631-9320-17E825560B1D}
 		{557DB58F-1980-4EA3-B19A-1B895728C971} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{477429DE-270D-40E6-8447-B64893C0FFF2} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FD7AE712-7DF1-4EDF-BF40-E68447CBB05D}

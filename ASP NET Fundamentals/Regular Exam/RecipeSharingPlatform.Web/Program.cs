@@ -4,7 +4,9 @@ namespace RecipeSharingPlatform.Web
     using Microsoft.EntityFrameworkCore;
 
     using RecipeSharingPlatform.Data;
+    using RecipeSharingPlatform.Services.Core;
     using RecipeSharingPlatform.Web.Infrastructure;
+    using RecipeSharingPlatform.Services.Core.Contracts;
 
     public class Program
     {
@@ -24,6 +26,9 @@ namespace RecipeSharingPlatform.Web
                     IdentityOptionsConfigurator.Configure(builder, options);
                 })
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+
+            builder.Services.AddScoped<IRecipeService, RecipeService>();
+
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();

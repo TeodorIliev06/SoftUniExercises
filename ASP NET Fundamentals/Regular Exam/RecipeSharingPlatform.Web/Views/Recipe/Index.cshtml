@@ -1,4 +1,7 @@
-﻿@* @{
+﻿@using RecipeSharingPlatform.ViewModels.Recipe
+@model IEnumerable<RecipeViewModel>
+
+@{
     ViewData["Title"] = "All Recipes";
 }
 
@@ -29,7 +32,7 @@
 
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">@recipe.Title</h5>
-                    <p class="card-text">Category: @recipe.Category</p>
+                    <p class="card-text">Category: @recipe.CategoryName</p>
                     <p class="card-text"><small>Favorites: @recipe.SavedCount</small></p>
                     <div class="d-flex justify-content-between mt-auto">
                         @if (User?.Identity?.IsAuthenticated == true && !recipe.IsAuthor && !recipe.IsSaved)
@@ -56,4 +59,3 @@
         </div>
     }
 </div>
- *@

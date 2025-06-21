@@ -1,5 +1,7 @@
 ﻿namespace RecipeSharingPlatform.Data
 {
+    using System.Reflection;
+
     using Microsoft.AspNetCore.Identity;
     using Microsoft.EntityFrameworkCore;
     using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
@@ -20,6 +22,8 @@
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
+
+            builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
 
             var defaultUser = new IdentityUser
             {

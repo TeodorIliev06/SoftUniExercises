@@ -10,7 +10,7 @@
         public void Configure(EntityTypeBuilder<UserRecipe> builder)
         {
             builder
-                .HasKey(ur => new { ur.DestinationId, ur.UserId });
+                .HasKey(ur => new { ur.RecipeId, ur.UserId });
 
             builder
                 .HasOne(ur =>
@@ -22,9 +22,9 @@
 
             builder
                 .HasOne(ur =>
-                    ur.Destination)
-                .WithMany(d => d.UsersDestinations)
-                .HasForeignKey(ur => ur.DestinationId)
+                    ur.Recipe)
+                .WithMany(r => r.UsersRecipes)
+                .HasForeignKey(ur => ur.RecipeId)
                 .IsRequired()
                 .OnDelete(DeleteBehavior.Restrict);
         }

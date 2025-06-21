@@ -78,5 +78,90 @@
                 return RedirectToAction(nameof(Index));
             }
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Favorites()
+        {
+            try
+            {
+                string userId = this.GetUserId();
+
+                var viewModel = await recipeService
+                    .GetUserFavouriteRecipesAsync(userId);
+
+                if (viewModel == null)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+
+                return View(viewModel);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+
+                return RedirectToAction(nameof(Index));
+            }
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Save(int? id)
+        {
+            try
+            {
+                string userId = this.GetUserId()!;
+
+                if (id == null)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+
+                var isRecipeAddedToFavourites = await recipeService
+                    .AddRecipeToUserFavouritesAsync(userId, id.Value);
+
+                if (!isRecipeAddedToFavourites)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+
+                return RedirectToAction(nameof(Index));
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+
+                return RedirectToAction(nameof(Index));
+            }
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Remove(int? id)
+        {
+            try
+            {
+                string userId = this.GetUserId()!;
+
+                if (id == null)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+
+                var isRecipeRemovedFromFavourites = await recipeService
+                    .RemoveRecipeFromUserFavouritesAsync(userId, id.Value);
+
+                if (!isRecipeRemovedFromFavourites)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+
+                return RedirectToAction(nameof(Favorites));
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+
+                return RedirectToAction(nameof(Index));
+            }
+        }
     }
 }
